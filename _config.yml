@@ -39,13 +39,14 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "someone@example.com"
-  facebook: deanattali
-  github: daattali
-  twitter: daattali
+  email: "grace.crandall9@gmail.com"
+#  facebook: deanattali
+  github: grace-ac
+  twitter: Grace_CranAlan
+  podcast: "https://bittercrab.wordpress.com/category/podcast/"
 #  patreon: DeanAttali
 #  reddit: yourname
-#  linkedin: daattali
+  linkedin: "https://www.linkedin.com/in/grace-crandall9/"
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -71,7 +72,7 @@ rss-description: This website is a virtual proof that I'm awesome
 # Select which social network share links to show in posts
 share-links-active:
   twitter: true
-  facebook: true
+  facebook: false
   linkedin: true
   vk: false
 
