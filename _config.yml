@@ -6,10 +6,10 @@
 # --- Required options --- #
 
 # Name of website
-title: Grace Crandall, MSc
+title: Grace A. Crandall, MSc
 
 # Your name to show in the footer
-author: Grace Crandall, MSc
+author: Grace A. Crandall
 
 # --- List of links in the navigation bar --- #
 
@@ -18,7 +18,7 @@ navbar-links:
   Resources:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Author's home: "https://deanattali.com"
+  Author's home: "https://grace-ac.github.io/test-repo/"
   CV: "cv/CrandallResume.pdf"
 
 # --- Logo --- #
@@ -32,7 +32,7 @@ round-avatar: true
 
 # If you want to have an image logo in the top-left corner instead of having the title of the website,
 # then specify the following parameter
-#title-img: /path/to/image
+title-img: /assets/img/CrandallGrace_headshot.jpg
 
 
 # --- Footer social media links --- #
@@ -97,12 +97,12 @@ feed_show_tags: true
 
 # Personalize the colours in your website. Colour values can be any valid CSS colour
 
-navbar-col: "#EAEAEA"
-navbar-text-col: "#404040"
-navbar-border-col: "#DDDDDD"
-page-col: "#FFFFFF"
+navbar-col: "#E65C57"
+navbar-text-col: "#E68D63"
+navbar-border-col: "#8EE66E"
+page-col: "#40E6D7"
 text-col: "#404040"
-link-col: "#008AFF"
+link-col: "#E64CD4"
 hover-col: "#0085A1"
 footer-col: "#EAEAEA"
 footer-text-col: "#777777"
