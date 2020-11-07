@@ -1,5 +1,5 @@
 ---
 layout: home
-title: Grace Crandall, MSc
+title: Grace A. Crandall, MSc
 subtitle: something
 ---
