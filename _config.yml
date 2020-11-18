@@ -15,7 +15,7 @@ author: Grace A. Crandall
 
 navbar-links:
   About Me: "aboutme"
-  Resources:
+  Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://grace-ac.github.io/test-repo/"
