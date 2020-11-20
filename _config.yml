@@ -18,7 +18,7 @@ navbar-links:
   Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
-  Lab Notebook:   
+  Lab Notebook: "notebook"  
   Publications: 
   Outreach: 
   CV: "cv/CrandallResume.pdf"
