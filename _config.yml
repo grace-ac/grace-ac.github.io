@@ -14,7 +14,6 @@ author: Grace A. Crandall
 # --- List of links in the navigation bar --- #
 
 navbar-links:
-  Home: index.md
   Projects:
     - Beautiful Jekyll: "https://beautifuljekyll.com"
     - Learn markdown: "https://www.markdowntutorial.com/"
