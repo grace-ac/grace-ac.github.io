@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: page
 title: Grace A. Crandall
 subtitle: something
 ---
