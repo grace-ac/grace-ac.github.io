@@ -15,7 +15,7 @@ author: Grace A. Crandall
 
 navbar-links:
   Projects:
-    - Alaska Tanner crab: "https://beautifuljekyll.com"
+    - Alaska Tanner crab: "projects/tannercrab.md"
     - Pacific oyster: "https://www.markdowntutorial.com/"
     - Pacific geoduck: 
   Lab Notebook: "notebook"  
