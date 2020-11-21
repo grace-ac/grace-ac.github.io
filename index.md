@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Grace A. Crandall
-subtitle: something
+subtitle: 
 ---
 
 Hello! Welcome to my new website! My name is Grace Crandall, and I am a recent graduate from the School of Aquatic and Fishery Sciences at the University of Washington and received an MSc in June 2020. 
