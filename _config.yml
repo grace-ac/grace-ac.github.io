@@ -20,6 +20,11 @@ navbar-links:
     - Pacific geoduck: 
   Lab Notebook: "notebook"  
   Publications: 
+    - Impacts of temperature on the molecular response of shellfish (MS thesis): "https://digital.lib.washington.edu/researchworks/handle/1773/46010"
+    - Integrating Discovery-driven Proteomics and Selected Reaction Monitoring to Develop a Noninvasive Assay for Geoduck Reproductive Maturation: "https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.7b00288" 
+    - Characterization of Reproductive Maturation in Geoduck Clams (Panopea generosa): "http://owl.fish.washington.edu/scaphapoda/grace/Histology-images/Geoduck_maturation_2015/Crandall-ResearchPaper.pdf"
+            - Dataset on figshare: "https://figshare.com/articles/dataset/Reproductive_Maturation_in_Geoduck_clams_Panopea_generosa_/3205975" 
+
   Outreach: 
   CV: "cv/CrandallResume.pdf"
 
