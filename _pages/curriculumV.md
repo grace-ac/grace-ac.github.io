@@ -2,7 +2,7 @@
 layout: single
 title: "Curriculum Vitae"
 sitemap: false
-permalink: /Curriculum/
+permalink: /CurriculumVitae/
 author_profile: TRUE
 header:
   image: assets/images/banner.jpg
