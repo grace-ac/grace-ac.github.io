@@ -24,7 +24,7 @@ navbar-links:
     - Integrating Discovery-driven Proteomics and Selected Reaction Monitoring to Develop a Noninvasive Assay for Geoduck Reproductive Maturation: "https://pubs.acs.org/doi/abs/10.1021/acs.jproteome.7b00288" 
     - Characterization of Reproductive Maturation in Geoduck Clams (Panopea generosa): "http://owl.fish.washington.edu/scaphapoda/grace/Histology-images/Geoduck_maturation_2015/Crandall-ResearchPaper.pdf"
     - Reproductive Maturation in Geoduck Figshare (dataset from Capstone thesis on figshare): "https://figshare.com/articles/dataset/Reproductive_Maturation_in_Geoduck_clams_Panopea_generosa_/3205975"
-  Outreach: 
+  Outreach: "outreach"
   CV: "cv/Crandall-Resume.md"
 
 # --- Logo --- #
