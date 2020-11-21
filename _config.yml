@@ -21,7 +21,7 @@ navbar-links:
   Lab Notebook: "notebook"  
   Publications: "publications"
   Outreach: "outreach"
-  CV: "cv/Crandall-CV.pdf"
+  CV: "/CurriculumVitae"
   Home: ""
 
 # --- Logo --- #
