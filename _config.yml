@@ -21,7 +21,7 @@ navbar-links:
   Lab Notebook: "notebook"  
   Publications: "publications"
   Outreach: "outreach"
-  CV: "/CurriculumVitae/"
+  CV: "/cv/"
   Home: ""
 
 # --- Logo --- #
