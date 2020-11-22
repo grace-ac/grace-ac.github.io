@@ -19,7 +19,7 @@ navbar-links:
     - Pacific oyster: "projects/pacificoyster"
     - Pacific geoduck: "projects/pacificgeoduck"
   Lab Notebook: "notebook"  
-  Publications: "publications"
+  Publications/Products: "publications"
   Outreach: "outreach"
   CV: "cv/Crandall-CV.pdf"
   Home: "index"
