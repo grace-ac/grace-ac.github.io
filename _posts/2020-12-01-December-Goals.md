@@ -16,5 +16,6 @@ Goals for December in post!
 ### Misc. goals
 - Finish staging geoduck slides (GitHub Issue with details: [here](https://github.com/RobertsLab/resources/issues/1008))
 - Help Yaamini with RNA and DNA extractions
+- Create a helpful step-by-step on how to create and publish a podcast 
 - Clean up lab notebook tags (they're a mess)
 - Work on my website 
