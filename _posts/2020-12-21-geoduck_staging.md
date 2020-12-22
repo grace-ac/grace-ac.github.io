@@ -13,7 +13,7 @@ Today I wrapped up staging geoduck histology slides for reproductive maturation 
 - The capstone paper, specifically tables 1 and 2 where I detailed the parameters for each stage for females and males, respectively (Can be found at the figshare link, also screenshots of tables below:)
 
 Females (Table 1 from Capstone paper):       
-![img](..notebook-images/20201221-geoduck-slides/female_stage_table.png)
+![img](../notebook-images/20201221-geoduck-slides/female_stage_table.png)
 
 Males (Table 2 from Capstone paper):       
 ![img](../notebook-images/20201221-geoduck-slides/males_stages_table.png)
