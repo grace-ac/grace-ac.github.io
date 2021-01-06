@@ -3,6 +3,7 @@ layout: post
 title: April 2020 Goals
 date: '2020-05-01'
 category: MonthlyGoals
+tags: [bairdi, DIAOyster, thesis]
 ---
 
 ### Crab
