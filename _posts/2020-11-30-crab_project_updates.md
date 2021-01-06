@@ -3,6 +3,7 @@ layout: post
 title: Crab Project Updates and Next Steps
 date: '2020-11-30'
 category: bairdi
+tags: bairdi
 ---
 This post details what's been going on with the crab paper. The paper is almost done!!! 
 
