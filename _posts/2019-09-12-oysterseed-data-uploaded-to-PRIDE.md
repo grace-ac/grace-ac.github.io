@@ -2,7 +2,8 @@
 layout: post
 title: Oysterseed project progress; Data uploaded to PRIDE
 date: '2019-09-12'
-category: Oysterseed2015
+category: DIAOyster
+tags: [DIAOyster]
 ---
 Today I officially got an email that the RAW oysterseed data and *.elib search files have successfully been uploaded and published on PRIDE. I have some plans for finishing up this oysterseed project by October 20th, details in post. 
 
