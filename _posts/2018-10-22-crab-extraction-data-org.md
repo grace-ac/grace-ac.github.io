@@ -3,7 +3,7 @@ layout: post
 title: Crab Project - try RNeasy Kit on some samples; Adding Qubit data to sample file
 date: '2018-10-22'
 category: bairdi
-tags: [RNAisolation, R]
+tags: [RNAIsolation, R, bairdi]
 ---
 Today, Steven, Sam, and I discussed where we're at with the crab samples and RNA extraction. We decided to extract some samples using the RNeasy Mini Plus Kit from Qiagen that Sam has already used and had decent results. In the meantime, I'll be working on creating a little metadata analysis comparing the different methods used so far, the yields, whether the samples were lyophilized, etc. To do this, I had to figure out how to add the new Qubit data to the crab sampling file. I think I've figured out a general work flow in R, and Sam helped me out with some codes to fix some errors I was having.
 
