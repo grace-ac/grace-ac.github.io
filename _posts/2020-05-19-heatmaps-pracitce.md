@@ -3,6 +3,7 @@ layout: post
 title: Heatmap Practice
 date: '2020-05-19'
 category: bairdi
+tags: [bairdi, analyses]
 ---
 Today I've been playing with heatmaps and have been able to make quite a few. Now, I'm just going to keep making a bunch from the individual crab RNAseq data to see if there are any interesting patterns. However, I am struggling to get the Trinity ID counts from the 2020 Genewiz samples (individual crabs) annotated with transcriptome v. 1.5 `blast` output and Uniprot-SP-GO annotation... which means that I'm kind of just mapping random genes... 
 
