@@ -2,8 +2,8 @@
 layout: post
 title: November Goals
 date: '2018-11-01'
-category: [MonthlyGoals]
-tags: [bairdi, 2015Oysterseed]
+category: MonthlyGoals
+tags: [bairdi, DIAOyster]
 ---
 ## Crab Project
 -----
