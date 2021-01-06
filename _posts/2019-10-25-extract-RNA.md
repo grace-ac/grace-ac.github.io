@@ -3,7 +3,7 @@ layout: post
 title: Crab RNA extractions with Qubit results
 date: '2019-10-25'
 category: bairdi
-tags: [Zymo, RNAisolation, Qubit]
+tags: [Zymo, RNAIsolation, Qubit, bairdi]
 ---
 Today I ran 2ul of the 24 samples I extracted yesterday. 20 out of 24 had RNA. Details in post. 
 
