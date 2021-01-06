@@ -3,7 +3,7 @@ layout: post
 title: Bairdi hemolymph extraction plan (work in progress)
 date: '2019-03-14'
 category: bairdi
-tags: [RNAisolation, RNeasy]
+tags: [RNAIsolation, RNeasy, bairdi]
 ---
 Here's the general extraction plan after feedback from lab meeting today. I am planning on getting started on extractions next Tuesday (I'll be done with end-of-quarter work and my online SCUBA class by then!). (Edited this post a lot since my original post this morning)
 
