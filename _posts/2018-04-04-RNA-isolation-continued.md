@@ -3,7 +3,7 @@ layout: post
 title: RNA Isolation, continued, and plan for tomorrow
 date: '2018-04-04'
 categories: bairdi
-tags: RNAisolation, Tannercrab, hemolymph, crabproject, Qubit
+tags: [RNAIsolation, bairdi, hemolymph, Qubit]
 ---
 More RNA isolation - successful! Plan for tomorrow - Crab mtg #2 and work on DecaPod with Pam.
 
