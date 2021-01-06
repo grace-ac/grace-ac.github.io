@@ -3,7 +3,7 @@ layout: post
 title: Day 12, cold and warm, infected, uninfected RNA extractions - RNA in 24/24 samples
 date: '2019-11-01'
 category: bairdi
-tags: [Zymo, RNAisolation]
+tags: [Zymo, RNAIsolation, bairdi]
 ---
 Today, Sam, Steven and I met to discuss a pooling plan for libraries (details in post). From that meeting it was decided that I should extract RNA from more day 12 samples, specfically from cold, warm, and infected and uninfected treatments. All 24 samples had RNA. An updated sample summary is provided at the end of the post. 
 
