@@ -3,7 +3,7 @@ layout: post
 title: RNeasy Kit Extraction with 12 samples - RNA in 1/12
 date: '2019-04-03'
 category: bairdi
-tags: [RNeasy, RNAisolation]
+tags: [RNeasy, RNAIsolation, bairdi]
 ---
 Today I did the RNeasy Plus Micro Kit protocol (without the vacuum) on 12 samples (taken from the 24 that I did last time). Of the 12, only 1 had detectable RNA. The rest were all "Out of Range: TOO LOW". Details in post below. 
 
