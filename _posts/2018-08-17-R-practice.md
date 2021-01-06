@@ -3,7 +3,7 @@ layout: post
 title: Streamlining Processing of Adding Qubit data to Master file
 date: '2018-08-17'
 category: bairdi
-tags: R, Crabproject
+tags: [R, bairdi]
 ---
 Today I played around with GitHub and R Projects. I've figured out a way of making adding Qubit results to my hemolymph and Qubit results master file more easy. It isn't perfect and there are likely some things that I don't know about that could make it easier, but I've detailed the new method below. I also noticed today that the tube_number column in what I did yesterday got all messed up with the merge in R. Detailed below. 
 
