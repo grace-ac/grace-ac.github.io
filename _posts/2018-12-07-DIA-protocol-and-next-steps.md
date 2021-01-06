@@ -2,8 +2,8 @@
 layout: post
 title: DIA protocol, and Next Steps
 date: '2018-12-07'
-category: 2015Oysterseed
-tags: DIA
+category: DIAOyster
+tags: DIAOyster
 ---
 Today I worked on documenting what I did (writing up a protocol of sorts) that is in progress. I am re-doing a couple steps just so that I'm ABSOLUTELY certain where files came from, and I'm putting all the new outputs in a brand-new directory so that it's just all more organized. I will upload all of the directory and files into a new folder in OWL, which will be linked out in the new protocol. I also got some input on how to set the thresholds that we talked about in the proteomics meeting yesterday, so I'll try that Monday once my process is fully documented so I can just focus on analysis. 
 
