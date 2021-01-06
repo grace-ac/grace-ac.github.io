@@ -3,7 +3,7 @@ layout: post
 title: "Tried some more GO-MWU stuff - not great - switching gears"
 date: '2020-04-21'
 category: bairdi
-tags: GO-MWU
+tags: [GOMWU, bairdi]
 ---
 
 Today I tried some more `GO-MWU` stuff, but it didn't really do much. After input at lab meeting, I tried using DAVID first, then GO-MWU... got 1 enriched biological process. Meeting with Steven --> new plan of things to focus on for now (writing, results we have). Details in post. 
