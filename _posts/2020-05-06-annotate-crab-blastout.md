@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Create annotated crab transcriptome BLAST `join` with uniprot SP GO
-date:'2020-05-06'
+date: '2020-05-06'
 category: bairdi
 tags: bairdi
 ---
