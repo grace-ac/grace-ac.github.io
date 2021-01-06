@@ -2,7 +2,7 @@
 layout: post
 title: Crab Project Updates
 categories: bairdi
-tags: RNAisolation, DecaPod, Qubit, updates, 
+tags: [RNAIsolation, DecaPod, Qubit]
 ---
 Updates on RNA isolation and Qubit progress and DecaPod progress and plan. Finally post S1E1 on project background!
 
