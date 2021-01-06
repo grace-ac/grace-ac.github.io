@@ -3,6 +3,7 @@ layout: post
 title: Podcast thoughts and Crab hemoolymph samples
 date: '2018-01-26'
 categories: bairdi
+tags: [podcast, bairdi]
 ---
 
 Initial info on making a Podcast from Audacity workshop at UW and Crab Hemolymph samples next steps - testing out the RNA isolation protocol.
