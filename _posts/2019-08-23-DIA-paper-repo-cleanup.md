@@ -2,7 +2,8 @@
 layout: post
 title: DIA Oysterseed Project - Finishing up Paper and cleaning up repo - in progress
 date: '2019-08-23'
-category: 2015Oysterseed
+category: DIAOyster
+tags: DIAOyster
 ---
 I've been working on finally wrapping up the 2015 Oysterseed DIA project. I feel like I've tied off the paper fairly well this past week, and have been working on cleaning up and organizing the repository today. Details in post. 
 
