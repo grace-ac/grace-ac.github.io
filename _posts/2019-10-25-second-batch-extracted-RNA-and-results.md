@@ -3,7 +3,7 @@ layout: post
 title: Second batch of 24 Crab hemolymph samples - RNA extracted and qubit results
 date: '2019-10-25'
 category: bairdi
-tags: [Zymo, RNAisolation, Qubit]
+tags: [Zymo, RNAIsolation, Qubit, bairdi]
 ---
 Today I did another round of Day 9 infected (12) and uninfected (12) tanner crab hemolymph RNA extractions. I also ran 2ul of the eluted 15ul RNA on Qubit. Results and details in post. 
 
