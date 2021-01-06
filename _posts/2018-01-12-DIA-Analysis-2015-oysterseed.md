@@ -2,8 +2,8 @@
 layout: post
 title: 2015 Oysterseed DIA Analysis Update
 date: '2018-01-12'
-category: 2015Oysterseed
-tags: DIA
+category: DIAOyster
+tags: DIAOyster
 ---
 
 Update on DIA anaylsis of the 2015 Oysterseed project, working on determining the error rate of Skyline's peak picking. 
