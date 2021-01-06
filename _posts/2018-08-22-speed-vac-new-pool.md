@@ -3,7 +3,7 @@ layout: post
 title: Speed Vac New Pool of 15 Samples
 date: '2018-08-22'
 category: bairdi
-tags: SpeedVac
+tags: [SpeedVac, bairdi]
 ---
 Today I speed vac-ed the new pool of 15 samples for a little over three hours. There is still more than 50ul in the tube, so I'll put it back in the speed vac as soon as I am in tomorrow morning. 
 

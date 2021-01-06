@@ -3,7 +3,7 @@ layout: post
 title: RNA iso with new protocol
 date: '2018-03-28'
 categories: bairdi
-tags: RNAisolation
+tags: [RNAIsolation, bairdi]
 ---
 Today I use the updated version of the RNA isolation protocol and find that it is so much better and isolating RNA than the generalized protocol. This one is based on what Sam did with extra samples from Sam in the fall of 2017. It adds some extra mixing and centrifuging steps that appear to be the key. Good results. 
 

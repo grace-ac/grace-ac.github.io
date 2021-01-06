@@ -3,7 +3,7 @@ layout: post
 title: Sent BLAST to Mox, and Plan for rest of Week
 date: '2018-11-06'
 category: bairdi
-tags: [BLAST, Mox]
+tags: [BLAST, Mox, bairdi]
 ---
 I sent a ```.sh``` to Mox to perform a BLAST with my assembled _C. bairdi_ transcriptome and swiss prot. I am also working on figuring out how to do this on Hummingbird (on ```toaster/grace```). Additionally, I have come up with a list of things I want to accomplish this week!
 

@@ -3,6 +3,7 @@ layout: post
 title: Crab Meeting Notes
 date: '2019-07-29'
 category: bairdi
+tags: [CrabMeeting, bairdi]
 ---
 Today we had our first crab meeting in MONTHS. Not much has changed due to the fact that we're still waiting for our sequence data, but we discussed some things to do in the interim, met Shanelle and talked about her project and what she'll be doing in our lab, and also talked about how I should start looking into conferences to present the research at!
 

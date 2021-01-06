@@ -3,7 +3,7 @@ layout: post
 title: RNA isolation protocol and plan for tomorrow
 date: '2018-02-13'
 categories: bairdi
-tags: RNAisolation
+tags: RNAIsolation
 ---
 Tommorrow I will be trying out RNA isolation on 2 extra Tanner crab hemolymph samples.
 Try protocol with 2 samples: 465 and 468

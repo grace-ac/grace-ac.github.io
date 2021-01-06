@@ -2,7 +2,8 @@
 layout: post
 title: New DEG list comparing temperature - annotation, enrichment; annotation of oyster differentially abundant protein list
 date: '2020-05-18'
-categories: [Oyster; bairdi]
+categories: [DIAOyster, bairdi]
+tags: [DIAOyster, bairdi, analyses]
 ---
 Today I worked with the new DEG list from `DESeq2` - comparing elevated (10˚C) and decreased (4˚C) temperature treatments. Annotated with uniprot-SP-GO and used DAVID to get enriched biological processes. Additionally, since it could be interesting to compare between oyster and crab projects, I annotated the list of differentially abundant proteins from the oyster project. 
 

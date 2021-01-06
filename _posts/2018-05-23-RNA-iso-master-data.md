@@ -3,7 +3,7 @@ layout: post
 title: RNA isolations for warm day 12 and master data file organization
 date: '2018-05-23'
 category: bairdi
-tags: RNAisolation, DataOrg
+tags: [RNAIsolation, DataOrganization]
 ---
 Isolate RNA from warm crabs day 9 and 12 (crabs didn't make it to day 26). Work more on creating a master file of all data associated with the crab project.
 

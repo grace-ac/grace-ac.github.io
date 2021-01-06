@@ -3,6 +3,7 @@ layout: post
 title: Closer to having some pooled libraries!
 date: '2019-05-09'
 category: bairdi
+tags: [Sequncing, bairdi]
 ---
 Sam extracted RNA using the Quick DNA/RNA Microprep Plus Kit (ZymoResearch) ([post](https://robertslab.github.io/sams-notebook/2019/04/30/RNA-Isolation-and-Quantification-C.bairdi-Hemolymph-Pellet-in-RNAlater.html)). I don't think there is currently enough RNA in the libraries to reach the requiremets for NWGC... details in post. 
 

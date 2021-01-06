@@ -3,7 +3,7 @@ layout: post
 title: R and figuring out qPCR and DNA Qubit data
 date: '2018-05-14'
 category: bairdi
-tags: Rscript
+tags: [R, DataOrganization]
 ---
 Trying out a join in R to figure out what I have in terms of isolated RNA samples. 
 

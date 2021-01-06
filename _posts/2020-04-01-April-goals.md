@@ -3,6 +3,7 @@ layout: post
 title: April 2020 Goals
 date: '04-01-2020'
 category: MonthlyGoals
+tags: [bairdi, DIAOyster]
 ---
 
 ## Oyster Paper

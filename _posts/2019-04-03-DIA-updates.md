@@ -1,9 +1,9 @@
 ---
 layout: post
-title: Re-do MS Stats; DIA 2015 Cgseed Updates
+title: Re-do MS Stats; DIA 2015 Oyster Updates
 date: '2019-04-03'
-category: 2015Oysterseed
-tags: MSStats
+category: DIAOyster
+tags: [MSStats, DIAOyster]
 ---
 Today I got some more input from Emma regarding the reports to export from Skyline to analyze. I exported a new MS Stats report (the built-in one from Skyline) and also made the bioreplicates in the file accurate (details in post). Additionally, I exported a new report that includes information that should help us get to the point of comparing 23C and 29C proteins, and identifying the proteins expressed in total. 
 

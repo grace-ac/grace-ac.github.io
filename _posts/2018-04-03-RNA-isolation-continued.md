@@ -3,7 +3,7 @@ layout: post
 title: RNA Isolation continued
 date: '2018-04-03'
 categories: bairdi
-tags: RNAisolation, Tannercrab, hemolymph, crabproject, Qubit
+tags: [RNAIsolation, bairdi, hemolymph, Qubit]
 ---
 Today I continue RNA isolation using the newer version of the protocol. Successful day!
 

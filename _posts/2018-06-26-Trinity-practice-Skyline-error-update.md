@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Learning more about Trinity and working with large data sets; Update on Skyline issue
-categories: [bairdi, 2015Oysterseed[
-tags: Trinity, DIA
+date: '2018-06-26'
+categories: [bairdi, DIAOyster]
+tags: [Trinity, DIAOyster, bairdi]
 ---
 Today I read more about using Trinity and functional genomics as well as got some information back from Nick from Skyline in regards to my high error rate in peak-picking.
 

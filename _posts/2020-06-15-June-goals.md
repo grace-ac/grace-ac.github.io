@@ -3,6 +3,7 @@ layout: post
 title: June 2020 Goals
 date: '2020-06-15'
 category: MonthlyGoals
+tags: [bairdi, thesis, DIAOyster]
 ---
 Writing this halfway through the month of June, but it's ok. 
 

@@ -3,7 +3,7 @@ layout: post
 title: Trizol LS Reagent RNA Extraction Attempt #2
 date: '2019-01-24'
 category: bairdi
-tags: [RNAisolation, TrizolLS]
+tags: [RNAIsolation, TrizolLS, bairdi]
 ---
 Today I tried the TrizolLS Reagent extraction again, but added a vortex (5s) step after the addition of chloroform to the samples. Throughout the extraction, the samples looked pretty similar to how they did during my last attempt, and the Qubit results were the same: "out of range". 
 

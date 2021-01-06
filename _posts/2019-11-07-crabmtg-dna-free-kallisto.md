@@ -3,7 +3,7 @@ layout: post
 title: DNA-free, Qubit, and Bioanalyzer Plan; Kallisto work
 date: '2019-11-07'
 category: bairdi
-tags: [Qubit, DNA-free, CrabMtg, Kallisto, Bioanalyzer]
+tags: [Qubit, CrabMeeting, Kallisto, Bioanalyzer, bairdi]
 ---
 Today we came up with a plan to address the issues that came up with the weird bioanalyzer results from yesterday (GitHub Issue #[792](https://github.com/RobertsLab/resources/issues/792)). I also got some help with kallisto and am working on getting some analysis done for looking at differential expression (hopefully have some new results for GSS talk next week). 
 

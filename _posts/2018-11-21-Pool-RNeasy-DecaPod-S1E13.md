@@ -3,7 +3,7 @@ layout: post
 title: Cold, Infected Pool with RNeasy and DecaPod S1E13
 date: '2018-11-21'
 category: bairdi
-tags: [DecaPod, RNeasy]
+tags: [DecaPod, RNeasy, bairdi]
 ---
 Today I edited and published S1E13 of DecaPod. In this episode I interview Madi Shipley (MS, SAFS) who works with Bering Sea Tanner crabs. I also extracted RNA from 8 samples (all Cold, infected, Day 26) using Qiagen RNeasy and definitely have enough RNA for a pool!
 

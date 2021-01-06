@@ -3,7 +3,7 @@ layout: post
 title: Sent samples to Genewiz
 date: '2020-02-12'
 category: bairdi
-tags: [RNAseq, Genewiz]
+tags: [Sequencing, Genewiz, bairdi]
 ---
 Today I shipped samples to Genewiz for individual RNAseq. Details in post. 
 

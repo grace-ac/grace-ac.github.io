@@ -2,7 +2,8 @@
 layout: post
 title: qPCR Machine arrival and training and Crab data and DIA updates
 date: '2018-01-23'
-tags: qPCR
+categories: [DIAOyster, bairdi]
+tags: [qPCR, bairdi, DIAOyster]
 ---
 
 New qPCR machine arrived, training with Brian, and preliminary crab hemolymph sample picking for RNA isolation.

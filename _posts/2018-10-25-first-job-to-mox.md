@@ -3,7 +3,7 @@ layout: post
 title: Sent First Trinity Assembly Job to Mox!
 date: '2018-10-25'
 category: bairdi
-tags: [Trinity, Mox, Assembly]
+tags: [Trinity, Mox, bairdi]
 ---
 Today, with Steven's guidance, I sent the first job to mox! I am not sure if it will work, but I have it set up to get email notification when the job finishes. Below I provide the link to the .sh script to run Trinity as well as the command line code to run Trinity on mox. I also am starting to work on creating a BLAST pipeline ready. I provide the link to what I'm working on. Currently it's in a jupyter notebook, but Steven said that this can also be done on Mox, so I'll work on making it into an .sh script and create GitHub issues to get it checked out by Steven and Sam. 
 

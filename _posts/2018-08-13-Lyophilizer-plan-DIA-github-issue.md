@@ -2,8 +2,8 @@
 layout: post
 title: New Plan - Lyophilizer; DIA Github Issue
 date: '2018-08-13'
-categories: [bairdi, 2015Oysterseed]
-tags: DIA, Skyline, Lyophilizer, Crab
+categories: [bairdi, DIAOyster]
+tags: [DIAOyster, Skyline, Lyophilizer, bairdi]
 ---
 Today I met with Steven and Sam to make a new plan for the crab RNA problem. We're going to use the lyophilizer (freeze drying machine that goes below -80˚C) on 8 new pelleted hemolymph samples from Day 26; 8 supernatant samples that correspond to those 8 pelleted; and a pooled sample of all the ones Sam processed using the Qiagen RNeasy Kit that had "out of range" Qubit results. This will have to be post-poned for a bit becuase the lyophilizer is currently being fixed... waiting for an ETA on that. In regards to Skyline, I re-visited what I did before I left for vacation and went through all the files used and settings chosen. I put all of the information in a new GitHub issue per Steven's request. 
 

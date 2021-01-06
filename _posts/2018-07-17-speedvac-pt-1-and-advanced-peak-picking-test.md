@@ -2,8 +2,8 @@
 layout: post
 title: Speed Vac Pt. 1 + Testing Advancing Peak Picking in Skyline
 date: '2018-07-17'
-categories: [bairdi, 2015Oysterseed]
-tags: SpeedVac, Skyline
+categories: [bairdi, DIAOyster]
+tags: [SpeedVac, Skyline, DIAOyster, bairdi]
 ---
 CRAB RNA POOLS: Today I started using the Speed Vac on the three pools with Sam. They were running on low temperature from 10:30am to 1:15pm. Not much liquid had evaporated. From 1:15pm-3:15pm they were run on medium temperature. Still not enough liquid has evaporated, so Sam will put them in the Speed Vac when he gets to FTR tomorrow morning. SKYLINE: I tested out the tutorial that the people from Skyline suggested I try out. Not sure how it turned out honestly, but Emma said she can take a look at it with me tomorrow.
 

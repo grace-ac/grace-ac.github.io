@@ -3,7 +3,7 @@ layout: post
 title: More Tri-reagent Extractions
 date: '2018-10-10'
 category: bairdi
-tags: RNAisolation
+tags: [RNAIsolation, bairdi]
 ---
 Today I extracted RNA from 10 samples from Day 26. These still had all three samples in the box, so they are all ###-1 tubes. The QUbit wouldn't let me download the data from the USB. I'm not sure why, but luckily I wrote down, as I always do, the reads for each tube number. Out of the 10, 7 had quantifiable RNA by the RNA HS Qubit. 
 

@@ -2,8 +2,8 @@
 layout: post
 title: Geoduck Egg Development Test at Taylor Hatchery
 date: '2019-06-07'
-category: TaylorHatchery
-tags: [egg-dev]
+category: GeoduckTaylor
+tags: [GeoduckStripSpawn, geoduck]
 ---
 Today I looked into trying to figure out why we saw polar body development as early as we did last week during the first trial of KCl-dosage experiments ([Day1](https://grace-ac.github.io/day1-geo-stripspawn/), [Day2](https://grace-ac.github.io/taylor-stripspawn-day2/)). Details of the experiment are below, but there was egg development in the negative control (no sperm, no KCl), so I'm not sure what this all means. 
 

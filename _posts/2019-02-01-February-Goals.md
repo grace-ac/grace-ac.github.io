@@ -2,8 +2,8 @@
 layout: post
 title: February Goals
 date: '2019-02-01'
-category: bairdi
-tags: [MonthlyGoals]
+category: MonthlyGoals
+tags: [bairdi, DIAOyster]
 ---
 ### 2015 Oysterseed DIA 
 - continue to work on the paper and figures 

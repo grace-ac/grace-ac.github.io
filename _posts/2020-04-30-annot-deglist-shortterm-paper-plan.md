@@ -3,6 +3,7 @@ layout: post
 title: Annotate 2019 infection status DEG list; short-term paper plan
 date: '2020-04-30'
 category: bairdi
+tags: [bairdi, analyses]
 ---
 Today I read a lot about crustacean immune systems and macropinocytosis. Notes in my crab paper. Additionally, SR and I met and chatted about short-term plan. I annotated the 2019 infection status DEG list. Details in post
 

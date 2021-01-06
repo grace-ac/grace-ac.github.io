@@ -2,8 +2,8 @@
 layout: post
 title: Re-tried Skyline DIA 
 date: '2018-08-31'
-category: 2015Oysterseed
-tags: [Skyline, DIA]
+category: DIAOyster
+tags: [Skyline, DIAOyster]
 ---
 Today I re-tried the Skyline DIA 2015 Oysterseed protocol. Emma has been pretty busy teaching her course these past several weeks and hasn't been able to get back to me on my GitHub issue ([#341](https://github.com/RobertsLab/resources/issues/341)). I re-did the protocol using the same files and quadruple checking all the settings. Things still look mediocre. I'll post the new .zip to today's file on the GitHub issue so she can take a look at it when she has time. 
 

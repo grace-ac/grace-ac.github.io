@@ -2,8 +2,8 @@
 layout: post
 title: Update on Crab Pooling and Plan for next week-ish
 date: '2018-06-19'
-categories: [bairdi, 2015Oysterseed]
-tags: DecaPod, DIA, Pooling
+categories: [bairdi, DIAOyster]
+tags: [DecaPod, DIAOyster, bairdi, Sequencing]
 ---
 Today I met with Steven to talk briefly about the crab sample pooling (need more info on how to proceed- will wait for Sam's return in 1.5 weeks), and about things I can do in the interim while the samples are being sequenced: practicing Trinity with Geoduck transcriptome data; DecaPod; 2015 Oysterseed project. 
 

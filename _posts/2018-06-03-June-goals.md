@@ -3,8 +3,7 @@ layout: post
 title: June Goals
 date: '2018-06-03'
 category: MonthlyGoals
-tags: Crabproject, DIA, Oysterseed, goals
-
+tags: [bairdi, DIAOyster]
 ---
 
 2015 Oysterseed 

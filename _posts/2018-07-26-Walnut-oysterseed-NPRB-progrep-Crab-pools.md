@@ -2,8 +2,8 @@
 layout: post
 title: Trying out Walnut; Crab Pool Update
 date: '2018-07-26'
-categories: [bairdi, 2015Oysterseed]
-tags: Walnut, Skyline, RNASeq
+categories: [bairdi, DIAOyster]
+tags: [Walnut, Skyline, Sequencing, bairdi]
 ---
 Today I started using Walnut (upgraded PECAN) to create a new BLIB file for the 2015 Oysterseed project. Hopefully this will improve the error rates in Skyline. Also, I called Pam to work on the NPRB progress report. Additionally, I detail Sam's updates on the status of the Crab pool samples from his [notebook post](http://onsnetwork.org/kubu4/2018/07/19/rna-cleanup-tanner-crab-rna-pools/). The RNA needs some cleaning so he suggests trying RNeasy Cleanup Kit. I will wait until he returns Monday and speak in person with him and Steven to figure out what to do next. 
 

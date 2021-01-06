@@ -3,6 +3,7 @@ layout: post
 title: October 2019 Goals
 date: '2019-10-01'
 category: MonthlyGoals
+tags: [bairdi, DIAOyster, thesis]
 ---
 ### Crab
 - Work on [paper](https://docs.google.com/document/d/1xZjT_2ix39jhFGhPjUqjOIubCEZfnl9yDddIjR3nY38/edit)    

@@ -2,8 +2,8 @@
 layout: post
 title: Sampling for D-hinge development
 date: '2019-06-12'
-category: TaylorHatchery
-tags: geo-stripspawn
+category: GeoduckTaylor
+tags: [GeoduckStripSpawn, geoduck]
 ---
 Today I sampled the buckets for D-hinge development. Overall numbers were low, considering that we put 300,000 eggs in each bucket. The best group was treatment group 2: no KCl exposure, but fertilized. Details in post: 
 

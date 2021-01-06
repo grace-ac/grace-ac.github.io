@@ -2,8 +2,8 @@
 layout: post
 title: Crab Pools and Skyline Update
 date: '2018-07-18'
-categories: [bairdi, 2015Oysterseed]
-tags: RNASeq, Skyline
+categories: [bairdi, DIAOyster]
+tags: [Sequencing, Skyline, bairdi, DIAOyster]
 ---
 Today Sam speed vac-ed the pools and put them on ice. We mixed the samples and ran Qubit. The readings were way too low. Sam got out hte Nanodrop and we ran them on that... and the readings were bad. Since I am out of town the rest of this week and half of next, Sam is going to try to fix some things, detailed below. In terms of Skyline, Emma has been in contact with Nick today and others from the Skyline crew. She is working on figuring out what the issue is with my super high error rates. At the end of today's post, I also outline rest of July goals and summer goals. 
 

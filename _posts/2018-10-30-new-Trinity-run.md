@@ -3,7 +3,7 @@ layout: post
 title: Re-run Trinity with correct files
 date: '2018-10-30'
 category: bairdi
-tags: [Trinity, Mox]
+tags: [Trinity, Mox, bairdi]
 ---
 Today I re-ran Trinity because the original files I used that I downloaded to my computer from nightingales were too small and not .fastq.gz. Sam showed me how to do ```rsync``` from nightingales to mox. I also am working on doing a BLAST with the finished Trinity.fasta that is too small so that once my real assembled transcriptome is ready, I'll have a pipeline set up.
 

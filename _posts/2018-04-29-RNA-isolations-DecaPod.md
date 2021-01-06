@@ -3,7 +3,7 @@ layout: post
 title: RNA Isolation and DecaPod S1E6
 date: '2018-04-29'
 category: bairdi
-tags: RNAisolation, Crabproject, DecaPod, Qubit
+tags: [RNAIsolation, bairdi, DecaPod, Qubit]
 ---
 RNA isolation over weekend to replace those that had "out of range". Edited and published S1E6 of DecaPod.
 

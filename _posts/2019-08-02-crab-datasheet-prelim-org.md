@@ -3,6 +3,7 @@ layout: post
 title: Organizing Crab Qubit results and RNA isolation data - in progress 
 date: '2019-08-02'
 category: bairdi
+tags: [bairdi, DataOrganization]
 ---
 The past three or so days I've been meticulously searching through all of my notebook posts and RNA isolation result files to create a master table of all of the hemolymph tubes that have been processed both by myself and Sam. Additionally, I made a note as to whether all of the sample was used, or if only some of the slurry was used (meaning that there would still be some in the -80). I'm pretty sure that I have a complete list now, but will revisit in a couple days to give my eyes a rest! Details in post.
 

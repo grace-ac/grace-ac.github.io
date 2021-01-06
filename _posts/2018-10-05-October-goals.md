@@ -3,7 +3,7 @@ layout: post
 title: October Goals
 date: '2018-10-05'
 category: MonthlyGoals
-tags: Goals
+tags: [DIAOyster, bairdi]
 ---
 # Crab Project
 - Identify successful RNA extraction protocol 

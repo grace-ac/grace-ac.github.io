@@ -3,7 +3,7 @@ layout: post
 title: Supernatant Trizol LS RNA Extraction attempt
 date: '2019-02-14'
 category: bairdi
-tags: [TrizolLS, RNAisolation, supernatant]
+tags: [TrizolLS, RNAIsolation, Supernatant, bairdi]
 ---
 After talking with Steven and Shelly, today we decided I should attempt to extract RNA from supernatant samples using the Trizol LS protocol. This post contains the steps that I performed with pictures of some steps, and results (no RNA in final samples :(...). Overall current plan is to take 4 crabs from Day 26. Use Qiagen RNeasy Kit with QIA shreddercolumn and RNA carrier on the pellets, and use Trizol LS on the corresponding supernatant samples. 
 

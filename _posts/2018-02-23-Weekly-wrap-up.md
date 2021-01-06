@@ -2,8 +2,8 @@
 layout: post
 title: Weekly wrap-up and goals for next week
 date: '2018-02-23'
-categories: [bairdi, 2015Oysterseed]
-tags: RNAisolation, DIA
+categories: [bairdi, DIAOyster]
+tags: [RNAIsolation, DIAOyster, bairdi]
 ---
 
 Revisiting what I did last week and my goals for next week: DIA, podcast, RNA isolation.

@@ -3,7 +3,7 @@ layout: post
 title: Preliminary picks for RNA isolation 
 date: '2018-02-12'
 categories: bairdi
-tags: RNAisolation
+tags: RNAIsolation
 ---
 
 Picking some preliminary samples for RNA isolation and getting questions answered about the RNA isolation protocol. 

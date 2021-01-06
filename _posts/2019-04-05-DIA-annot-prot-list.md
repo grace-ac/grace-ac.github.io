@@ -2,7 +2,8 @@
 layout: post
 title: Annotated Protein List from MS Stats with set thresholds... in progress
 date: '2019-04-05'
-category: 2015Oysterseed
+category: DIAOyster
+tags: DIAOyster
 ---
 Yesterday and today I got some more 2015 DIA paper-related tasks done, including making a table that includes the proteins detected above a log2FC of 3.00 and below -3.00, and one that was annotated... 
 

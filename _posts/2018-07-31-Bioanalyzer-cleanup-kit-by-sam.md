@@ -3,7 +3,7 @@ layout: post
 title: My Bioanalyzer and Sam's RNA Clean-up Kit and RNeasy Plus Mini Kit results
 date: '2018-07-31'
 category: bairdi
-tags: RNAisolation, Bioanalyzer
+tags: [RNAIsolation, Bioanalyzer, bairdi]
 ---
 Today I ran the Bioanalyzer on the samples Sam isolated RNA from months ago using RNAzol RT as well as some of the RNA isolated from samples that I have done. The results were not good - no dye showed up, so maybe I did it wrong. TBD. Also, Sam used a kit to clean up the RNA that I have isolated and then ran Qubit and Nanodrop1000, as well as used RNeasy Plus Mini Kit to isolate RNA from untouched hemolymph samples. Low concentrations of RNA, but at least there is RNA. The results from the RNeasy Plus Mini Kit isolations are clean and the RNA on Qubit and Nanodrop1000 are good. 
 

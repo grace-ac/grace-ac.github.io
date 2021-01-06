@@ -2,8 +2,8 @@
 layout: post
 title: RNA isolation prep and 2015 oysterseed DIA update
 date: '2018-01-30'
-categories: [bairdi, 2015Oysterseed]
-tags: RNAisolation, DIA
+categories: [bairdi, DIAOyster]
+tags: [RNAIsolation, DIAOyster]
 ---
 
 I prep for RNA isolation and understanding the protocol, and continue with the 2015 Oysterseed DIA.

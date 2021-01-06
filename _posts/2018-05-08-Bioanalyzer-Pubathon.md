@@ -3,7 +3,7 @@ layout: post
 title: Bioanalyzer and Pubathon
 date: '2018-05-08'
 category: bairdi
-tags: Bioanalyzer, Pubathon, DecaPod
+tags: [Bioanalyzer, Pubathon, DecaPod]
 ---
 Images from my trying out the bioanalyzer. And I try again. Neither tries look great. I should try again. Pub-a-thon plan and DecaPod S1E7 published (crab mtg #3).
 

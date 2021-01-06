@@ -3,7 +3,7 @@ layout: post
 title: RNA extraction and Running .fastq sequence files through FASTQC
 date: '2018-10-19'
 category: bairdi
-tags: [RNAisolation, FASTQC]
+tags: [RNAIsolation, FASTQC, bairdi]
 ---
 Today I extracted RNA from 10 more pelleted hemolymph samples using Tri-Reagent (without lyophilizing). I ran 5 ul on the RNA HS Qubit, and 7/10 had quantifiable RNA. I also started working with the .fastq sequence data from our first sequenced library. I ran the four files through FASTQC and am learning how to determine if the output is good.
 

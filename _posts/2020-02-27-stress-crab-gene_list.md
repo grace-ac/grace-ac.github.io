@@ -3,6 +3,7 @@ layout: post
 title: Create list of Trinity_IDs associated with GOslim "Stress response" from annotated crab transcriptome
 date: '2020-02-27'
 category: bairdi
+tags: bairdi
 ---
 Today I made a list of Trinity_IDs that are associated with the GOslim term "stress response" from the annotated crab transcriptome. I also clean up a few things in the project-crab/analyses repo... kind of. 
 

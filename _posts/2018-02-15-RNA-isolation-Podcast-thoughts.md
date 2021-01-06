@@ -2,8 +2,8 @@
 layout: post
 title: RNA isolation, Podcast thoughts, and DIA protocol
 date: '2018-02-15'
-categories: [bairdi, 2015Oysterseed]
-tags: RNAisolation, Podcast, DIA
+categories: [bairdi, DIAOyster]
+tags: [RNAIsolation, podcast, DIAOyster, bairdi]
 ---
 
 Updates on RNA isolation; Podcast thoughts and subject matter thoughts; restarting the DIA analysis with the correct files. 

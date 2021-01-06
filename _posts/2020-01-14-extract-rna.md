@@ -3,7 +3,7 @@ layout: post
 title: Extract RNA from 24 samples - Day 9, 12 infected, 12 uninfected; still need to run on Qubit
 date: '2020-01-14'
 category: bairdi
-tags: [RNAisolation]
+tags: [RNAIsolation, bairdi]
 ---
 Today I extracted RNA from 24 samples. Day 9, 12 infected and 12 uninfected. I did not run them on the qubit yet. Will do later this week. 
 

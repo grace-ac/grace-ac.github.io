@@ -3,7 +3,7 @@ layout: post
 title: RNeasy Extraction Day 1 on 24 samples
 date: '2019-03-19'
 category: bairdi
-tags: [RNAisolation, RNeasy]
+tags: [RNAIsolation, RNeasy, bairdi]
 ---
 Today I tried out the new plan for extracting RNA. It took quite a long time and none of the 24 samples had detectable RNA. Details in post.
 

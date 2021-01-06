@@ -3,7 +3,7 @@ layout: post
 title: Notes from Crab Meeting #4
 date: '2018-07-05'
 category: bairdi
-tags: Crabproject
+tags: [CrabMeeting, bairdi]
 ---
 Today we had our 4th crab meeting and discussed our short-term sequencing plan for 3 libraries (1: day 9 uninfected; 2: day 9 infected; and 3:a "masterpool" from the reamining 10 treatments). We also discussed our plan going forward with qPCR and creating libraries later and we hopefully will see some cool things with the three current chosen libraries and the qPCR.
 

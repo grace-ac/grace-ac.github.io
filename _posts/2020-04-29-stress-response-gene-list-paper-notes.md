@@ -3,6 +3,7 @@ layout: post
 title: Made new crab transcriptome stress response gene list; notes on crab immunity and macropinocytosis
 date: '2020-04-29'
 category: bairdi
+tags: bairdi
 ---
 Today I made a new crab stress response table with more information. I also started an outline for the intro based on the meeting I had with Steven yesterday. I've been reading/finding resources about crab/crustacean immunity and macropinocytosis. Will add more to intro and discussion as I learn more. 
 

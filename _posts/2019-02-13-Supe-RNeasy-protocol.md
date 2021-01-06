@@ -3,7 +3,7 @@ layout: post
 title: RNeasy Plus Micro Kit Protocol using RNA Carrier and Supernatant
 date: '2019-02-13'
 category: bairdi
-tags: [RNeasy, supernatant]
+tags: [RNeasy, Supernatant, bairdi]
 ---
 This post contains a slightly modified RNeasy Kit protocol. I want to use the Qiagen RNeasy Micro Plus Kit on 4 crab hemolymph pellet samples and the four corresponding supernatant samples ([GitHub Issue 577](https://github.com/RobertsLab/resources/issues/577)). The goal is to see if there is any RNA in the supernatant samples and if that can help increase the RNA yields for each crab sample. The supernatant samples (~1ml each) will be transfered to 15ml falcon tubes and the volumes of reagents likely need to be changed ([GitHub Issue ](https://github.com/RobertsLab/resources/issues/578)). I will be using RNA carrier for both supernatant and pellet samples. (Sidenote: just realized I didn't use QIAshredder columns when I did the RNeasy protocol previously. I have added that to my [figure](https://docs.google.com/drawings/d/1BduMHnANqwlB6ovVXZ-wbUyFahb95W5spx1yKjXn65s/edit).)
 

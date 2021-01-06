@@ -1,9 +1,11 @@
 ---
 layout: post
-title: Create annotated crab transcriptome BLAST `join` with uniprot-SP-GO
-date:'2020-05-06'
+title: Create annotated crab transcriptome BLAST `join` with uniprot SP GO
+date: '2020-05-06'
 category: bairdi
+tags: bairdi
 ---
+
 Worked a lot on the crab paper intro and bits of results and discussion here and there. I also made an annotated BLAST output from the crab transcriptome with the uniprot-SP-GO.sorted file. 
 
 ### Create file:

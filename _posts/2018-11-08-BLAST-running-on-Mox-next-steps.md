@@ -2,8 +2,8 @@
 layout: post
 title: BLAST really running on Mox, 2015 Oysterseed new plan
 date: '2018-11-08'
-category: [bairdi, 2015Oysterseed]
-tags: [Mox, BLAST, DIA]
+category: [bairdi, DIAOyster]
+tags: [Mox, BLAST, DIAOyster, bairdi]
 ---
 Today I officially ran BLAST on Mox. It kept failing the past couple days, and Steven pointed out I didn't actually make the directory I was telling Mox to put the output in, and that I was saying to use ```blastn``` when it should have been ```blastx```. I also met with Emma yesterday and spoke with Nick from Skyline to come up with a new plan for the 2015Oysterseed DIA analysis. Also, at lab meeting and Crab Meeting last week, Steven gave me some things to try with the BLAST output and assembled transcriptome for GSS next week. Also, I posted DecaPod S1E12 - Crab Meeting 6. Steven mentioned some things that I should go back and change, so I'll work on that in my spare time. 
 

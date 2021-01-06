@@ -3,7 +3,7 @@ layout: post
 title: Reading up on Trinity and Interviewed Genevieve Johnson for DecaPod
 date: '2018-06-21'
 categories: bairdi
-tags: DecaPod, Trinity
+tags: [DecaPod, Trinity, bairdi]
 ---
 Today I did more reading on how to start assembling a transcriptome using Trinity with plans to formulate the beginning steps tomorrow and I interviewed Genevieve Johnson (University of Alaska, Fairbanks) on her thesis project doing Tanner Crab population genetics for a new soon-to-be published episode of DecaPod.
 

@@ -3,7 +3,7 @@ layout: post
 title: Making Pools for RNASeq, and working on an ultimate MASTER crab spreadsheet
 date: '2018-07-13'
 category: bairdi
-tags: RNASeq, R
+tags: [Sequencing, R, bairdi]
 ---
 This post is a summation of what I did this week. I made the 3 pools for RNASeq (speed vac will happen Tuesday when both Sam and I are in), and am starting to create an ultimate master crab spreadsheet with ALL the data that we have on this project. 
 

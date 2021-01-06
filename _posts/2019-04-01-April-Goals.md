@@ -3,6 +3,7 @@ layout: post
 title: April Goals
 date: '2019-04-01'
 category: MonthlyGoals
+tags: [bairdi, DIAOyster]
 ---
 
 ### Crab Project

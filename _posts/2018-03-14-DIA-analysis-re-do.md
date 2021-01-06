@@ -2,8 +2,8 @@
 layout: post
 title: Re-do DIA, thinking about error rate determination
 date: '2018-03-14'
-categories: 2015Oysterseed
-tags: DIA
+categories: DIAOyster
+tags: [DIAOyster, Skyline]
 ---
 I re-do the DIA analysis from step one. I'm still unsure how to do error rate determination. The protocol is not clear on how to do this.
 

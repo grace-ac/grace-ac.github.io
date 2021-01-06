@@ -2,8 +2,8 @@
 layout: post
 title: Day 1 Geoduck Stripspawn Project at Taylor Shellfish Hathcery - Quilcene, WA
 date: '2019-05-29'
-category: TaylorHatchery
-tags: geo-stripspawn
+category: GeoduckTaylor
+tags: [GeoduckStripSpawn]
 ---
 Today was Day 1 of the Geoduck strip spawn experiment at Taylor Shellfish Hatchery. This wil be one of my side projects for my MS program because I realized I really wanted some hands-on, hatchery work experience! Lots and lots and lots of details (and photos) in the post. 
 

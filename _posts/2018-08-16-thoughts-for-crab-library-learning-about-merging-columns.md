@@ -3,7 +3,7 @@ layout: post
 title: Crab RNA-Seq thoughts; Merging columns in R
 date: '2018-08-16'
 categories: bairdi
-tags: Crabproject, RNASeq, R
+tags: [bairdi, Sequencing, R, bairdi]
 ---
 Yesterday I shared some preliminary thoughts (in a GitHub issue and detailed below) on what we can do for our first Crab RNA-Seq library. Today I learned - through a whole mess of comments on a GitHub Issue because my stuff isn't organized well - how to merge data in columns that are the same in R, so that you don't have duplicates (example: "Test_Date.x" and "Test_Date.y"). Steven mentioned I should go over with him how to name files... which sounds good to me because I think I'm taking too much time out of my day renaming and replacing files as I update them. Sam also mentioned that my R Project is difficult to work with because it includes files that belong to two different repositories. So I'll work on cleaning that up and making it easier for future collaboration and help. 
 

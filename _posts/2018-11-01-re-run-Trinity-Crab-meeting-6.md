@@ -3,7 +3,7 @@ layout: post
 title: Trinity failed; Re-run, and Notes from Crab Meeting #6
 date: '2018-11-01'
 category: bairdi
-tags: [Trinity, CrabMeeting]
+tags: [Trinity, CrabMeeting, bairdi]
 ---
 
 

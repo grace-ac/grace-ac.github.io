@@ -2,8 +2,8 @@
 layout: post
 title: Finished Determining Error Rate for DIA
 date: '2018-01-17'
-category: 2015Oysterseed
-tags: DIA
+category: DIAOyster
+tags: Skyline
 ---
 
 Finished determining error rate for the DIA analysis and sent my results to Emma. Also, include some background info on the 2015 Oysterseed project. 

@@ -1,9 +1,9 @@
 ---
 layout: post
 title: Bioanalyzer Results - batch of cold, infected day 26
-date: 2018-12-14'
+date: '2018-12-14'
 category: bairdi
-tags: Bioanalyzer
+tags: [Bioanalyzer, bairdi]
 ---
 Today I ran the bioanalyzer on the batch of 8 samples from Day 26 (cold, infected) from [Nov 21st](https://grace-ac.github.io/Pool-RNeasy-DecaPod-S1E13/). Results don't look super great, and the ladder didn't show up. 
 

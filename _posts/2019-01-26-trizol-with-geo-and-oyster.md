@@ -2,8 +2,8 @@
 layout: post
 title: Trizol LS Reagent RNA extraction using Geoduck hemolymph and oyster tissue
 date: '2019-01-26'
-category: [bairdi]
-tags: [RNAisolation, TrizolLS]
+category: bairdi
+tags: [RNAIsolation, TrizolLS, bairdi]
 ---
 Today I tried out the Trizol LS Reagent RNA extraction protocol on two geoduck (_P. generosa_) hemolymph and two oyster (_C. virginica_) tissue samples. (GitHub Issue [#533](https://github.com/RobertsLab/resources/issues/553))
 

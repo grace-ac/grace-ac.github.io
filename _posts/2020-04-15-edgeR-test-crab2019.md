@@ -2,7 +2,8 @@
 layout: post
 title: "edgeR practice: crab 2019 data"
 date: '2020-04-15'
-categories: [bairdi, Analyses, edgeR]
+category: bairdi
+tags: [bairdi, edgeR]
 ---
 Haven't posted in a long long time... so in today's post I'll detail what I've been up to with the crab project: paper progress and trying out edgeR for differential gene expression analyses. 
 

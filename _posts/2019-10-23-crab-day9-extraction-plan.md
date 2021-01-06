@@ -3,7 +3,7 @@ layout: post
 title: Notes on protocol and plan for Crab Project extractions - use info from Sam's notebook posts
 date: '2019-10-23'
 category: bairdi
-tags: ZymoRNA
+tags: [Zymo, bairdi, RNAIsolation]
 ---
 This post contains my notes on the [Zymo Research Protocol for Quick-DNA/RNA Microprep kit](https://github.com/RobertsLab/resources/blob/master/protocols/Commercial_Protocols/ZymoResearch_quick-dna-rna_microprep_plus_kit_20190411.pdf), and [Sam's notebook post](https://robertslab.github.io/sams-notebook/2019/04/30/RNA-Isolation-and-Quantification-C.bairdi-Hemolymph-Pellet-in-RNAlater.html) to create a protocol for extracting RNA. I also include my extraction plan for this next week as I try to get enough RNA to get two more libraries (Day 9 infected (1), and Day 9 uninfected (2)). 
 

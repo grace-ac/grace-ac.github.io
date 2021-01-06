@@ -3,7 +3,7 @@ layout: post
 title: DecaPod Submitted to Apple, RNA Extraction plan for Mon/Tues
 date: '2018-09-28'
 category: bairdi
-tags: [DecaPod, RNAisolation]
+tags: [DecaPod, RNAIsolation, bairdi]
 ---
 Today I submitted DecaPod RSS feed to Apple for approval to be published on iTunes! I also picked out some tubes for Tri-reagent RNA extraction without lyophilizing (it's broken again) for Monday or Tuesday next week to get things moving again.
 

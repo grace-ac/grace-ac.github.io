@@ -2,7 +2,8 @@
 layout: post
 title: More tables for 2015 _C. gigas_ seed
 date: '2019-04-09'
-category: 2015Oysterseed
+category: DIAOyster
+tags: DIAOyster
 ---
 Today I spoke with Steven about what the results are for the 2015 _C. gigas_ seed paper. I made a new annotated table for the 69 differentially abundant (though not significantly) proteins. Edits to paper.
 

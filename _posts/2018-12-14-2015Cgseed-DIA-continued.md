@@ -2,8 +2,8 @@
 layout: post
 title: DIA analysis 2015 Cg seed continued
 date: '2018-12-14'
-category: 2015Oysterseed
-tags: [DIA, MSstats]
+category: DIAOyster
+tags: [DIAOyster, MSstats]
 ---
 Today I am continuing my work in MS stats and working with the exported Skyline report. I updated the protocol to document what I have been doing to get where I am. I am in contact with Meena from MS stats, who is helping me with an error that keeps coming up in the R code. Once that is fixed, I'll be able to analyze the data and make some figures/tables. 
 

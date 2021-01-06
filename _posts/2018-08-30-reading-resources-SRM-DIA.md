@@ -2,8 +2,8 @@
 layout: post
 title: Reading and Goals for now until Sept. 25th
 date: '2018-08-30'
-categories: [2015Oysterseed, bairdi]
-tags: [Reading, SRM, DIA]
+categories: [DIAOyster, bairdi]
+tags: [Reading, SRM, DIAOyster, bairdi]
 ---
 I've been sick the past several days, and I'm finally feeling well enough to come in to SAFS. Today, since I'm still not back to normal, I spent the day reading some background information on SRM, Targeted proteomics, and general crab biology. I also outline some goals I have from now until the start of school on September 25th. 
 

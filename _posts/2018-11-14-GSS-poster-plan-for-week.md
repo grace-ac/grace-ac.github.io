@@ -3,7 +3,7 @@ layout: post
 title: Submitted GSS poster, and my goals for Th and F
 date: '2018-11-14'
 category: bairdi
-tags: GSS
+tags: [GSS, bairdi]
 ---
 Today at 4:25pm, I submitted my poster to be printed for GSS, which is tomorrow... Steven helped a lot with picking out what information would be interesting to include. My goals for Thursday and Friday include both the Crab Project and the 2015 Oysterseed Project.
 

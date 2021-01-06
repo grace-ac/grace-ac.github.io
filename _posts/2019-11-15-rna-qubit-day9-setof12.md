@@ -3,7 +3,7 @@ layout: post
 title: More RNA extracted from Day 9 - RNA in all
 date: '2019-11-15'
 category: bairdi
-tags: [Zymo, Qubit, RNAisolation]
+tags: [Zymo, Qubit, RNAIsolation, bairdi]
 ---
 I extracted RNA from the same tubes that I worked with a lot the past couple of weeks on the bioanalyzer and Nanodrop and qubit because there ended up being not much left. RNA was in all samples. Details of extraction and next steps in post. 
 

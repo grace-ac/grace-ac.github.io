@@ -3,6 +3,7 @@ layout: post
 title: Crab Analyses Progress
 date: '2020-06-17'
 category: bairdi
+tags: [bairdi, analyses, DESeq2]
 ---
 I made some progress in getting new results for the crab part of my thesis. I ran `DESeq2` on libraries 8-11 based on infection, but taking temperature into account. I then took those results and contrasted the two temperature treatments to get an effect of temperature on infection gene expression. I also am trying to do time-series with the individual crab RNAseq... and that's been a bit tricky because in some cases we don't have any replicates, and in ones where we do, there are three time points and I'm struggling to figure out how to analyze them... links to Rmd and results files in post: 
 

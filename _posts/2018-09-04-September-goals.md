@@ -3,7 +3,7 @@ layout: post
 title: September Goals
 date: '2018-09-01'
 category: MonthlyGoals
-tags: MonthlyGoals
+tags: [MonthlyGoals, Skyline, bairdi, DIAOyster]
 ---
 2015 Oysterseed Project:
 - Figure out Skyline DIA with Emma (plan for 9/6/18)

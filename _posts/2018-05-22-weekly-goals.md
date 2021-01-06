@@ -3,7 +3,7 @@ layout: post
 title: Weekly Goals
 date: '2018-05-22'
 category: bairdi
-tags: Dataorganization, Crabproject, DecaPod, RNAisolation
+tags: [DataOrganization, bairdi, DecaPod, RNAIsolation]
 ---
 Plan for what I want to get done this week. 
 

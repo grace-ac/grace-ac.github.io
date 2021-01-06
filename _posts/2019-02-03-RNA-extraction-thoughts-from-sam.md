@@ -3,7 +3,7 @@ layout: post
 title: Notes, Thoughts, and Ideas on RNA isolation (and thoughts from Sam)
 date: '2019-02-03'
 category: bairdi
-tags: RNAisolation
+tags: [RNAIsolation, bairdi]
 ---
 Spoke with Sam the other day about everything we've tried in regards to extracting RNA from our crab hemolymph samples. He shared a lot of ideas of potential next steps for figuring out ....
 

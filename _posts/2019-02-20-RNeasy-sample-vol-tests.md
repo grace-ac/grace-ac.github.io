@@ -3,7 +3,7 @@ layout: post
 title: RNeasy Kit Tube 516-2 starting sample testing
 date: '2019-02-20'
 category: bairdi
-tags: [RNAisolation, RNeasy]
+tags: [RNAIsolation, RNeasy, bairdi]
 ---
 Today I extracted RNA from tube 516-2 in two different volumes: 10ul and 50ul. The tube only had about 62ul of sample slurry remaining, so I was only able to do 10ul and 50ul. I used the same protocol as what Steven and Shelly did last Friday. I saved the gDNA and eluted it to get the DNA concentration from the samples, and also got the RNA Qubit results. There was RNA in both, and DNA in both. When comparing the amount of RNA extracted to the amount of starting material, there is higher yield when using 10ul of sample than the 50ul of sample. More notes detailed in post.
 

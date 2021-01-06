@@ -3,7 +3,7 @@ layout: post
 title: RNA Isolations continued
 date: '2018-05-01'
 category: bairdi
-tags: RNAisolation, Crabproject, Qubit
+tags: [RNAIsolation, bairdi, Qubit]
 ---
 More RNA isolations and plan for data sheet organization for the week. Plan to try out Bioanalyzer. 
 

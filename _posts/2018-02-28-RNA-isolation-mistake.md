@@ -3,7 +3,7 @@ layout: post
 title: RNA isolation 
 date: '2018-02-28'
 categories: bairdi
-tags: RNAisolation
+tags: RNAIsolation
 ---
 Today I began the process of isolating RNA from the "official" crab hemolymph samples, although they can change if I mess things up, because there are many extra samples. 
 

@@ -3,7 +3,7 @@ layout: post
 title: Submitted 6 pooled crab samples to NWGC for QC
 date: '2020-01-31'
 category: bairdi
-tags: NWGC
+tags: [Sequencing, bairdi]
 ---
 Today I submitted 6 pooled samples of Crab RNA to NWGC for QC. After they run QC, they'll let us know what our sequencing options are. 
 

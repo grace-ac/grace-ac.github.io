@@ -3,6 +3,7 @@ layout: post
 title: Pooled 6 new samples for sequencing 
 date: '2019-11-22'
 category: bairdi
+tags: [Sequencing, bairdi]
 ---
 Today I pooled samples for the 6 new libraries for sequencing. There is over 1000ng in each pooled sample, so everything is ready to go! Details in post. 
 

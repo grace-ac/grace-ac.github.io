@@ -3,7 +3,7 @@ layout: post
 title: Worked more on R script for adding Qubit data; Started using Mox
 date: '2018-10-23'
 category: bairdi
-tags: [R, Mox]
+tags: [R, Mox, bairdi]
 ---
 Today I worked more on my R script for adding new Qubit files. Everything works great up until the actual joining of files. After joining, there are extra columns that have the extensions ".x" and ".y"... I think it has something to do with the fact that some columns are factors, some are characters, and some are numeric... I also started using Mox today, but am unsure how to upload the .fastq files from the C bairdi transcriptome data. Waiting to hear back on that in a GitHub issue.
 

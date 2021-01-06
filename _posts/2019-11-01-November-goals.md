@@ -3,6 +3,7 @@ layout: post
 title: November 2019 Goals
 date: '2019-11-01'
 category: MonthlyGoals
+tags: [bairdi, DIAOyster, thesis, OneHealth]
 ---
 
 ## Crab

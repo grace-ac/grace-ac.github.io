@@ -2,8 +2,8 @@
 layout: post
 title: Updates on Podcast, DIA, RNA isolation, and Crab data organization
 date: '2018-03-09'
-categories: [bairdi, 2015Oysterseed]
-tags: Podcast, DIA, RNAisolation
+categories: [bairdi, DIAOyster]
+tags: [podcast, DIAOyster, RNAIsolation, bairdi]
 ---
 I provide updates on status and next steps for my different projects. 
 

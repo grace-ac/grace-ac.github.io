@@ -3,7 +3,7 @@ layout: post
 title: Start Lyophilizing to test new RNA extraction protocol using Tri-reagent
 date: '2018-09-10'
 category: bairdi
-tags: Lyophilizer
+tags: [Lyophilizer, bairdi]
 ---
 Today I started using the lyophilizer on the samples I picked out (pellet and supernatant) and the pooled sample of the ones from Sam's Qiagen RNeasy extraction that had "Out of range" Qubit results. 
 

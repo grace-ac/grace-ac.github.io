@@ -2,8 +2,8 @@
 layout: post
 title: Day 2 Geoduck Stripspawn Project at Taylor - not great results
 date: '2019-05-31'
-category: TaylorHatchery
-tags: geo-stripspawn
+category: GeoduckTaylor
+tags: [GeoduckStripSpawn, geoduck]
 ---
 Today we checked to see what development occurred since Wednesday's strip spawn and KCl-treatment trials. There were so few eggs in the tripours to begin with, that there ended up being way too small of numbers of D-hinge larvae that I ended up dumping the trial and we'll have to rethink this and re-do it. Details in post. 
 

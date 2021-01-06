@@ -3,6 +3,7 @@ layout: post
 title: September Goals
 date: '2019-09-01'
 category: MonthlyGoals
+tags: [bairdi, DIAOyster]
 ---
 ## September
 ### Crab:    

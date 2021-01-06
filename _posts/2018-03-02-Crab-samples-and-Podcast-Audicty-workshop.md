@@ -3,7 +3,7 @@ layout: post
 title: Crab sample organization and Podcast Audacity Workshop notes
 date: '2018-03-02'
 categories: bairdi
-tags: Podcast
+tags: podcast
 ---
 Today I worked on organization the hemolymph crab data and went to a workshop hosted by UW IT to learn about Audacity for Podcasts. 
 

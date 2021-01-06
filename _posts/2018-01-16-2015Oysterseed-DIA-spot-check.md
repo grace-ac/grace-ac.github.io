@@ -2,8 +2,8 @@
 layout: post
 title: Determining error rate for DIA 2015 Oysterseed
 date: '2018-01-16'
-category: 2015Oysterseed
-tags: DIA
+category: DIAOyster
+tags: Skyline
 ---
 
 Update on error rate peak picking - confusion as to how to categorize correct and incorrect picks by Skyline. Includes tips from Laura. 

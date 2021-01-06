@@ -3,6 +3,7 @@ layout: post
 title: More Crab results - DESeq ABC v GHI; more heatmaps
 date: '2020-05-25'
 category: bairdi
+tags: [bairdi, analyses]
 ---
 Today I did another `DESeq2` analysis comparing crabs A, B, C to crabs G, H, I at Day 2 in order to get any DEGs for temperature on infection. 
 I also tried making some more heatmaps, and I think there may be some cool ones... 

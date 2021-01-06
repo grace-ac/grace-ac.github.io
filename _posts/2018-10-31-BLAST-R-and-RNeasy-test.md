@@ -3,7 +3,7 @@ layout: post
 title: BLAST with bad Trinity fasta, R plan for adding Qubit data, and Testing out RNeasy Plus Mirco Kit
 date: '2018-10-31'
 category: bairdi
-tags: [BLAST, R, RNAisolation, RNeasy]
+tags: [BLAST, R, RNAIsolation, RNeasy, bairdi]
 ---
 Today I ran BLAST with the bad fasta from the Trinity run from last weekend. Will look more at the notebook Steven sent me to do the BLAST stats, goslim, contigs, go slim tables, etc. I also have been getting some input from Sam as to how best to manage adding new Qubit data to a master file consisting of all the hemolymph sampling data joined with the Qubit data results. Finally, I tested out the RNeasy Plus Micro Kit on 4 samples from Day 26, and ran the Qubit. 
 

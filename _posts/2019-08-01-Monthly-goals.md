@@ -2,8 +2,8 @@
 layout: post
 title: August 2019 Goals
 date: '2019-08-01'
-category: bairdi
-tags: MonthlyGoals
+category: MonthlyGoals
+tags: [bairdi, conferences]
 ---
 ## Crab Project    
 ### Research

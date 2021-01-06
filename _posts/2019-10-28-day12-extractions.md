@@ -3,7 +3,7 @@ layout: post
 title: Day 12 RNA extractions - RNA in all samples!
 date: '2019-10-28'
 category: bairdi
-tags: [Zymo, RNAisolation]
+tags: [Zymo, RNAIsolation, bairdi]
 ---
 Today I did some more extractions, but moved on to day 12. I did a mix of all groupings (temperature and infection statuses). All extracted samples had detectable RNA! Details in post. Additionally, I'll give a summary table of what all I have extracted so far. 
 
