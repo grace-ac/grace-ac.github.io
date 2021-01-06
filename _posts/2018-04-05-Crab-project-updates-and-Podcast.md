@@ -3,7 +3,7 @@ layout: post
 title: Crab Project Updates
 date: '2018-04-05'
 categories: bairdi
-tags: Crabproject, updates
+tags: bairdi
 ---
 Updates on RNA isolation progress, DecaPod progress, and Data management plan.
 
