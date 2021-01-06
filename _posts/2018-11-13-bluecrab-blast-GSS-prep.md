@@ -3,7 +3,7 @@ layout: post
 title: BLASTn with Blue Crab and Prep for GSS Poster
 date: '2018-11-13'
 category: bairdi
-tags: [BLAST, GSS]
+tags: [BLAST, GSS, bairdi]
 ---
 Today I BLASTn -ed Blue crab transcriptome with the assembled _C. bairdi_ transcriptome on Mox. I also finished up some more things in my BLAST to GO GO-slim notebook with uniprot/sprot. Additionally, I got some input from Steven on how best to create a poster for GSS (which is this THURSDAY) so that I can get some cool stuff on there, but not use too many words... which is always a problem I have. 
 
