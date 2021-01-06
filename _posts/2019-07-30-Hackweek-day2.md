@@ -2,7 +2,8 @@
 layout: post
 title: Hackweek Day 2 - Crab data sheets
 date: '2019-07-30'
-category: bairdi
+category: [bairdi, Hackweek]
+tags: [Hackweek, bairdi, DataOrganization]
 ---
 Today in Hackweek, we went over what I could do to have a better hold on my crab data sheets... details in post
 
