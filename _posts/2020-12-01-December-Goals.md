@@ -2,6 +2,8 @@
 layout: post
 title: December Goals
 date: '2020-12-01'
+category: MonthlyGoals
+tags: [bairdi, DIAOyster]
 ---
 Goals for December in post!
 
