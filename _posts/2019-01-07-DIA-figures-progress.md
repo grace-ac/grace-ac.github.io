@@ -2,8 +2,8 @@
 layout: post
 title: 2015 Oysterseed DIA MSStats Figures Progress
 date: '2019-01-07'
-category: 2015Oysterseed
-tags: [MSStats, DIA]
+category: DIAOyster
+tags: [MSStats, DIAOyster]
 ---
 Today I went through my [R script](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/DIA_2015/R/Skyline-to-MSstats-format-and-plots.R) for the [RobertsLab/project-pacific.oyster-larvae](https://github.com/RobertsLab/project-pacific.oyster-larvae) project. I have a Volcano Plot and a Comparison Plot. I also did some data process plots: Profile Plots and QC Plots. I am working on updating the MS Stats protocol, and will include all the resources I used to create those plots. Additionally, I am beginning to read through the [Oyster-Larval-Proteomics-2015](https://docs.google.com/document/d/1OaYNzlOJr5QibCYt8--GMNGvXlzHPR9_daCkNUVkj-U/edit) paper and am working on finding some new relevant citations. My goal for the month is to finish this project and paper!
 
