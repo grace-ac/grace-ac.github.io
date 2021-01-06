@@ -3,7 +3,7 @@ layout: post
 title: Crab Meeting and Bioanalyzer
 date: '2018-05-03'
 category: bairdi
-tags: CrabMeeting, Bioanalyzer
+tags: [CrabMeeting, Bioanalyzer, bairdi]
 ---
 Today we had Crab meeting #3 and I tried out the bioanalyzer. 
 
