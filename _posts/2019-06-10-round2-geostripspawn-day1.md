@@ -2,8 +2,8 @@
 layout: post
 title: Day 1 of Trial 2 of Geoduck Stripspawn experiment - KCl dose + duration
 date: '2019-06-10'
-category: TaylorHatchery
-tags: [geo-stripspawn]
+category: GeoduckTaylor
+tags: [GeoduckStripSpawn, geoduck]
 ---
 Today was Day 1 of the second trial of geoduck stripspawn. We created an experimental design that takes into account both KCl dosage, and duration of the dose exposure. Overall things went pretty well (details in post), and on Wednesday, I'll check for D-hinge development. 
 
