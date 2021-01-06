@@ -3,7 +3,7 @@ layout: post
 title: New Hemolymp sample and Qubit file; New RNA-seq short-term plan
 date: '2018-08-20'
 category: bairdi
-tags: [R, RNASeq]
+tags: [R, Sequencing, bairdi]
 ---
 Today Sam, Steven, and I met and decided to pool the 15 samples that had quantifiable RNA (Qubit RNA HS results) from the 40 samples that Sam processed using the Qiagen RNEasy Mini Plus Kit into one sample to be sequenced. Also, they both helped me learn more about data management and creating a better file that contains the crab hemolymph sampling data and the Qubit results data.
 
