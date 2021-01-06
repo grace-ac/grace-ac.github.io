@@ -3,7 +3,7 @@ layout: post
 title: RNA extractions - more day 12 - RNA in 23 / 24 
 date: '2019-10-31'
 category: bairdi
-tags: [Zymo, RNAisolation, Qubit]
+tags: [Zymo, RNAIsolation, Qubit, bairdi]
 ---
 Today I extracted RNA from 24 more samples from Day 12. Mix of infection status and temperature exposures. There was RNA in 23 out of 24 samples. No obvious mistakes were made, and at the end of the post I provide an updated RNA sample summary in preparation for our crab RNA meeting tomorrow. 
 
