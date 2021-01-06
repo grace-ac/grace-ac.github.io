@@ -3,7 +3,7 @@ layout: post
 title: Plan for R and Bioanalyzer results
 date: '2018-10-08'
 category: bairdi
-tags: [R, Bioanalyzer]
+tags: [R, Bioanalyzer, bairdi]
 ---
 Today I discussed with Sam about how to use R for making a better master file. We identified some short term and long term goals for me to work on (and get help with via GitHub Issues). I also ran the Bioanalyzer on Test3 (from when lyophilizer was used and using Tri-reagent ), and four samples that I extracted last Friday using (wihtout lyophilizer, with Tri-reagent). The Bioanalyzer didn't run great because the ladder and the markers didn't show up... will have to re-run. 
 
