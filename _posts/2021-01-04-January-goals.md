@@ -2,7 +2,8 @@
 layout: post
 title: January Goals
 date: '2021-01-04'
-category: Monthly Goals
+category: MonthlyGoals
+tags: [bairdi, DIAOyster]
 ---
 
 ## Crab:
