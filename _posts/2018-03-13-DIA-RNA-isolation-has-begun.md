@@ -2,8 +2,8 @@
 layout: post
 title: Input from Emma on DIA and RNA isolation starts!
 date: '2018-03-13'
-categories: [bairdi, 2015Oysterseed]
-tags: RNAisolation, DIA
+categories: [bairdi, DIAOyster]
+tags: [RNAIsolation, DIAOyster, bairdi]
 ---
 Get some input from Emma on DIA and I start isolating RNA.
 
