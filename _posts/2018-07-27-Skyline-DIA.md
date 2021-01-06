@@ -2,8 +2,8 @@
 layout: post
 title: Skyline DIA with new BLIB made using Walnut
 date: '2018-07-27'
-categories: 2015Oysterseed
-tags: Skyline, DIA
+categories: DIAOyster
+tags: [Skyline, DIAOyster, Walnut]
 ---
 Today Walnut finished up using Walnut to make a new BLIB file with the 2015 C.gigas Oysterseed raw files. Then, I used the new BLIB in SKyline, along with changing the minutes to 5, and double-checking I used the same .mzML files used in Walnut as my results in Skyline. The peaks still look pretty bad. I just emailed Emma...
 
