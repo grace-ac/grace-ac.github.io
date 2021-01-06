@@ -3,7 +3,7 @@ layout: post
 title: BLAST nt taxonomy with C bairdi had no taxonomy data
 date: '2018-12-17'
 category: bairdi
-tags: BLAST
+tags: [BLAST, bairdi]
 ---
 Today I checked on my finished BLAST on Mox with my assembled _C. bairdi_ transcriptome and the ```nt``` taxonomy database. It finished after three-ish days, and the file was large. However, all of the taxonomy cells were "N/A". I made a GitHub Issue, and got some input and am now BLAST-ing again. Additionally, Sam posted a link for me to look into to get Order, Family, etc. taxonomy information on my next BLAST that I will get going before I leave for CA.
 
