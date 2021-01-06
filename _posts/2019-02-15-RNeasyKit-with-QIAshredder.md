@@ -3,7 +3,7 @@ layout: post
 title: RNeasy Kit with hemo pellets using QIAshredder columns
 date: '2019-02-15'
 category: bairdi
-tags: [RNeasy, RNAisolation]
+tags: [RNeasy, RNAIsolation, bairdi]
 ---
 Today, Steven, Shelly, and I worked together on extracting RNA from bairdi hemolymph pellets using the Qiagen RNeasy Micro Plus Kit with QIAshredder columns to aid in homogenization. Instead of using the whole pelleted sample like I have always done in the past, we let it thaw at room temp, centrifuged at full speed for ~30s, then sampled out 50ul of the hemolymph/RNAlater slurry into new tubes. The reasoning for this is to see if maybe using the whole tube contents resulted in clogging the spin column tubes. Shelly also saved the DNA that got caught on the gDNA spin column, washed, and eluted to quantify DNA using the Qubit DNA Kit. This was to check to see if there was any DNA in the samples. All four had relatively low amounts of DNA, and only one of the four had quanitifiable RNA (rest were TOO LOW (less than 5ng/ul). Next steps are detailed at end of post. 
 
