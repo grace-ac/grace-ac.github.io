@@ -3,7 +3,7 @@ layout: post
 title: Learning code to change Factors to numbers
 date: '2018-08-02'
 category: bairdi
-tags: Dataorganization
+tags: [DataOrganization, R, bairdi]
 ---
 Today I noticed that the code Yaamini showed me yesterday to change the "tube_number" column values in the 20180522-all-crabs-hemo.csv from Factor to numeric ended up changing the tube numbers, which meant that the spreadsheet I made yesterday was wrong. So, Sam taught me how to make the "tube_number" column from Factor to numerics without changing the value, as described below. 
 
