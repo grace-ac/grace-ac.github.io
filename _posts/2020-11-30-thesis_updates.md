@@ -2,7 +2,8 @@
 layout: post
 title: MS Thesis update
 date: '2020-11-30'
-category: [crab, thesis]
+category: bairdi
+tags: [bairdi, thesis]
 ---
 
 VERY belated post, but my thesis has been officially completed and made available since August! Links in post.
