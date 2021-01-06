@@ -2,7 +2,8 @@
 layout: post
 title: 2015 Oysterseed Plan and Crab Meeting Notes
 date: '2018-12-06'
-tags: [bairdi, 2015Oysterseed]
+categories: [bairdi, DIAOyster]
+tags: [bairdi, DIAOyster, CrabMeeting]
 ---
 Crab Meeting today: shared current status of what we've got (FISH546 [grace-Cbairdi-transcriptome](https://github.com/fish546-2018/grace-Cbairdi-transcriptome)). Additionally, we had a proteomics meeting today and I got some input on next steps for the DIA: set some stringent thresholds, MS Stats, make some tables, etc. I will make a separate post on what I did (protocol) tomorrow as I work with the data. Today's post will just include a general outline of what I have and next steps. 
 
