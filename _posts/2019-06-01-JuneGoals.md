@@ -3,6 +3,7 @@ layout: post
 title: June Goals
 date: '2019-06-01'
 category: MonthlyGoals
+tags: [GeoduckStripSpawn, DIAOyster]
 ---
 I leave for FHL on June 16th for a 5-week intensive course on the Ecology of Infectious Marine Disease!! Lots to do before I go. 
 
