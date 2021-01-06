@@ -3,7 +3,7 @@ layout: post
 title: New Crab Pooling Plan for RNA Seq
 date: '2018-07-02'
 categories: bairdi
-tags: Pools
+tags: [Sequencing, bairdi]
 ---
 Today I met with Sam and Steven a couple times to figure out what we're going to discuss this Thursday with Pam. Steven and Sam have come up with three pools that we feel are a good place to start because unfortunately there's not enough RNA to do the original pooling plan. This post details all the info that I currently have on the plan for our discussion on Thursday.
 
