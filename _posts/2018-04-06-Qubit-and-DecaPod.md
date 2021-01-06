@@ -3,7 +3,7 @@ layout: post
 title: Qubit results and DecaPod episodes
 date: '2018-04-06'
 category: bairdi
-tags: crabproject, Qubit, DecaPod
+tags: [bairdi, Qubit, DecaPod]
 ---
 Result from Qubit of RNA isolation samples and new episode of DecaPod published! Episode on RNA isolation - S1E4.
 
