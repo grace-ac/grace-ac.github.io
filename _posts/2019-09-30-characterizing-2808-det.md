@@ -2,7 +2,8 @@
 layout: post
 title: Oysterseed DIA - trying to characterize list of detected proteins in relation to _C. gigas_ proteome
 date: '2019-09-30'
-category: 2015Oysterseed
+category: DIAOyster
+tags: [DAVID, REVIDO, DIAOyster]
 ---
 I'm still working on wrapping up the results and discussion of this paper. Steven recommended I look into characterizing the list of detected proteins (2,808) in relation to the whole _C. gigas_ proteome. Detailed in post:    
 
