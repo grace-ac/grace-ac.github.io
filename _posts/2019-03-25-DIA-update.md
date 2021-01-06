@@ -2,8 +2,8 @@
 layout: post
 title: 2015 DIA Oysterseed Paper Progress
 date: '2019-03-25'
-category: 2015Oysterseed
-tags: [DIApaper]
+category: DIAOyster
+tags: DIAOyster
 ---
 A little bit of progress has been made with the DIA proteomics paper. I am aiming to have the methods section of the paper solidly done by our meeting this Wednesday at 2 pm. 
 
