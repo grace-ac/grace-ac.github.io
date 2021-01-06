@@ -2,8 +2,8 @@
 layout: post
 title: August Goals
 date: '2018-08-01'
-categories: [baird, 2015Oysterseed]
-tags: RNAisolation, MonthlyGoals, DIA,
+categories: MonthlyGoals
+tags: [RNAIsolation, DIAOyster, bairdi]
 ---
 Crab Project:    
 - Continue working with Sam and Steven to find solutions for the RNA isolation issues I had
