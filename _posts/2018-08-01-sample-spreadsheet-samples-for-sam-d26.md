@@ -3,7 +3,7 @@ layout: post
 title: Hemolymph sampling and Qubit data spreadsheet; Samples for Sam to run RNeasy Mini Plus Kit
 date: '2018-08-01'
 category: bairdi
-tags: Dataorganization, RNeasyKit
+tags: [DataOrganization, RNeasy, bairdi, RNAIsolation]
 ---
 I am picking some samples for Sam to use an RNeasy Mini Plus Kit on. They are from Day 26 (samples were taken in triplicate), and 10 were picked from each of the following groups: uninfected, cold; infected, cold; uninfected, ambient; infected, ambient. I also made a spreadsheet that contains the hemolymph sampling data of all the crabs in the whole experiment (including those that died) left_join-ed with Qubit results data. However, after going through my Qubit csv folder, I found a couple of .csv's that didn't make it into the consolidated qubit csv. So I am currently trying to join the hemolymph data csv with the UPDATED Qubit results data based on tube_number, but am getting an error.
 
