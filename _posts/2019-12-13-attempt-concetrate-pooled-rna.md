@@ -3,6 +3,7 @@ layout: post
 title: Attempt at Concentrating Pooled (made from extra extracted RNA) Samples with the Zymo Microprep kit
 date: '2019-12-13'
 category: bairdi
+tags: [Sequencing, bairdi]
 ---
 So, it turns out my [6 pooled samples](https://grace-ac.github.io/pooled-6-new-samples/) aren't concentrated enough for NWGC to sequence. They are all at around 25ng/ul, but they need to be at least 50ng/ul. I called zymo yesterday to find out how best to do that. They recommended a kit (free sample coming next week). With Sam's guidance, I tried using the Microprep Kit columns and washes to concentrate some pools that I made today out of extra extracted RNA. It kinda worked, I think... but there was some loss of RNA, so I'm worried about using that method with my pooled 6 samples. Details in the post. 
 
