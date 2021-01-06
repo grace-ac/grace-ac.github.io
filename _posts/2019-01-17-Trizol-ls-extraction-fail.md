@@ -3,7 +3,7 @@ layout: post
 title: Trizol LS Extraction - Qubit results show no detectable RNA
 date: '2019-01-17'
 category: bairdi
-tags: [RNAisolation, TrizolLS]
+tags: [RNAIsolation, TrizolLS, bairdi]
 ---
 Today I tried out the Trizol LS Reagent extraction on three samples from Day 26. I used 1ul of each sample to run on the Qubit (RNA High Sensitivity), and all three samples were "out of range". Images and more details in the post below:
 
