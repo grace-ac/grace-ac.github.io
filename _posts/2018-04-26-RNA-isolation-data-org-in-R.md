@@ -3,7 +3,7 @@ layout: post
 title: RNA isolation and Data org
 date: '2018-04-26'
 category: bairdi
-tags: RNAisolation, organization
+tags: [RNAIsolation, bairdi, DataOrganization]
 ---
 More RNA isolation to replace those that had "out of range" RNA qubit results. Ended up contaminating them all, so unusable. Starting my journey of using R for data organization. 
 
