@@ -2,8 +2,8 @@
 layout: post
 title: DIA 2015 Oysterseed Plan (finish by Apr 17)
 date: '2019-03-20'
-category: 2015Oysterseed
-tags: [DIA, WSG-mtg]
+category: DIAOyster
+tags: [DIAOyster, WSG-mtg]
 ---
 Today we had our first WSG meeting with the goal of having all of the projects wrapped up by April 17th. 
 
