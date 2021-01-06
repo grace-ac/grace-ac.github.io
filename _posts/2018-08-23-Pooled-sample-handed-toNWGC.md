@@ -3,7 +3,7 @@ layout: post
 title: Gave Pooled Sample to the NWGC for Library Prep and RNA-Seq!
 date: '2018-08-23'
 category: bairdi
-tags: RNASeq
+tags: [Sequencing, bairdi]
 ---
 Today I finished speed vac-ing (medium heat) the pooled sample. It ended up being too low of volume (14.1ul), so I added 40.9ul of 0.1% DEPC-treated H20. I ran 2ul of the sample on Qubit (RNA HS), and got a reading of 20.4 ul (1,081 ng RNA in the sample)!!!! We FINALLY have a sample to send off for library prep and sequencing! After getting info from NWGC (Chris in the Nickerson Lab at Foege) I put the sample on dry ice and walked it over! It is now in their hands until we get the data back. :) 
 
