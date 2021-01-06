@@ -2,8 +2,8 @@
 layout: post
 title: Running Qubit for the first time, and continuing DIA analysis
 date: '2018-02-20'
-categories: [bairdi, 2015Oysterseed]
-tags: Qubit, DIA
+categories: [bairdi, DIAOyster]
+tags: [Qubit, DIAOyster, bairdi]
 ---
 
 Today I tested out Qubit for the first time as well as moving on to step 4 in the DIA protocol.
