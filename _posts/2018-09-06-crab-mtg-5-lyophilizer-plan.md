@@ -3,7 +3,7 @@ layout: post
 title: Crab Meeting #5 and Plan for Lyophilizer
 date: '2018-09-06'
 category: bairdi
-tags: [CrabMeeting, Lyophilizer]
+tags: [CrabMeeting, Lyophilizer, bairdi]
 ---
 Today we had Crab Meeting #5. We discussed the new plan for using the lyophilizer (freeze drier) and Tri-Reagent protocol for extracting RNA. I recorded the meeting and will edit and publish tomorrow as a new DecaPod episode. I also went over to FSH building with Sam and he showed me how the lyophilizer works. On Monday, I will put the samples in and retrieve them on Tuesday, at which point they will be ready for Sam to extract RNA from and for me to run the lyophilized pooled sample on the Qubit.
 
