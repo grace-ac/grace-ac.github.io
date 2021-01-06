@@ -3,7 +3,7 @@ layout: post
 title: Podcast and RNA isolation next steps
 date: '2018-02-06'
 categories: bairdi
-tags: Crabproject, Podcast
+tags: [bairdi, podcast]
 ---
 
 Ordering the mics for the Podcast and this week I will test out the RNA isolation protocol. 
