@@ -3,7 +3,7 @@ layout: post
 title: First Attempts- Trying new BLAST +2.81 with new taxid options
 date: '2019-01-15'
 category: bairdi
-tags: BLAST
+tags: [BLAST, bairdi]
 ---
 Today I'm trying to get started on the new BLAST +2.81 that has new databases and improved performance. This is pretty exciting because once I figure out how this works, I'll be able to easily get taxonomy information like Order, Class, etc. I'm attempting what I believe is the first step in this process: trying to get the taxid for "Decapoda". Details below of resources used and what I did. 
 
