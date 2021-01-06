@@ -3,7 +3,7 @@ layout: post
 title: Trying out RNA protocol with 6x original protocol's volumes of reagents
 date: '2018-07-30'
 category: bairdi
-tags: RNAisolation, Qubit
+tags: [RNAIsolation, Qubit, bairdi]
 ---
 Today Steven, Sam, and I met to talk about the issue with poor results on the QUbit and Nanodrop1000 on the pooled hemolymph samples I prepared. Short-term plan is to try out the RNA protocol, but multiply all reagents times 6 (so, use 6ml of RNAzol, etc.) to see if that ratio would help; run the Bioanalyzer on the samples that Sam processed as well as some random samples that I isolated. Today, I did the 6x RNA protocol on 4 of the extra samples from day 26 (samples from day 26 were taken in triplicate). 
 
