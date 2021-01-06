@@ -2,8 +2,8 @@
 layout: post
 title: Still have high error rates in Skyline - posted my issue to the Skyline support page
 date: '2018-06-20'
-categories: 2015Oysterseed
-tags: DIA
+categories: DIAOyster
+tags: DIAOyster
 ---
 Today I went through all my setting and files in Skyline for the 2015Oysterseed proteomic project and re-did my Skyline Daily peak-picking error rate determination. I still got an error rate nearing 50%, so per Emma's suggestion, I submitted the issue to Skyline's support page.
 
