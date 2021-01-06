@@ -3,7 +3,7 @@ layout: post
 title: Bairdi RNA - Bioanalyzer and Nanodrop, Begin analyses for GSS - Kallisto
 date: '2019-11-06'
 category: bairdi
-tags: [Bioanalyzer, Nanodrop, Kallisto]
+tags: [Bioanalyzer, Nanodrop, Kallisto, bairdi, GSS]
 ---
 Today I tried doing several things, none of them super successfully. First, I tried using Kallisto to get some quick differential expression results from the new bairdi RNA-seq data. It didn't work, but I just need to look a little more into it. I didn't spend too much time on it. Secondly, I tried running 11 of the extracted RNA samples on the Bioanalyzer - things do not look good. Thirdly, I ran those same samples on the NanoDop. I am not sure what to make of the Nanodop results yet. 
 
