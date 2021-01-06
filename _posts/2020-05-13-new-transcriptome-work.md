@@ -3,6 +3,7 @@ layout: post
 title: Submitted Thesis Chapters to Committee; Start working with New transcriptome
 date: '2020-05-13'
 category: bairdi
+tags: [thesis, bairdi, analyses]
 ---
 Today I submitted my two thesis chapters to my committee, and between now and June 2nd (my defense date), I'll be doing more differential expression analyses with the new transcriptome (not filtered based on taxonomy). Plan for the work and what I've done so far detailed in post.
 
