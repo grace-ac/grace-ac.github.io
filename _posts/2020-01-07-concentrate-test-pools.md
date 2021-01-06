@@ -3,6 +3,7 @@ layout: post
 title: Attempt to concentrate test pools using Zymo RNA Clean and Concentrator Kit -5
 date: '2020-01-07'
 category: bairdi
+tags: [Sequencing, bairdi]
 ---
 Received the Zymo RNA Clean and Concentrator Kit -5 yesterday. Plan is to concentrate my [6 pooled samples](https://grace-ac.github.io/pooled-6-new-samples/). I tested it out on some test pools I made quickly. Short answer: unclear if it worked because the initial qubit RNA HS readings of the test pools were both "TOO LOW"... and after concentrating, one test pool was still "TOO LOW", while the other was 2.20 ng/ ul in a 2 ul sample from RNA eluted in 35ul. Details in post. (Also at the end of the post: general updates on crab project and my January plans). 
 
