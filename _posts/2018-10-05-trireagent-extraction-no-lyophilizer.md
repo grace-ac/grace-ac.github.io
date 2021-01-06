@@ -3,7 +3,7 @@ layout: post
 title: Extract RNA from non-lyophilized C. bairdi hemolymph
 date: '2018-10-05'
 category: bairdi
-tags: RNAisolation
+tags: [RNAIsolation, bairdi]
 ---
 Today I extracted RNA from four practice samples using Tri-reagent, and without lyophilizing (lyophilizer is out of commission again for now). 
 
