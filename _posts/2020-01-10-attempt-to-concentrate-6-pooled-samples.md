@@ -3,7 +3,7 @@ layout: post
 title: 6 pooled Crab RNA samples - unsuccessful concentration with Zymo RNA Clean and Concentrator Kit -5
 date: '2020-01-10'
 category: bairdi
-tags: [RNA, concentration, qubit]
+tags: [Qubit, bairdi, Sequencing]
 ---
 Today I tried to concentrate the 6 pooled crab RNA samples. Long story short, a lot of RNA was lost in the process and the "concetrated" samples are now well below the requirements for NWGC for RNAseq. Details in post. Next steps, I'm going to extract more RNA from samples from Day 9 so we can bulk those pools up if we want to try to send them to NWGC still. Then I'll extract more RNA from samples that will bulk up the other pools, too. 
 
