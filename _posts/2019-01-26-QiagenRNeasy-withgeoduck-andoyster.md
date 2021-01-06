@@ -3,7 +3,7 @@ layout: post
 title: Qiagen RNeasy Micro Plus Kit with Geoduck hemolymph and oyster tissue
 date: '2019-01-26'
 category: bairdi
-tags: [RNAisolation, RNeasy]
+tags: [RNAIsolation, RNeasy, bairdi]
 ---
 Today I also tried the Qiagen RNeasy Micro Plus Kit on geoduck (_P. generosa_) hemolymph (2 samples) and oyster (_C. viriginica_) tissue (2 samples). 
 
