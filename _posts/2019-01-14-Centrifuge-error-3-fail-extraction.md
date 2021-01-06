@@ -3,7 +3,7 @@ layout: post
 title: Error 3 on Centrifuge- Couldn't finish Extraction with TriZol LS Reagent 
 date: '2019-01-14'
 category: bairdi
-tags: [TrizolLS, RNAisolation]
+tags: [TrizolLS, RNAIsolation, bairdi]
 ---
 Today I tried out the Trizol LS Reagent extraction, but the centrifuge in the 4˚C in FTR 213 had an "Err 3" message, which happens when there's an error in the rotational speed measurement system (GitHub Issue [#542](https://github.com/RobertsLab/resources/issues/542)). I'll put a different centrifuge in the 4C and re-try the protocol on Wednesday. This post includes my protocol for the Trizol LS Reagent extraction.
 
