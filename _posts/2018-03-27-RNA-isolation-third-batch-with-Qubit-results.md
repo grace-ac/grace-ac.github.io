@@ -3,7 +3,7 @@ layout: post
 title: RNA Isolation info from Sam - Updated RNA isolation protocol; Qubit
 date: '2018-03-27'
 categories: bairdi
-tags: RNAisolation, Qubit
+tags: [RNAIsolation, Qubit, bairdi]
 ---
 Today I updated the RNA isolation protocol based on info from Sam, and I made some mistakes in isolating RNA today. Ran Qubit. 
 
