@@ -2,8 +2,8 @@
 layout: post
 title: Re-visiting error rate in Skyline and figuring out the math in pooling samples for sequencing
 date: '2018-06-08'
-categories: [bairdi, 2015Oysterseed]
-tags: DIA, Crabproject
+categories: [bairdi, DIAOyster]
+tags: [DIAOyster, bairdi]
 ---
 Today I re-did the Skyline peak-picking error rate for the 2015 Oysterseed DIA and sent off the results to Emma for feedback. I also worked on figuring out how to make the 12 pooled samples that will be sent off for sequencing. Awaiting Steven's feedback on that.
 
