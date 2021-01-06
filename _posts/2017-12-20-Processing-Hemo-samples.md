@@ -2,7 +2,8 @@
 layout: post
 title: Processing Hemolymph
 date: '2017-12-20'
-categories: [bairdi, hemolymph]
+category: bairdi
+tags: hemolymph
 ---
 
 Dates and links to my old notebook posts on when I spun down the hemolymph samples from Pam. 
