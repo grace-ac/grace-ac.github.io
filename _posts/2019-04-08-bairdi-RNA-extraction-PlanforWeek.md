@@ -2,8 +2,8 @@
 layout: post
 title: Bairdi RNA extractions- other methods to try; Plan for Week 
 date: '2019-04-08'
-category: [bairdi, 2015Oysterseed]
-tags: [RNAisolation, DIApaper]
+category: [bairdi, DIAOyster]
+tags: [RNAIsolation, DIAOyster, bairdi]
 ---
 Between trying to add some edits and clean things up for the 2015 Oysterseed project paper, I've been reading protocols for other RNA extraction kits. Zymo Quick-DNA/RNA Mircoprep Plus Kit, Zymo Directzol RNA MiniPrep... Details in post
 
