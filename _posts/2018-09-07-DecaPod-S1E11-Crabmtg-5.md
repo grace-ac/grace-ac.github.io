@@ -3,7 +3,7 @@ layout: post
 title: DecaPod Season 1 Ep 11 - Crab Mtg #5
 date: '2018-09-07'
 category: bairdi
-tags: DecaPod
+tags: [DecaPod, bairdi, CrabMeeting]
 ---
 Today I edited and published DecaPod S1E11: Crab Meeting #5. I also have a plan for the format of the podcast.
 
