@@ -3,6 +3,7 @@ layout: post
 title: January 2019 Goals
 date: '2019-01-01'
 category: MonthlyGoals
+tags: [DIAOyster, bairdi]
 ---
 ### 2015 Oysterseed DIA
 - Finish data analysis
