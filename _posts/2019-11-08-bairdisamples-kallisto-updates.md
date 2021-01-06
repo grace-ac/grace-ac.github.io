@@ -3,7 +3,7 @@ layout: post
 title: Still no clear RNA bands on Bioanalyzer; Also working to get diff. exp. for GSS
 date: '2019-11-08'
 category: bairdi
-tags: [Qubit, Bioanalyzer, Kallisto]
+tags: [Qubit, Bioanalyzer, Kallisto, bairdi]
 ---
 Today I went through the DNase-free plan with 4 of the extracted crab samples. There was initially quite a bit of DNA, then after I used the Turbo DNA-free Kit, there was significantly less DNA. The Bioanalyzer still didn't look super great... detail in post. Also, I'm working through kallisto and have abundance files - working to figure out next steps in order to hopefully create a heatmap of differential expression between the infected and uninfected crabs (combining day 12 and day 26). Details in post. 
 
