@@ -3,7 +3,7 @@ layout: post
 title: BLAST on Hummingbird and Transrate 
 date: '2018-11-12'
 category: bairdi
-tags: [BLAST, Transrate]
+tags: [BLAST, Transrate, bairdi]
 ---
 Today I attempted to take my BLAST output on Hummingbird and work through this [blast-2-slim](https://github.com/sr320/nb-2018/blob/master/C_virginica/83-blast-2-slim.ipynb) notebook of Steven's. I had gone through this before using [Cgigas](https://github.com/grace-ac/Practicing-with-Blast/blob/master/notebooks/blast-to-slim.ipynb). I got stuck today at the part where you ```!join``` ```_blast-GO-unfolded.sorted``` with ```GO-GOslim.sorted```. Will ask tomorrow. Additionally, today I worked on using ```transrate``` to look at my _C. bairdi_ assembly using [Laura's notebook](https://github.com/fish546-2018/laura-quantseq/blob/master/notebooks/transcriptome-assess-annotate.ipynb) as a guide. 
 
