@@ -2,8 +2,8 @@
 layout: post
 title: 2015 Oysterseed DIA meeting notes
 date: '2018-02-08'
-categories: 2015Oysterseed
-tags: DIA
+categories: DIAOyster
+tags: [DIAOyster, Skyline]
 ---
 
 Notes from a meeting on DIA analysis and the 2015 oysterseed project with Emma, Steven, and Kaitlyn. 
