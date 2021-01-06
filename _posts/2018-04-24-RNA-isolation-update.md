@@ -3,7 +3,7 @@ layout: post
 title: RNA Isolation Update and Upcoming Goals
 date: '2018-04-24'
 category: bairdi
-tags: RNAisolation, Qubit, Crabproject
+tags: [RNAIsolation, Qubit, bairdi]
 ---
 Last batch of RNA isolation based on what I picked previously. Working on organizing data sheets to figure out exactly what I have. Plan for this week. 
 
