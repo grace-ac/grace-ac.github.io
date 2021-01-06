@@ -3,7 +3,7 @@ layout: post
 title: Make Taxonomy Pie Charts in R
 date: '2018-11-30'
 category: bairdi
-tags: R
+tags: [R, Bioanalyzer, bairdi]
 ---
 Today I fiured out how to make pie charts in R, and I did so with the taxonomy output from the BLAST with the _C. bairdi_ transcriptome and the ```nt``` taxonomy database. I mostly worked on [my repo](https://github.com/fish546-2018/grace-Cbairdi-transcriptome) for Fish546, and it's still a work in progress. Also, update on crab extractions - Bioanalyzer isn't reading chips.... 
 
