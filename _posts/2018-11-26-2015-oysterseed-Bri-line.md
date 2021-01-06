@@ -2,8 +2,8 @@
 layout: post
 title: Start new DIA analysis using Walnut, EncyclopeDIA, and Bri-line
 date: '2018-11-26'
-category: 2015Oysterseed
-tags: [DIA, Bri-line, EncyclopeDIA, Walnut, Skyline]
+category: DIAOyster
+tags: [DIAOyster, Briline, EncyclopeDIA, Walnut, Skyline]
 ---
 Today I tried doing the ```mprophet``` model in Skyline Daily. It wasn't super great and I got stuck, but Emma reminded me that a lot of people who do DIA analysis prefer a new method using Walnut, EncyclopeDIA, and Bri-line. I started this new protocol today and am currently letting Walnut make the new chromatogram library, which will take a while. I'll move on to the next phase for this tomorrow when the library is done.
 
