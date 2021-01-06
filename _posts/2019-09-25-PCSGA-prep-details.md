@@ -3,7 +3,7 @@ layout: post
 title: Crab Project - What I did for PCSGA 2019
 date: '2019-09-25'
 category: bairdi
-tags: PCSGA
+tags: [PCSGA, conferences]
 ---
 In this post I will detail what I did for PCSGA 2019. I did some new analyses
 and found some new results from our first assembled transcriptome.
