@@ -3,7 +3,7 @@ layout: post
 title: RNA isolation, Qubit, DecaPod updates
 date: '2018-04-20'
 category: bairdi
-tags: RNAisolation, Crabproject, Qubit, DecaPod, updates
+tags: [RNAIsolation, bairdi, Qubit, DecaPod]
 ---
 Updates on progress of RNA isolation, DecaPod, and plan for the next week. 
 
