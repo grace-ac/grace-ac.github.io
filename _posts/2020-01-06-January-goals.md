@@ -3,6 +3,7 @@ layout: post
 title: January 2020 Goals
 date: '2020-01-06'
 category: MonthlyGoals
+tags: [bairdi, DIAOyster, thesis, AMSS, conferences]
 ---
 
 ## Crab
