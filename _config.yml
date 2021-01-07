@@ -18,8 +18,8 @@ navbar-links:
     - Alaska Tanner crab: "projects/tannercrab-project"
     - Pacific oyster: "projects/pacificoyster"
     - Pacific geoduck: "projects/pacificgeoduck"
-  Lab Notebook: "notebook"  
-  Publications/Products: "publications"
+  Lab Notebook: "notebook"
+  Products: "publications"
   Outreach: "outreach"
   CV: "cv/Crandall-CV.pdf"
   Home: "index"
@@ -217,7 +217,7 @@ defaults:
     values:
       layout: "page"
       show-avatar: true
-      
+
 # Use tags index page and make tags on each post clickable
 link-tags: true
 
@@ -284,4 +284,3 @@ plugins:
 
 # Beautiful Jekyll / Dean Attali
 # 2fc73a3a967e97599c9763d05e564189
-
