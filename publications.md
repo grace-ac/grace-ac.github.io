@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications / Products
+title: Products
 ---
 
 [Google Scholar](https://scholar.google.com/citations?user=lpQ7TX8AAAAJ&hl=en)     
@@ -20,6 +20,17 @@ DOI: 10.1021/acs.jproteome.7b00288
 Emma B. Timmins-Schiffman, **Grace A. Crandall**, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, and Steven B. Roberts. doi: https://doi.org/10.1101/094615
 [Integrating protoemics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](https://www.biorxiv.org/content/10.1101/094615v1.full). BioRxiv. December 15, 2016. 
 
+### Presentations 
+#### Talks 
+"Effects of Bitter Crab Disease on gene expression in Alaska Tanner Crabs". [Slides available on Figshare](https://figshare.com/articles/presentation/Effects_of_Bitter_Crab_Disease_on_gene_expression_in_Alaska_Tanner_Crabs/11908350). Alaska Marine Science Symposium, Anchorage, AK. January 2020. 
+
+"Effects of Bitter Crab Disease on the gene expression of Alaska Tanner Crabs". [Slides available on Figshare](https://figshare.com/articles/presentation/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaska_Tanner_Crabs/11120480). 
+Graduate Student Symposium (GSS): School of Aquatic and Fishery Sciences, UW. November 2019. 
+
+"Effects of Bitter Crab Disease on the gene expression of Alaskan Tanner Crabs". [Slides available on Figshare](https://figshare.com/articles/presentation/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaskan_Tanner_Crabs/9898916). National Shellfisheries Association/Pacific Coast Shellfish Growers Association (NSA/PCSGA) Conferece, Portland, OR. September 2019. 
+
+#### Posters
+"Effects of temperature and _Hematodinium_ -sp. infection on Southeast Alaskan Tanner Crabs". [Poster available on Figshare](https://figshare.com/articles/poster/Effects_of_temperature_and_Hematodinium-sp_infection_on_Southeast_Alaskan_Tanner_Crabs/7361375). Graduate Student Symposium (GSS): School of Aquatic and Fishery Sciences, UW. November 2018.
 
 ### Products
 
