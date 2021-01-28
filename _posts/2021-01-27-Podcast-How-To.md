@@ -100,9 +100,10 @@ Recording an episode is done in garage band. You can either use your laptop/comp
 ![img](../notebook-images/podcasthowto/part2-02-showinfinder.png)      
 ![img](../notebook-images/podcasthowto/part2-03-viewinfinder.png)   
 
-### 2f. In your new project, drag the intro, editted episode recording, and outro into the project. 
+### 2f. In your new project, drag the intro, editted episode recording, and outro into the project. The gif shows putting the intro, episode, and outro into the project, and then playing with the volume levels to fade in and out. 
+![img](../notebook-images/podcasthowto/part2-04-dragintro.png)    
 
-
+![gif](../notebook-images/podcasthowto/edit-episode-example.gif)
 
 
 
