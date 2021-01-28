@@ -126,6 +126,13 @@ The completed episode is currently exported to my Desktop from GarageBand.
 
 ![img](../notebook-images/podcasthowto/part3-03-embed-mp3.png)
 
+#### 3d. I'm not sure if this is specific to the wordpress format that Steven chose when he created the NPRB 1705 project portal at bittercrab.science, but the posts tagged with "Podcast" can be found at the tab on the main page.  
+
+![img](../notebook-images/podcasthowto/part3-04-podcasttab.png)   
+
+![img](../notebook-images/podcasthowto/part3-05-podcast-section.png)
+
+# 4. Getting the podcast dicsoverable on podcast platforms. 
 
 
 
