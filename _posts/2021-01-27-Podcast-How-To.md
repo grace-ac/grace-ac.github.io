@@ -91,9 +91,16 @@ Recording an episode is done in garage band. You can either use your laptop/comp
 
 ![gif](../notebook-images/podcasthowto/edit-episode-example.gif)
 
+### 2c. After you'd edited the episode to your liking, save the project and share to Music like you did when creating the intro/outro. 
 
+### 2d. Finish up the episode by tacking the intro and outro to the beginning and end, respectively. Open a new voice project like you've done before, and save it with a more formal format, for example, S#Ep#-description, where S# is the season number, and Ep# is the episode number. 
 
+### 2e. Go to Music and look for your intro. Click on the three dots to view the audio file in Finder.      
+![img](../notebook-images/podcasthowto/part2-01-threedots.png)    
+![img](../notebook-images/podcasthowto/part2-02-showinfinder.png)      
+![img](../notebook-images/podcasthowto/part2-03-viewinfinder.png)   
 
+### 2f. In your new project, drag the intro, editted episode recording, and outro into the project. 
 
 
 
