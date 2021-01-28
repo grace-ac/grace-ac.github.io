@@ -97,7 +97,9 @@ Recording an episode is done in garage band. You can either use your laptop/comp
 
 #### 2e. Go to Music and look for your intro. Click on the three dots to view the audio file in Finder.      
 ![img](../notebook-images/podcasthowto/part2-01-threedots.png)    
+
 ![img](../notebook-images/podcasthowto/part2-02-showinfinder.png)      
+
 ![img](../notebook-images/podcasthowto/part2-03-viewinfinder.png)   
 
 #### 2f. In your new project, drag the intro, editted episode recording, and outro into the project. The gif shows putting the intro, episode, and outro into the project, and then playing with the volume levels to fade in and out. 
@@ -106,7 +108,8 @@ Recording an episode is done in garage band. You can either use your laptop/comp
 ![gif](../notebook-images/podcasthowto/edit-episode-example.gif)
 
 #### 2g. After your episode is complete, save it! Then, instead of sharing to music, you're going to Export Song to Disk as an .mp3. I exported it to my desktop.   
-![img](../notebook-images/podcasthowto/part2-05-exporttodisk.png)     
+![img](../notebook-images/podcasthowto/part2-05-exporttodisk.png)  
+
 ![img](../notebook-images/podcasthowto/part2-06-savemp3.png)
 
 # 3. Publishing the episode.     
