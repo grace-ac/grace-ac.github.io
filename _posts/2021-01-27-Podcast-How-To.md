@@ -85,26 +85,38 @@ The intro and outro sound bites are used to help make your podcast feel more lik
 # 2. Record your first episode
 Recording an episode is done in garage band. You can either use your laptop/computer's built-in microphone, or an external microphone for a little better sound quality. I used Samson Meteor Mic, USB Studio Microphone for Computer Recording.
 
-### 2a. Open garage band and start a new project for Voice. Save the episode with a helpful name, I often would name it date-description. Record the audio and don't worry about making it perfect, because the next step is editing! 
+#### 2a. Open garage band and start a new project for Voice. Save the episode with a helpful name, I often would name it date-description. Record the audio and don't worry about making it perfect, because the next step is editing! 
 
-### 2b. After you have all your audio recorded, you can go in and edit out chunks that you don't want to include, rearrange, and play with the equalizers to fix for any background noises, loud sounds, or soften certain letters like "p", which can sometimes pop. The gif below goes through how I edit out chunks of audio, rearrange audio chunks, and play with the equalizers. 
+#### 2b. After you have all your audio recorded, you can go in and edit out chunks that you don't want to include, rearrange, and play with the equalizers to fix for any background noises, loud sounds, or soften certain letters like "p", which can sometimes pop. The gif below goes through how I edit out chunks of audio, rearrange audio chunks, and play with the equalizers. 
 
 ![gif](../notebook-images/podcasthowto/edit-episode-example.gif)
 
-### 2c. After you'd edited the episode to your liking, save the project and share to Music like you did when creating the intro/outro. 
+#### 2c. After you'd edited the episode to your liking, save the project and share to Music like you did when creating the intro/outro. 
 
-### 2d. Finish up the episode by tacking the intro and outro to the beginning and end, respectively. Open a new voice project like you've done before, and save it with a more formal format, for example, S#Ep#-description, where S# is the season number, and Ep# is the episode number. 
+#### 2d. Finish up the episode by tacking the intro and outro to the beginning and end, respectively. Open a new voice project like you've done before, and save it with a more formal format, for example, S#Ep#-description, where S# is the season number, and Ep# is the episode number. 
 
-### 2e. Go to Music and look for your intro. Click on the three dots to view the audio file in Finder.      
+#### 2e. Go to Music and look for your intro. Click on the three dots to view the audio file in Finder.      
 ![img](../notebook-images/podcasthowto/part2-01-threedots.png)    
 ![img](../notebook-images/podcasthowto/part2-02-showinfinder.png)      
 ![img](../notebook-images/podcasthowto/part2-03-viewinfinder.png)   
 
-### 2f. In your new project, drag the intro, editted episode recording, and outro into the project. The gif shows putting the intro, episode, and outro into the project, and then playing with the volume levels to fade in and out. 
+#### 2f. In your new project, drag the intro, editted episode recording, and outro into the project. The gif shows putting the intro, episode, and outro into the project, and then playing with the volume levels to fade in and out. 
 ![img](../notebook-images/podcasthowto/part2-04-dragintro.png)    
 
 ![gif](../notebook-images/podcasthowto/edit-episode-example.gif)
 
+#### 2g. After your episode is complete, save it! Then, instead of sharing to music, you're going to Export Song to Disk as an .mp3. I exported it to my desktop.   
+![img](../notebook-images/podcasthowto/part2-05-exporttodisk.png)     
+![img](../notebook-images/podcasthowto/part2-06-savemp3.png)
+
+# 3. Publishing the episode.     
+The completed episode is currently exported to my Desktop from GarageBand. 
+
+#### 3a. Upload the .mp3 of the complete episode to Owl or something similar. 
+
+#### 3b. Go to wordpress, and start a new post, adding the tag for Podcast.
+
+#### 3c. In the body of the post, add a blurb about what the episode is about. This blurb is what will show up on podcast platforms as the description of the episode. Title the post as the title of the episode. 
 
 
 
