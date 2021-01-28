@@ -135,12 +135,17 @@ I created album art for the podcast. I just edited a picture that I took when I 
 ![img](../notebook-images/podcasthowto/decapod-albumart.png)
 
 #### Apple Podcasts/Music
-I did this in September 2018, so I can't quite remember it, but based on my notebook post from then ([here](https://grace-ac.github.io/podcast-submitted-to-apple-plan-for-mon/)), I used a guide from wordpress: [here](https://en.support.wordpress.com/audio/podcasting/). When I completed this process, DecaPod was able to be found on Apple Podcasts and iTunes store. 
+I did this in September 2018, so I can't quite remember it, but based on my notebook post from then ([here](https://grace-ac.github.io/podcast-submitted-to-apple-plan-for-mon/)), I used a guide from wordpress: [here](https://en.support.wordpress.com/audio/podcasting/). When I completed this process, DecaPod was able to be found on Apple Podcasts. 
+
+![img](../notebook-images/podcasthowto/part4-podcast-decapod.png)
 
 #### SoundCloud
 I also added it to SoundCloud (my channel: [here](https://soundcloud.com/grace-crandall-838579799/tracks)), but I just now realized it didn't update with every new podcast episode I published. I don't remember how I did it, but I obviously didn't do it great since it never updated with each episode added. 
 
+#### Subscribe directly from WordPress
+There's also a way to subcribe to the podcast through Apple Podcasts directly on the WordPress page, but also you can use a pocast app using the url listed. 
 
+![img](../notebook-images/podcasthowto/part4-subscribe-wordpress.png)
 
 
 
