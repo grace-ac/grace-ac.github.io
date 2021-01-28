@@ -85,7 +85,9 @@ The intro and outro sound bites are used to help make your podcast feel more lik
 # 2. Record your first episode
 Recording an episode is done in garage band. You can either use your laptop/computer's built-in microphone, or an external microphone for a little better sound quality. I used Samson Meteor Mic, USB Studio Microphone for Computer Recording.
 
-### 2a. Open garage band and start a new project for Voice. Save the episode with a helpful name, I often would name it date-description. 
+### 2a. Open garage band and start a new project for Voice. Save the episode with a helpful name, I often would name it date-description. Record the audio and don't worry about making it perfect, because the next step is editing! 
+
+### 2b. After you have all your audio recorded, you can go in and edit out chunks that you don't want to include, rearrange, and play with the equalizers to fix for any background noises, loud sounds, or soften certain letters like "p", which can sometimes pop. The gif below goes through how I edit out chunks of audio, rearrange audio chunks, and play with the equalizers. 
 
 
 
