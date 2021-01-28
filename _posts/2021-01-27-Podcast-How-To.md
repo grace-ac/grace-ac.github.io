@@ -117,11 +117,14 @@ The completed episode is currently exported to my Desktop from GarageBand.
 
 #### 3a. Upload the .mp3 of the complete episode to Owl or something similar. 
 
-#### 3b. Go to wordpress, and start a new post, adding the tag for Podcast.
+#### 3b. Go to wordpress, and start a new post, adding the tag for Podcast.  
+![img](../notebook-images/podcasthowto/part3-01-newpost-addtag.png)      
+
+![img](../notebook-images/podcasthowto/part3-02-addedtag.png)
 
 #### 3c. In the body of the post, add a blurb about what the episode is about. This blurb is what will show up on podcast platforms as the description of the episode. Title the post as the title of the episode. 
 
-
+![img](../notebook-images/podcasthowto/part3-03-embed-mp3.png)
 
 
 
