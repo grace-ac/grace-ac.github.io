@@ -82,7 +82,7 @@ The intro and outro sound bites are used to help make your podcast feel more lik
 
 ## Create outro. Do the same thing as detailed in the above steps, but with some voice-over thanking the listeners for tuning in, maybe provide the name of a website or some other resource where they can learn more, or ask them to subscribe to the podcast to stay updated on the project/topic. 
 
-#2. Record your first episode
+# 2. Record your first episode
 Recording an episode is done in garage band. You can either use your laptop/computer's built-in microphone, or an external microphone for a little better sound quality. I used Samson Meteor Mic, USB Studio Microphone for Computer Recording.
 
 ### 2a. Open garage band and start a new project for Voice. Save the episode with a helpful name, I often would name it date-description. 
