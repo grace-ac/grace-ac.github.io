@@ -117,24 +117,28 @@ The completed episode is currently exported to my Desktop from GarageBand.
 
 #### 3a. Upload the .mp3 of the complete episode to Owl or something similar. 
 
-#### 3b. Go to wordpress, and start a new post, adding the tag for Podcast.  
-![img](../notebook-images/podcasthowto/part3-01-newpost-addtag.png)      
-
-![img](../notebook-images/podcasthowto/part3-02-addedtag.png)
+#### 3b. Go to wordpress, and start a new post, adding the category as Podcast.  
+![img](../notebook-images/podcasthowto/part3-01-addpodcast-category.png)      
 
 #### 3c. In the body of the post, add a blurb about what the episode is about. This blurb is what will show up on podcast platforms as the description of the episode. Title the post as the title of the episode. 
 
-![img](../notebook-images/podcasthowto/part3-03-embed-mp3.png)
+![img](../notebook-images/podcasthowto/part3-02-embed-mp3.png)
 
-#### 3d. I'm not sure if this is specific to the wordpress format that Steven chose when he created the NPRB 1705 project portal at bittercrab.science, but the posts tagged with "Podcast" can be found at the tab on the main page.  
+#### 3d. I'm not sure if this is specific to the wordpress format that Steven chose when he created the NPRB 1705 project portal at bittercrab.science, but the posts categorized as "Podcast" can be found at the tab on the main page.  
 
 ![img](../notebook-images/podcasthowto/part3-04-podcasttab.png)   
 
 ![img](../notebook-images/podcasthowto/part3-05-podcast-section.png)
 
 # 4. Getting the podcast dicsoverable on podcast platforms. 
+I created album art for the podcast. I just edited a picture that I took when I was in Juneau of a Tanner crab.  
+![img](../notebook-images/podcasthowto/decapod-albumart.png)
 
+#### Apple Podcasts/Music
+I did this in September 2018, so I can't quite remember it, but based on my notebook post from then ([here](https://grace-ac.github.io/podcast-submitted-to-apple-plan-for-mon/)), I used a guide from wordpress: [here](https://en.support.wordpress.com/audio/podcasting/). When I completed this process, DecaPod was able to be found on Apple Podcasts and iTunes store. 
 
+#### SoundCloud
+I also added it to SoundCloud (my channel: [here](https://soundcloud.com/grace-crandall-838579799/tracks)), but I just now realized it didn't update with every new podcast episode I published. I don't remember how I did it, but I obviously didn't do it great since it never updated with each episode added. 
 
 
 
