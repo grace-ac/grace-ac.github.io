@@ -89,7 +89,7 @@ Recording an episode is done in garage band. You can either use your laptop/comp
 
 ### 2b. After you have all your audio recorded, you can go in and edit out chunks that you don't want to include, rearrange, and play with the equalizers to fix for any background noises, loud sounds, or soften certain letters like "p", which can sometimes pop. The gif below goes through how I edit out chunks of audio, rearrange audio chunks, and play with the equalizers. 
 
-
+![gif](../notebook-images/podcasthowto/edit-episode-example.gif)
 
 
 
