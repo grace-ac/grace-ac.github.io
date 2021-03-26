@@ -5,7 +5,7 @@ date: '2021-03-25'
 category: [Pubathon, DIAOyster]
 ---
 
-Added a little to the oyster discussion, then went down a slight tangent looking for and then looking into the histology report results from the samples taken for this project. 
+Added a little to the oyster discussion, then went down a slight tangent looking for and then looking into the histology report results from the samples taken for this project. (Update March 26, 2021 --> will not use histology report results for the paper. Don't have access to report results and also it doesn't fit in with the proteomic results in the paper)
 
 ### Oyster paper: [here](https://docs.google.com/document/d/1OaYNzlOJr5QibCYt8--GMNGvXlzHPR9_daCkNUVkj-U/edit#)      
 ### Oyster paper GitHub repo: [here](https://github.com/grace-ac/paper-pacific.oyster-larvae)     
@@ -30,7 +30,6 @@ I looked through an old [.pdf version of Rhonda's 2015 paper](https://github.com
 **bacteria**: none on day 5 and none on day 8 
 
 
-If these results are what's in the actual reports, it's kind of interesting, especially the digestive gland quality included with the ciliate presence/absence. The oysters in 23C started out really well with great digestive gland quality, but by day 8, there was high infection with ciliates and the quality of digestive glands didn't improve and in some got way worse. The oysters in 29C started out poorly, maybe the temperature was too high for them...?, but then over the course of a couple days, their digestive gland quality did a HUGE flip from poor (60% had very low quality! only 4% had high quality!) to overall high quality (44% had high quality!) and there were no ciliates. 
-
-I think it would be cool to add this information in to the paper and expand on it a bit more if we can find the reports from Dr. Ralph Eston at Aquatechnics. 
+## Update March 26, 2021
+Not going to use histology report reults for the paper becuase it doesn't fit in with the proteomic results that I have since the proteomics results pool the sample days. Would be way too confusing to try to fit in the paper. 
 
