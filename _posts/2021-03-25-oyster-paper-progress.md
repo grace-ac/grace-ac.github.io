@@ -1,15 +1,14 @@
---- 
+---
 layout: post
-title: Oyster paper progress - Pub-a-thon 2021
-date: '2021-03'25'
-category: Pubathon
-tags: [DIAOyster]
+title: Oyster Paper Progress
+date: '2021-03-25'
+category: [Pubathon, DIAOyster, bairdi]
 ---
 
 Added a little to the oyster discussion, then went down a slight tangent looking for and then looking into the histology report results from the samples taken for this project. 
 
 ### Oyster paper: [here](https://docs.google.com/document/d/1OaYNzlOJr5QibCYt8--GMNGvXlzHPR9_daCkNUVkj-U/edit#)      
-### Oyster ppaer GitHub repo: [here](https://github.com/grace-ac/paper-pacific.oyster-larvae)     
+### Oyster paper GitHub repo: [here](https://github.com/grace-ac/paper-pacific.oyster-larvae)     
 ### Rhonda's original project GitHub repo: [here](https://github.com/RobertsLab/project-pacific.oyster-larvae)
 
 
