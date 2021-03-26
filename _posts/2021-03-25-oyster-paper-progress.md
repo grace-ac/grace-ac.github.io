@@ -20,14 +20,14 @@ I came across the [reports](https://github.com/RobertsLab/project-pacific.oyster
 
 I looked through an old [.pdf version of Rhonda's 2015 paper](https://github.com/RobertsLab/project-pacific.oyster-larvae/blob/master/paper-2015/2015%20Oyster%20seed%20Experiment-%20Taylor%20Hatchery.pdf), and found that she'd written out about the histology report results. The histology report apparently includes information on digestive gland quality, and presence or absence of bactieral infections and protozoan ciliates. Essentially the results are:    
 23 C        
-ciliates: none on day 5; 44% infected on day 8     
-digestive gland quality: above average quality on day 5 (32% high quality; 36% medium; 32% low; 0% very low), and slight improvement by day 8 (48% high quality; 32% medium; 16%low; 4% very low)
-bacteria: none on day 5; none on day 8    
+**ciliates**: none on day 5; 44% infected on day 8     
+**digestive gland quality**: above average quality on day 5 (32% high quality; 36% medium; 32% low; 0% very low), and slight improvement by day 8 (48% high quality; 32% medium; 16%low; 4% very low)       
+**bacteria**: none on day 5; none on day 8    
 
 29 C     
-ciliates: none on day 5; none on day 8     
-digestive gland quality: overall poor quality on day 5 (4% high quality; 8% medium quality; 28% low quality; 60% very low quality); huge improvement by day 8 (44% high quality; 36% medium quality; 20% low quality; 0% very low quality)   
-bacteria: none on day 5 and none on day 8 
+**ciliates**: none on day 5; none on day 8     
+**digestive gland quality**: overall poor quality on day 5 (4% high quality; 8% medium quality; 28% low quality; 60% very low quality); huge improvement by day 8 (44% high quality; 36% medium quality; 20% low quality; 0% very low quality)   
+**bacteria**: none on day 5 and none on day 8 
 
 
 If these results are what's in the actual reports, it's kind of interesting, especially the digestive gland quality included with the ciliate presence/absence. The oysters in 23C started out really well with great digestive gland quality, but by day 8, there was high infection with ciliates and the quality of digestive glands didn't improve and in some got way worse. The oysters in 29C started out poorly, maybe the temperature was too high for them...?, but then over the course of a couple days, their digestive gland quality did a HUGE flip from poor (60% had very low quality! only 4% had high quality!) to overall high quality (44% had high quality!) and there were no ciliates. 
