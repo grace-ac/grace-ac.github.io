@@ -2,7 +2,7 @@
 layout: post
 title: Oyster Paper Progress
 date: '2021-03-25'
-category: [Pubathon, DIAOyster, bairdi]
+category: [Pubathon, DIAOyster]
 ---
 
 Added a little to the oyster discussion, then went down a slight tangent looking for and then looking into the histology report results from the samples taken for this project. 
