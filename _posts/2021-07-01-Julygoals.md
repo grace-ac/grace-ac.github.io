@@ -5,6 +5,8 @@ date: '2021-07-01'
 category: MonthlyGoals
 ---
 
+I have no idea what happened to the month of June... but I'll note some things that I've done from my May goals in this post. 
+
 # Oyster Paper
 I made a pie of GOslim terms (one of the last month's goals), and have been very slowly chipping away at reorganizing the oyster repo. 
 
