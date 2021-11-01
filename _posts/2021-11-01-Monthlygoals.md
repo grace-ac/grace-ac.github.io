@@ -1,7 +1,7 @@
 ---
-layout: post
-title: November 2021 Goals
-date: '2021-11-01'
+layout: post  
+title: November 2021 Goals   
+date: '2021-11-01'  
 category: MonthlyGoals
 ---
 
