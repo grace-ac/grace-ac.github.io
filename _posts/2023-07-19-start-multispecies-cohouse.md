@@ -3,7 +3,7 @@ layout: post
 title: Start Co-housing Multispecies - No disease exposure yet
 date: '2023-07-19'
 categories: [PhD, pycnopodia, sswd_multispecies_2023]
-tags: [PhD, pycnopodia]
+tags: [PhD, pycnopodia, pisaster, dermasterias]
 ---
 Today we co-housed the three species that will be part of our multi-species experiment.
 
