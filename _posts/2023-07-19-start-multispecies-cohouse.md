@@ -13,7 +13,7 @@ The goal of this experiment is to see if disease can transmit from a wasting _Py
 
 The way that these stars will all get the same exposure, is there will be a wasting _Pycnopodia_ placed in each cohouse bin. The wasting _Pycnopodia_ will be a Friday Harbor lab-raised star that we'll inject with raw sick CF from a wasting adult that was from the field. This is great because the Friday Harbor stars are very small and it would be hard to get coelomocytes from them as they are much smaller than the wild-caught stars (~5cm in diameter vs 15-17cm in diameter).
 
-We decided to co-house the three stars (not the Friday Harbor stars, we'll put them in once we inject them with raw sick CF).
+We decided to co-house the three stars (not the Friday Harbor stars, we'll put them in once we inject them with raw sick CF or for controls, heat-killed CF).
 
 Here's the stars that will be exposed to a wasting Friday Harbor star:
 
