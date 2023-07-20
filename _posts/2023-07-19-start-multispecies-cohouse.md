@@ -16,19 +16,19 @@ We decided to co-house the three stars (not the Friday Harbor stars, we'll put t
 
 Here's the stars that will be exposed to a wasting Friday Harbor star:
 
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/367cc89343312201a61c7e0fe5fd4222110700f8/notebook-images/2023-07-19/20230719_B1-B8_star_IDS.jpeg)
+![img](../notebook-images/2023-07-19/20230719_B1-B8_star_IDS.jpeg)
 
 Here they are in their bins!
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/367cc89343312201a61c7e0fe5fd4222110700f8/notebook-images/2023-07-19/20230719_B1-B8.JPG)
+![img](../notebook-images/2023-07-19/20230719_B1-B8.JPG)
 
 Here are the stars that will be the controls (a Friday Harbor star injected with heat-killed CF):
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/367cc89343312201a61c7e0fe5fd4222110700f8/notebook-images/2023-07-19/20230719_B9-B16_star_IDS.jpeg)
+![img](../notebook-images/2023-07-19/20230719_B9-B16_star_IDS.jpeg)
 
 And here they are in their bins:
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/367cc89343312201a61c7e0fe5fd4222110700f8/notebook-images/2023-07-19/20230719_B9-B16.JPG)
+![img](../notebook-images/2023-07-19/20230719_B9-B16.JPG)
 
 And here's what they look like together (an example: Bin 15)
-![img](https://github.com/grace-ac/grace-ac.github.io/blob/367cc89343312201a61c7e0fe5fd4222110700f8/notebook-images/2023-07-19/20230719_three_species_example_pic_bin15.JPG)
+![img](../notebook-images/2023-07-19/20230719_three_species_example_pic_bin15.JPG)
 
 
 Some notes:
