@@ -41,3 +41,14 @@ We fed the stars after sampling. Because they're co-housed and there's no good w
 Here's what the adult (disease source, adult E), looks like today:       
 This star was co-housed with another adult wasting pycno on Saturday July 15 through Sunday July 16th. That is how we keep disease transmission going in the lab so that we have the same disease source for our experiments. The first star that was the initial wasting star was collected from the field, then we've been co-housing adults throughout the summer and using them as our source of disease for experiments.      
 ![img](../notebook-images/2023-07-21/IMG_4091.JPG)
+
+I collected ____mL of CF from adult E, using a 3ml syringe and a 26 G 1 inch needle. We use a new needle for each new pull of CF, and remove the needle to put the CF into the 25ml short falcon tube so that it's hopefully avoiding getting any microbiota that might be on the needle from the star's dermis in with the CF. 
+
+We heat-killed half (placed in 25ml short falcon tube and placed in boiling water-bath for 10 mins). Melanie injected 200ul of heat-killed CF into n=8 Friday Harbor (FH) stars. She took the FH star out of it's bin, injected it, and then placed it in it's assigned bin for co-housing with the other stars.
+
+I did the same, but with raw CF from adult E.
+
+Samples preserved from adult E:
+coelomocytes and coelomocyte supernatant
+2 coelomic fluid smears
+Remaining CF - DNA/RNA Shield added for Melanie's pathogen discovery work
