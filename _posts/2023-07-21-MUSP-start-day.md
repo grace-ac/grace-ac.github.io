@@ -28,7 +28,7 @@ For the Pisaster, we put the needles in nearly horizontal at the top of the arms
 For the Pycno, we do what we always do, which is put the needle in at the armpit, angled toward the central disc cavity.      
 ![img](../notebook-images/2023-07-21/IMG_4064.JPG)
 
-The CF was placed in a labeled microfuge tube (PSC ###), where each tube number is unique, and we put in our sample log what animal it is associated with, and what time the CF was collected. Melanie spun the CF down, removed the supernatant, added 300ul of shield to the cells, and saved the supernatant. She marked down the time that the samples were placed in the -80C.
+The CF was placed in a labeled microfuge tube (PSC ###), where each tube number is unique, and we put in our sample log what animal it is associated with, and what time the CF was collected. Melanie spun the CF down, removed the supernatant, added 300ul of shield to the cells, and saved the supernatant (PSCS ###). She marked down the time that the samples were placed in the -80C.
 
 A side note: Alyssa and I sampled the bins at the back (Table 2, bins 1-8) together as she finished the ones in the front (Table 4, bins 9-16) before I finished. We were each sampling a bin, I was doing bin 7 and she was doing bin 6. The lids ended up getting mixed up when we finished such that the stars in bin 6 got put in bin's 7 spot and the bin 7 lid, along with the water hose and the airstone, were placed in with bin 6 stars. We realized it quickly and I cleaned the lids, and replaced the water hoses and airstones for both bin 6 and 7.
 
