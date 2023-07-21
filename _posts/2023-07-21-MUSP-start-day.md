@@ -26,7 +26,7 @@ For the Pisaster, we put the needles in nearly horizontal at the top of the arms
 ![img](../notebook-images/2023-07-21/IMG_4074.JPG)
 
 For the Pycno, we do what we always do, which is put the needle in at the armpit, angled toward the central disc cavity.      
-![img](../.notebook-images/2023-07-21/IMG_4064.JPG)
+![img](../notebook-images/2023-07-21/IMG_4064.JPG)
 
 The CF was placed in a labeled microfuge tube (PSC ###), where each tube number is unique, and we put in our sample log what animal it is associated with, and what time the CF was collected. Melanie spun the CF down, removed the supernatant, added 300ul of shield to the cells, and saved the supernatant. She marked down the time that the samples were placed in the -80C.
 
