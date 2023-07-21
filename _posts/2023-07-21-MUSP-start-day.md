@@ -16,7 +16,7 @@ We sampled all of the stars for coelomic fluid (CF) and preserved the coelomocyt
 
 We sampled them all between 10am and 11:30am. Alyssa and I did the sampling, Melanie would come and get batches of the CF to process for preserving coelomocytes and supernatant, and Andrew helped keeping track of the tube numbers in the sample log and with holding the bins as they filled back up with water.
 
-To sample, we dumped the bin's water out down the drain. Sampled the CF using needles and syringes (33CC insulin syringes for the _Dermasterias imbricata_ and the _Pycnopodia helianthoides_, and 1ml syringes with 26G _____ needles for the _Pisaster ochraceus_ and some of the larger _Dermasterias_). Images below of what that looked like.
+To sample, we dumped the bin's water out down the drain. Sampled the CF using needles and syringes (29G 1/2" insulin syringes (amazon link: [here](https://www.amazon.com/Brandzig-U-100-Insulin-Syringes-100-Pack/dp/B08MQCYH3N/ref=sr_1_2?crid=71B5NJXD4F4&keywords=BD+insulin+syringe+0.3ml+29G+12.7mm&qid=1659557547&sprefix=bd+insulin+syringe+0.3ml+29g+12.7m%2Caps%2C348&sr=8-2)) for the _Dermasterias imbricata_ and the _Pycnopodia helianthoides_, and 1 ml syringes (amazon link: [here](https://www.amazon.com/Syringe-Sterile-Luer-BH-SUPPLIES/dp/B07VF8CKGL/ref=pd_bxgy_img_sccl_2/140-1246690-3827836?pd_rd_w=AkjiW&content-id=amzn1.sym.a6bed837-ef89-4bc6-a842-3962a5387175&pf_rd_p=a6bed837-ef89-4bc6-a842-3962a5387175&pf_rd_r=ZJHJK38FAC4B7DBC435G&pd_rd_wg=PIUm0&pd_rd_r=4d79b775-da73-4702-bd45-759a99bd1112&pd_rd_i=B07VF8CKGL&psc=1)) with 26G 1-inch needles for the _Pisaster ochraceus_ and some of the larger _Dermasterias_). 
 
 For the Derms, we figured out that putting the needle into the beige-colored part of the armpits toward the central disc cavity yielded most frequently a lot of CF, but sometimes would put in at the top of the arms going in toward the central disc if the armpit didn't work. The below example wasn't typical, but this particular Derm was upside down.      
 ![img](../notebook-images/2023-07-21/IMG_4071.JPG)   
@@ -51,6 +51,6 @@ We heat-killed half (placed in 25ml short falcon tube and placed in boiling wate
 I did the same, but with raw CF from adult E.
 
 Samples preserved from adult E:             
-- 1 tube of coelomocytes with shield and a tube of the associated coelomocyte supernatant
-- 2 coelomic fluid smears
-- Remaining CF - DNA/RNA Shield added for Melanie's pathogen discovery work
+- 1 tube of coelomocytes with shield and a tube of the associated coelomocyte supernatant   
+- 2 coelomic fluid smears   
+- Remaining CF - DNA/RNA Shield added for Melanie's pathogen discovery work    
