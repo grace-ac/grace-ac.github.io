@@ -38,7 +38,9 @@ Some notes:
 - Normally we feed stars every Monday, Wednesday, and Friday, (1 mussel each) but we didn't feed these stars today (Wednesday) because we didn't have enough food. Therefore, they missed out on feeding for today, but we collected more mussels and they'll be fed on Friday. Because we don't know if they'll share, we'll place enough food in each bin so each star has 2 potential mussels it can eat. The mussels are collected under a shellfish license I got from WDFW, we freeze them for at least 36 hrs (we discovered mussels can withstand freezing for 24 hours ... and they are too difficult for our _Dermasterias_ to eat), then fed to the stars.
 
 Afternoon note:
-The adult (E) is twisty!! See image below. So, we will start the multi-species expeirment tomorrow.
+The adult (E) is twisty!! See image below. So, we will start the multi-species experiment tomorrow.
+
+![img](../notebook-images/2023-07-20/IMG_4019.JPG)
 
 Here's a rough agenda of tomorrow:
 - 9am-lunch - sample coelomocytes from n=16 _Dermasterias imbricata_, n=16 _Pisaster ochraceus_, and n=16 _Pycnopodia helianthoides_ (wild ones, not the Friday Harbor lab-reared ones)
@@ -49,4 +51,4 @@ Then celebrate!!
 Daily tasks will be:
 Take down data observations for each star every morning and evening. Sample coelomocytes every 3 days for all stars, and also for all stars in each bin once the Friday Harbor exposed star does it's first arm drop. Feed all every Monday, Wednesday, and Friday. Take pictures of each star every evening check, and a bin photo so that you can see where they are relative to each other. Take a photo of any star in the morning check that looks odd/sick/etc.
 
-More to come! 
+More to come!
