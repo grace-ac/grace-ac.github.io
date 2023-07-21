@@ -38,4 +38,6 @@ Bin 7 was exceptionally foamy post-sampling... likely the pycno. Several pycnos 
 We fed the stars after sampling. Because they're co-housed and there's no good way to ensure each gets 1 mussel like they usually do in their individual bins, we decided to overfeed them. We put 6 mussels (enough for 2 each) into each bin with the hopes that they'll each get at least one. There's no way for us to know for sure, but that seemed like the best option.
 
 ### Inoculation!
-Here's what the adult (disease source, adult E), looks like today:     
+Here's what the adult (disease source, adult E), looks like today:       
+This star was co-housed with another adult wasting pycno on Saturday July 15 through Sunday July 16th. That is how we keep disease transmission going in the lab so that we have the same disease source for our experiments. The first star that was the initial wasting star was collected from the field, then we've been co-housing adults throughout the summer and using them as our source of disease for experiments.      
+![img](../notebook-images/2023-07-21/IMG_4091.JPG)
