@@ -52,12 +52,26 @@ Here's what the tube of CF looked like:
 
 Calculation for goal amount of CF: 200ul x 16 = 3,200ul; we want about 300ul for coelomoocytes and coelomocyte supernatant and 2 smears, and then about 750ul for saving the CF with shield... total about 4,250ul. Aim for about 5ml of CF to collect.
 
-We heat-killed ~3ml (placed in 25ml short falcon tube and placed in boiling water-bath for 10 mins). Melanie injected 200ul of heat-killed CF into n=8 Friday Harbor (FH) stars. She took the FH star out of it's bin, injected it, and then placed it in it's assigned bin for co-housing with the other stars.
+We heat-killed ~3ml (placed in 25ml short falcon tube and placed in boiling water-bath for 10 mins). Melanie injected 200ul of heat-killed CF into n=8 Friday Harbor (FH) stars. She took the FH star out of it's bin, injected it, and then placed it in it's assigned bin for co-housing with the other stars.   
+
+Here are the stars for the control side (in red are the Friday Harbor pycnos):     
+![img](../notebook-images/2023-07-21/IMG_4168.JPG)     
+Note: FH Pyc 70 was the original choice for Bin 9, but it had an arm dropped, so we picked 79 instead.
 
 Here's Melanie injecting heat-killed CF into a Friday Harbor star. We did it out of water to ensure injection was successful. After injection, she immediately placed it in it's bin:      
 ![img](../notebook-images/2023-07-21/IMG_4107.JPG)
 
-I did the same, but with raw CF from adult E.
+I did the same, but with raw CF from adult E.    
+Here's the stars for the exposed side (in red are the Friday Harbor pycnos):     
+![img](../notebook-images/2023-07-21/IMG_4169.JPG)   
+
+Some notes on how we picked the FH stars:    
+- We had 8 stars in Table 2 that were meant to be the exposed 8
+- the remaining FH stars (n=14) were in Table 3, and 8 of them were meant to be the control FH stars
+- There were wasting pycnos (though they were in their own individual bins as always) that shared a table with the n=14 FH stars (Table 3), and while odds of cross contamination of low (all stars are in their own bins and have their own water and air inputs), we can't say they're zero
+- We decided to split up the stars such that 4 from Table 2 were control, and the remaining 4 were exposed, and of the 14 stars in Table 3, 4 were moved over to the exposed side and 4 became controls (injected with heat-killed)
+- FH star 70 was one of the stars in Table 2 that was meant to be a control, but because it lost an arm, a star from table 3 was chosen to replace. Therefore, of the 8 stars in the control heat-killed injected group, 5 were from table 3 and 3 were from table 2. And for the 8 stars in the exposed raw sick CF injected group, 4 were from table 3 and 4 were from table 2.
+- Within each treatment group, the smallest FH star was chosen to go in with the bins that had the smallest of the other three species (bins 1 and 9), and so on up to bins 8 and 16 which had the largest of the stars for exposed and controls, respectively. 
 
 Samples preserved from adult E:             
 - 1 tube of coelomocytes with shield and a tube of the associated coelomocyte supernatant   
