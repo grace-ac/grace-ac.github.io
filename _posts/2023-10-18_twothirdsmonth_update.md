@@ -1,6 +1,6 @@
 ---
 layout: post
-title: October Two-thirds-Month Update
+title: October Update
 date: '2023-10-18'
 categories: [pycnopodia, eelgrass]
 ---
