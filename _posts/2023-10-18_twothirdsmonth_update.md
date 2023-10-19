@@ -2,7 +2,7 @@
 layout: post
 title: October Update
 date: '2023-10-18'
-categories: [pycnopodia, eelgrass]
+categories: [PhD, pycnopodia, eelgrass]
 ---
 I have not done well with keeping this notebook updated on a regular basis... so I am going to start writing myself physical notes to help remember!
 In the meantime, here's a somewhat mid-month update on how I've been doing on my October goals:
