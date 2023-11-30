@@ -13,9 +13,6 @@ Up until this point, for Summer 2022 Data I have:
 2. Trimmed
 
 Moved trimmed data from Mox to Raven so I can run `kallisto`.   
-```
-rsync --archive --progress --verbose graceac9@mox.hyak.uw.edu:/gscratch/srlab/graceac9/analyses/pycno/20231101_PSC2022_trimming/*fq.gz /home/shared/8TB_HDD_02/graceac9/data/pycno2022
-```
 
 I pseudoaligned the trimmed reads to the 2015 Up in Arms Phel transcriptome using `kallisto` on Raven: [/code/03-kallisto-summer2022.Rmd](https://github.com/grace-ac/project-pycno-sizeclass-2022/blob/main/code/03-kallisto-summer2022.Rmd)
 
