@@ -8,11 +8,11 @@ In preparation for tomorrow's lab meeting, this post will include code and figur
 
 ## Summer 2022 Data
 
-Up until this point, for Summer 2022 Data I have:
+Up until this point, for Summer 2022 Data I have:     
 1. Run QC
 2. Trimmed
 
-Moved trimmed data from Mox to Raven so I can run `kallisto`.
+Moved trimmed data from Mox to Raven so I can run `kallisto`.   
 ```
 rsync --archive --progress --verbose graceac9@mox.hyak.uw.edu:/gscratch/srlab/graceac9/analyses/pycno/20231101_PSC2022_trimming/*fq.gz /home/shared/8TB_HDD_02/graceac9/data/pycno2022
 ```
