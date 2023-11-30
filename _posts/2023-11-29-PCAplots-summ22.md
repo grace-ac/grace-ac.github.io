@@ -2,7 +2,7 @@
 layout: post
 title: PCA Plots of Summer 2022 Data Comparisons
 date: '2023-11-29'
-categories: [Pycnopodia]
+categories: [Pycnopodia, PCA]
 ---
 In preparation for tomorrow's lab meeting, this post will include code and figures of making plots. PCA plots comparing different groups of RNA sequence data from Summer 2022 _Pycnopodia helianthoides_ Sea Star Wasting Disease challenge experiments.
 
