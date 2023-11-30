@@ -6,6 +6,8 @@ categories: [Pycnopodia]
 ---
 In preparation for tomorrow's lab meeting, this post will include code and figures of making plots. PCA plots comparing different groups of RNA sequence data from Summer 2022 _Pycnopodia helianthoides_ Sea Star Wasting Disease challenge experiments.
 
+## Summer 2022 Data
+
 Up until this point, for Summer 2022 Data I have:
 1. Run QC
 2. Trimmed
