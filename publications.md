@@ -37,6 +37,11 @@ Emma B. Timmins-Schiffman, **Grace A. Crandall**, Brent Vadopalas, Michael E. Ri
 
 ### Presentations
 #### Talks
+
+"_Pycnopodia helianthoides_ immune response to Sea Star Wasting Disease". [Slides available on GitHub](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_SICB_2024.pdf). Society for Integrative and Comparative Biology, Seattle, WA. January 2024. 
+
+"_Pycnopodia helianthoides_ immune response to SSWD". [Slides available on GitHub](https://github.com/grace-ac/presentations/blob/main/2023/Crandall_WSN_2023.pdf). Western Society of Naturalists, Monterey, CA. November 2023.
+
 "Effects of Bitter Crab Disease on gene expression in Alaska Tanner Crabs". [Slides available on Figshare](https://figshare.com/articles/presentation/Effects_of_Bitter_Crab_Disease_on_gene_expression_in_Alaska_Tanner_Crabs/11908350). Alaska Marine Science Symposium, Anchorage, AK. January 2020.
 
 "Effects of Bitter Crab Disease on the gene expression of Alaska Tanner Crabs". [Slides available on Figshare](https://figshare.com/articles/presentation/Effects_of_Bitter_Crab_Disease_on_the_gene_expression_of_Alaska_Tanner_Crabs/11120480).
