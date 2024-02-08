@@ -1,16 +1,14 @@
 ---
 layout: page
 title: Grace A. Crandall
-subtitle: 
+subtitle:
 ---
 
-Hello! Welcome to my new website! My name is Grace Crandall, and I am a recent graduate from the School of Aquatic and Fishery Sciences at the University of Washington and received an MSc in June 2020. I also received a certificate in One Health from the Center for One Health Research at the University of Washington in the School of Public Health. 
+Hello! Welcome to my new website! My name is Grace Crandall and I am a current PhD student in the [Steven Roberts Lab](https://faculty.washington.edu/sr320/) at the School of Aquatic and Fishery Sciences, University of Washington. I am advised by Steven Roberts and Drew Harvell.
 
-This website is under construction, but you can check out my lab notebook posts at the Lab Notebook tab in the navigation bar in the meantime. 
-
-
-Contact information:     
-Email: grace.crandall9@gmail.com     
-GitHub: grace-ac      
+My work focuses on using transcriptomics to understand the immune response of _Pycnopodia helianthoides_ to exposure to sea star wasting disease. Check out my lab notebook and my github (linked below) for more information. 
 
 
+Contact information:      
+Email: graceac9@uw.edu
+GitHub: [grace-ac](https://github.com/grace-ac)      
