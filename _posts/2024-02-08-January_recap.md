@@ -2,7 +2,7 @@
 layout: post
 title: January 2024 Recap
 date: '2024-02-08'
-categories: [SICB]
+categories: [Conferences]
 ---
 I didn't post ANYTHING in January 2024, so here's a summary post about what I did! The first 5 weeks of 2024 summarized briefly below.
 
