@@ -1,0 +1,53 @@
+---
+layout: post
+title: November Goals
+date: '2023-11-01'
+categories: [PhD, MonthlyGoals]
+---
+Goals broken down by week for December 2023 - see post for details!
+
+## December 4-8
+
+### Pycno Work
+Continue Summer 2022 analyses:
+- align to _Pycnopodia helianthoides_ Genome
+- make more PCA comparisons
+- continue detailing what I'm doing in the [repository RNAseq pipline markdown](https://github.com/grace-ac/project-pycno-sizeclass-2022/blob/main/protocols/RNAseq-pipeline.md)
+- Try making an [NMDS adonis](https://rdrr.io/rforge/vegan/man/adonis.html) with which I will be able to make a comparison between samples at disease sign and see if there's an effect of time since disease exposure
+
+If time: continue Summer 2021 paper outline and compile papers
+
+### Eelgrass Work
+- Contact list of DOH folks that I was given that might be interested and able to collaborate
+- Set up meeting for next week or later this week with whoever is able to join
+
+
+## December 11-15
+
+### Pycno Work
+Continue Summer 2022 analyses:
+Whatever I didn't finish from previous week and also -      
+- `DESeq2` to compare different groupings
+
+Summer 2021:   
+- paper
+
+### Eelgrass Work
+- Meet with folks if haven't already
+- Get sign off and submit materials to Drew
+
+## December 18-21
+
+### Pycno Work
+Summer 2022 Work:
+- Dig into `DESeq2` gene lists
+- enrichment
+
+SICB:
+Start preparing slides and story of what I want to present
+
+## December 27-29
+
+### Pycno Work
+Summer 2022
+- SICB talk --> practice on December 28 for Roberts Lab
