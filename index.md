@@ -4,9 +4,7 @@ title: Grace A. Crandall
 subtitle: PhD Student
 ---
 
-![img](/assets/img/pycno_adult_orange.jpeg)    
-![img](/assets/img/cheesy_bob_jr.jpeg)       
-![img](/assets/img/pycno_adult_purple.JPG)    
+![img](/assets/img/pycno_adult_orange.jpeg)     
 
 # Current work
 
