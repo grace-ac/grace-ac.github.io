@@ -4,7 +4,16 @@ title: Grace A. Crandall
 subtitle: PhD Student
 ---
 
-![img](/assets/img/pycno_adult_orange.jpeg)     
+![img](/assets/img/pycno_adult_orange.jpeg)    
+![img](/assets/img/cheesy_bob_jr.jpeg)     
+![img](/assets/img/pycno_adult_purple.JPG)
+
+<img src="/assets/img/pycno_adult_orange.jpeg" alt="Adult Pycnopodia helianthoides" style="max-width: 33%; height: auto;" />
+
+<img src="/assets/img/cheesy_bob_jr.jpeg" alt="Juvenile Pycnopodia helianthoides, Cheesy Bob, Jr" style="max-width: 33%; height: auto;" />
+
+<img src="/assets/img/pycno_adult_purple.JPG" alt="Adult Pycnopodia helianthoides" style="max-width: 33%; height: auto;" />
+
 
 # Current work
 
