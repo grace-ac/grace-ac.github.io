@@ -3,6 +3,11 @@ layout: page
 title: Products
 ---
 
+![img](/assets/img/publication_wordcloud.png)   
+
+Make a wordcloud of your publications: [https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/](https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/) 
+
+
 [Google Scholar](https://scholar.google.com/citations?user=lpQ7TX8AAAAJ&hl=en)     
 
 [ORCID](https://orcid.org/0000-0002-6249-4240)
@@ -38,7 +43,7 @@ Emma B. Timmins-Schiffman, **Grace A. Crandall**, Brent Vadopalas, Michael E. Ri
 ### Presentations
 #### Talks
 
-"_Pycnopodia helianthoides_ immune response to Sea Star Wasting Disease". [Slides available on GitHub](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_SICB_2024.pdf). Society for Integrative and Comparative Biology, Seattle, WA. January 2024. 
+"_Pycnopodia helianthoides_ immune response to Sea Star Wasting Disease". [Slides available on GitHub](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_SICB_2024.pdf). Society for Integrative and Comparative Biology, Seattle, WA. January 2024.
 
 "_Pycnopodia helianthoides_ immune response to SSWD". [Slides available on GitHub](https://github.com/grace-ac/presentations/blob/main/2023/Crandall_WSN_2023.pdf). Western Society of Naturalists, Monterey, CA. November 2023.
 
