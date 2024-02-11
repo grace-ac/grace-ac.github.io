@@ -5,11 +5,11 @@ subtitle: PhD Student
 ---
 
 
-<img align="left" src="/assets/img/cheesy_bob_jr.jpeg" alt="Juvenile Pycnopodia helianthoides, Cheesy Bob, Jr" width="400"
-     height="500" />
+<img align="left" src="/assets/img/cheesy_bob_jr.jpeg" alt="Juvenile Pycnopodia helianthoides, Cheesy Bob, Jr" width="300"
+     height="375" />
 
-<img align="right" src="/assets/img/pycno_adult_purple.JPG" alt="Adult Pycnopodia helianthoides" width="400"
-     height="500" />
+<img align="right" src="/assets/img/pycno_adult_purple.JPG" alt="Adult Pycnopodia helianthoides" width="300"
+     height="375" />
 
 
 # Current work
