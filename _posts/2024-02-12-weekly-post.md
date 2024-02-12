@@ -50,7 +50,7 @@ PCA showing significant difference in RNAseq data between stars that were sample
 
 Note: PERMANOVA performed in R code: [grace-ac/paper-pycno-sswd-2021/code/04-PCAplots.Rmd](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/code/04-PCAplots.Rmd), lines 240-274.
 
-![img](../notebook-image/2024-02-12/expA_DEGs_armdropexposed_V_healthycontrol_volcano.png)      
+![img](../notebook-images/2024-02-12/expA_DEGs_armdropexposed_V_healthycontrol_volcano.png)      
 
 Volcano plot of the 4,093 DEGs found using `DESeq2` when comparing the libraries shown above in the PCA.
 
