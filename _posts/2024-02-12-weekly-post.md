@@ -14,6 +14,8 @@ For summer 2021 work, we did a bunch of experiments, but I was only able to get 
 
 I have RNAseq data for samples that are part of Experiment A and Experiment B. Datasheet for all library metadata from Summer 2021: [grace-ac/paper-pycno-sswd-2021/data/sample_metadata.csv](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/data/sample_metadata.csv).
 
+The count matrix for all 32 libraries lives here: [grace-ac/paper-pycno-sswd-2021/data/kallisto_count_matrix_rounded.tab](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/data/kallisto_count_matrix_rounded.tab). The counts were derived using `kallisto` ([code](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/code/03-kallisto-summer21-phelgenomegenelist-20240117.Rmd)), and using the gene list FASTA from the published _Pycnopodia helianthiodes_ genome. 
+
 **Experiment A** began on 9/23/2021. Stars were injected with either 0.45micron filtered live tissue homogenate from a wasting star (microbial group), heat-killed tissue homogenate from a wasting star (control group), or unfiltered live tissue homogenate from a wasting star (exposed group). Stars were observed 2x daily and sampled at disease sign along with control pair. The RNAseq data timeline control and exposed groups are not balanced due to lack of sufficient RNA for sequencing for some samples. Comparisons made for those libraries are shared below under the title "Experiment A".
 
 **Experiment B** began on 10/05/2021. Stars were injected with heat-killed tissue homogenate from a wasting star (control group) or unfiltered live tissue homogenate from a wasting star (exposed group). Some of the control stars in this experiment were previously injected with the 0.45micron filtered live tissue homogenate in Experiment A but never showed any disease signs, and so they became part of the control group. They continued to remain disease-sign free throughout the remainder of Experiment B. Comparisons made between libraries from Experiment B are shared below under the title "Experiment B".
@@ -112,10 +114,18 @@ I think the previous tank exposure that occurred for several of these stars make
 | PSC.78     | H10     | NA                          | exposed (10/5/21) | 10/17/21    | 12             | armdrop      |
 | PSC.83     | H07     | NA                          | exposed (10/5/21) | 10/18/21    | 13             | armcross     |
 
+### Control Vs. Exposed
 
+![img](../notebook-images/2024-02-12/expB_control_v_exposed_PCA.png)    
 
+PERMANOVA: 0.001.
+PCA showing that there is a significant difference in RNAseq data between control and exposed treatment groups.
 
+Note: PERMANOVA performed in R code: [grace-ac/paper-pycno-sswd-2021/code/04-PCAplots.Rmd](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/code/04-PCAplots.Rmd), lines 75-109.
 
+![img](../noteboook-images/2024-02-12/expB_control_V_exposed_volcanoplot.png)    
+
+Volcano plot of the 7,834 DEGs found using `DESeq2` comparing the control vs exposed treatment groups as shown in the above PCA.
 
 # Summer 2023 Multi-Species Planning
 I'll be extracting RNA from samples from the 6 exposed bins, each with a wild juvenile _Pycnopodia helianthoides_, wild _Pisaster ochraceus_ and wild _Dermasterias imbricata_, from Day 12 of the multi-species experiment. That will be n=18 samples that will (provided there's enough RNA) be sent of for total RNA-sequencing.
