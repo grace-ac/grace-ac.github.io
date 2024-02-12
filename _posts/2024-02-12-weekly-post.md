@@ -14,7 +14,7 @@ For summer 2021 work, we did a bunch of experiments, but I was only able to get 
 
 I have RNAseq data for samples that are part of Experiment A and Experiment B. Datasheet for all library metadata from Summer 2021: [grace-ac/paper-pycno-sswd-2021/data/sample_metadata.csv](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/data/sample_metadata.csv).
 
-The count matrix for all 32 libraries lives here: [grace-ac/paper-pycno-sswd-2021/data/kallisto_count_matrix_rounded.tab](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/data/kallisto_count_matrix_rounded.tab). The counts were derived using `kallisto` ([code](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/code/03-kallisto-summer21-phelgenomegenelist-20240117.Rmd)), and using the gene list FASTA from the published _Pycnopodia helianthiodes_ genome. 
+The count matrix for all 32 libraries lives here: [grace-ac/paper-pycno-sswd-2021/data/kallisto_count_matrix_rounded.tab](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/data/kallisto_count_matrix_rounded.tab). The counts were derived using `kallisto` ([code](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/code/03-kallisto-summer21-phelgenomegenelist-20240117.Rmd)), and using the gene list FASTA from the published _Pycnopodia helianthiodes_ genome.
 
 **Experiment A** began on 9/23/2021. Stars were injected with either 0.45micron filtered live tissue homogenate from a wasting star (microbial group), heat-killed tissue homogenate from a wasting star (control group), or unfiltered live tissue homogenate from a wasting star (exposed group). Stars were observed 2x daily and sampled at disease sign along with control pair. The RNAseq data timeline control and exposed groups are not balanced due to lack of sufficient RNA for sequencing for some samples. Comparisons made for those libraries are shared below under the title "Experiment A".
 
@@ -95,26 +95,31 @@ No significant DEGs were found. Again, I think this is due to the cohousing tank
 I think the previous tank exposure that occurred for several of these stars makes it so that we can't say much about how the experimental treatment impacted their gene expression. But, I do think that comparing based on disease sign and how that gene expression compares to Experiment B could be interesting.
 
 ## Experiment B:
-| library_ID | star_ID | previous_exposure           | treatment         | sample_date | experiment_day | disease_sign |
-|------------|---------|-----------------------------|-------------------|-------------|----------------|--------------|
-| PSC.56     | E06     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/14/21    | 9              | NA           |
-| PSC.52     | E11     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/14/21    | 9              | NA           |
-| PSC.54     | E18     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/14/21    | 9              | NA           |
-| PSC.61     | E09     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/15/21    | 10             | NA           |
-| PSC.64     | H05     | NA                          | control (10/5/21) | 10/15/21    | 10             | NA           |
-| PSC.73     | H03     | NA                          | control (10/5/21) | 10/16/21    | 11             | NA           |
-| PSC.76     | E10     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/17/21    | 12             | NA           |
-| PSC.81     | E07     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/18/21    | 13             | NA           |
-| PSC.59     | H01     | NA                          | exposed (10/5/21) | 10/14/21    | 9              | armtwist     |
-| PSC.57     | H06     | NA                          | exposed (10/5/21) | 10/14/21    | 9              | armdrop      |
-| PSC.69     | H04     | NA                          | exposed (10/5/21) | 10/15/21    | 10             | armdrop      |
-| PSC.67     | H09     | NA                          | exposed (10/5/21) | 10/15/21    | 10             | armdrop      |
-| PSC.71     | H18     | NA                          | exposed (10/5/21) | 10/15/21    | 10             | armdrop      |
-| PSC.75     | H08     | NA                          | exposed (10/5/21) | 10/16/21    | 11             | armdrop      |
-| PSC.78     | H10     | NA                          | exposed (10/5/21) | 10/17/21    | 12             | armdrop      |
-| PSC.83     | H07     | NA                          | exposed (10/5/21) | 10/18/21    | 13             | armcross     |
+
+| library_ID | star_ID | previous_exposure | treatment      | sample_date | experiment_day | disease_sign |
+|------------|---------|-------------------|----------------|-------------|----------------|--------------|
+| PSC.56     | E06     | 0.45micronLive    | control        | 10/14/21    | 9              | NA           |
+| PSC.81     | E07     | 0.45micronLive    | control        | 10/18/21    | 13             | NA           |
+| PSC.61     | E09     | 0.45micronLive    | control        | 10/15/21    | 10             | NA           |
+| PSC.76     | E10     | 0.45micronLive    | control        | 10/17/21    | 12             | NA           |
+| PSC.52     | E11     | 0.45micronLive    | control        | 10/14/21    | 9              | NA           |
+| PSC.54     | E18     | 0.45micronLive    | control        | 10/14/21    | 9              | NA           |
+| PSC.63     | H03     | NA                | control        | 10/15/21    | 10             | NA           |
+| PSC.73     | H03     | NA                | control        | 10/16/21    | 11             | NA           |
+| PSC.58     | H05     | NA                | control        | 10/14/21    | 9              | NA           |
+| PSC.64     | H05     | NA                | control        | 10/15/21    | 10             | NA           |
+| PSC.59     | H01     | NA                | unfilteredlive | 10/14/21    | 9              | armtwist     |
+| PSC.57     | H06     | NA                | unfilteredlive | 10/14/21    | 9              | armdrop      |
+| PSC.67     | H09     | NA                | unfilteredlive | 10/15/21    | 10             | armdrop      |
+| PSC.69     | H04     | NA                | unfilteredlive | 10/15/21    | 10             | armdrop      |
+| PSC.71     | H18     | NA                | unfilteredlive | 10/15/21    | 10             | armdrop      |
+| PSC.75     | H08     | NA                | unfilteredlive | 10/16/21    | 11             | armdrop      |
+| PSC.78     | H10     | NA                | unfilteredlive | 10/17/21    | 12             | armdrop      |
+| PSC.83     | H07     | NA                | unfilteredlive | 10/18/21    | 13             | armcross     |
 
 ### Control Vs. Exposed
+
+Stars H03 and H05 are controls that were samples twice, each, so I just selected one of the libraries to include in the below PCA and volcano plots.
 
 ![img](../notebook-images/2024-02-12/expB_control_v_exposed_PCA.png)    
 
