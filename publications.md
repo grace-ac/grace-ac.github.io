@@ -3,9 +3,11 @@ layout: page
 title: Products
 ---
 
-![img](/assets/img/publication_wordcloud.png)   
 
-Make a wordcloud of your publications: [https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/](https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/) 
+<img src="/assets/img/publication_wordcloud.png" alt="Juvenile Pycnopodia helianthoides, Cheesy Bob, Jr" width="300"
+     height="375" />
+
+Make a wordcloud of your publications: [https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/](https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/)
 
 
 [Google Scholar](https://scholar.google.com/citations?user=lpQ7TX8AAAAJ&hl=en)     
