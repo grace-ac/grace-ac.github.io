@@ -128,7 +128,7 @@ PCA showing that there is a significant difference in RNAseq data between contro
 
 Note: PERMANOVA performed in R code: [grace-ac/paper-pycno-sswd-2021/code/04-PCAplots.Rmd](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/code/04-PCAplots.Rmd), lines 75-109.
 
-![img](../noteboook-images/2024-02-12/expB_control_V_exposed_volcanoplot.png)    
+![img](../notebook-images/2024-02-12/expB_control_V_exposed_volcanoplot.png)    
 
 Volcano plot of the 7,834 DEGs found using `DESeq2` comparing the control vs exposed treatment groups as shown in the above PCA.
 
