@@ -9,8 +9,7 @@ Post with little updates on what I did last week!
 # Summer 2021 Work
 Did some more PCAs, and `DESeq2` analyses - nothing is annotated yet, though, so this is just looking into differences between treatment groups and disease sign groups preliminarily.
 
-Note:
-
+Note:         
 For summer 2021 work, we did a bunch of experiments, but I was only able to get enough RNA for sequencing for some samples.
 
 I have RNAseq data for samples that are part of Experiment A and Experiment B. Datasheet for all library metadata from Summer 2021: [grace-ac/paper-pycno-sswd-2021/data/sample_metadata.csv](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/data/sample_metadata.csv).
@@ -57,8 +56,61 @@ Volcano plot of the 4,093 DEGs found using `DESeq2` when comparing the libraries
 
 ![img](../notebook-images/2024-02-12/expA_unfiltered_V_control_PCA.png)      
 
-PERMANOVA:
+PERMANOVA: 0.222
+PCA showing that there is no difference in RNAseq data between stars in treatment of heat-killed tissue homogenate compared to stars injected with unfiltered live tissue homogenate. I don't think this result is due to the treatment groups, but rather due to their exposure history where PSC.23 was cohoused with the tank outbreak.
 
+
+Note: PERMANVA performed in R code: [grace-ac/paper-pycno-sswd-2021/code/04-PCAplots.Rmd](https://github.com/grace-ac/paper-pycno-sswd-2021/blob/main/code/04-PCAplots.Rmd), lines 319-348.
+
+![img](../notebook-images/2024-02-12/expA_control_vs_unfiltered_volcano.png)     
+
+Volcano plot of the 36 DEGs found using `DESeq2` when comparing the libraries by treatment group as shown in the above PCA.
+
+### Control Vs. 0.45 micron filtered (microbial fraction)
+
+![img](../notebook-images/2024-02-12/expA_0.45live_v_control_pca.png)     
+
+PERMANOVA: 0.846.     
+PCA showing that there is no significant difference in RNAseq data between libraries that are from stars treated with a 0.45 micron filtered live tissue homogenate and the control group (heat-killed tissue homogenate).
+
+![img](../notebook-images/2024-02-12/expA_microbial_v_control_volcano.png)     
+Volcano plot of the 4 DEGs found using `DESeq2` when comparing the libraries by treatment group as shown in above PCA.
+
+
+### Unfiltered live sick tissue homogenate Vs. 0.45 micron filtered sick tissue homogenate (microbial fraction)
+
+![img](../notebook-images/2024-02-12/expA_unfiltered_V_0.45live_pca.png)     
+
+PERMANOVA: 0.367.   
+PCA showing that there is no significant differences in RNAseq data between libraries from stars injected with unfiltered tissue homogenate from a sick star when compared to stars injected with 0.45 micron filtered tissue homogenate from a sick star. Note: I don't know that the treatment groups are driving these results, but more likely the fact that TWO of the five stars in the 0.45 micron treatment were cohoused in an accidental exposure event to a wasting star from the field.
+
+![img](../notebook-images/2024-02-12/expA_unfilteredraw_V_0.45live_volcano.png)    
+
+No significant DEGs were found. Again, I think this is due to the cohousing tank exposure that occurred for 2/5 of the 0.45 micron filtered treatment group.
+
+## Take-aways from **Experiment A** Comparisons:
+
+I think the previous tank exposure that occurred for several of these stars makes it so that we can't say much about how the experimental treatment impacted their gene expression. But, I do think that comparing based on disease sign and how that gene expression compares to Experiment B could be interesting.
+
+## Experiment B:
+| library_ID | star_ID | previous_exposure           | treatment         | sample_date | experiment_day | disease_sign |
+|------------|---------|-----------------------------|-------------------|-------------|----------------|--------------|
+| PSC.56     | E06     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/14/21    | 9              | NA           |
+| PSC.52     | E11     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/14/21    | 9              | NA           |
+| PSC.54     | E18     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/14/21    | 9              | NA           |
+| PSC.61     | E09     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/15/21    | 10             | NA           |
+| PSC.64     | H05     | NA                          | control (10/5/21) | 10/15/21    | 10             | NA           |
+| PSC.73     | H03     | NA                          | control (10/5/21) | 10/16/21    | 11             | NA           |
+| PSC.76     | E10     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/17/21    | 12             | NA           |
+| PSC.81     | E07     | 0.45 live inoculate 9/23/21 | control (10/5/21) | 10/18/21    | 13             | NA           |
+| PSC.59     | H01     | NA                          | exposed (10/5/21) | 10/14/21    | 9              | armtwist     |
+| PSC.57     | H06     | NA                          | exposed (10/5/21) | 10/14/21    | 9              | armdrop      |
+| PSC.69     | H04     | NA                          | exposed (10/5/21) | 10/15/21    | 10             | armdrop      |
+| PSC.67     | H09     | NA                          | exposed (10/5/21) | 10/15/21    | 10             | armdrop      |
+| PSC.71     | H18     | NA                          | exposed (10/5/21) | 10/15/21    | 10             | armdrop      |
+| PSC.75     | H08     | NA                          | exposed (10/5/21) | 10/16/21    | 11             | armdrop      |
+| PSC.78     | H10     | NA                          | exposed (10/5/21) | 10/17/21    | 12             | armdrop      |
+| PSC.83     | H07     | NA                          | exposed (10/5/21) | 10/18/21    | 13             | armcross     |
 
 
 
