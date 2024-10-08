@@ -8,6 +8,9 @@ subtitle: PhD Student
 <img align="left" src="/assets/img/cheesy_bob_jr.jpeg" alt="Juvenile Pycnopodia helianthoides, Cheesy Bob, Jr" width="200"
      height="249" />
 
+<img align="center" src="/assets/img/me_2024.jpeg" alt="Grace sampling a star" width="200"
+      height="249" />
+
 <img align="right" src="/assets/img/pycno_adult_purple.JPG" alt="Adult Pycnopodia helianthoides" width="200"
      height="249" />
 
