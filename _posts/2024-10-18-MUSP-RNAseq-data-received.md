@@ -11,4 +11,12 @@ Using the guide [here](https://web.azenta.com/hubfs/2019-03%20GEN%20NGS%20-%20AT
 
 The data is being transferred onto the conference room computer in the Documents folder for _Pycnopodia helianthoides_ RNAseq. The other two projects' raw files are in that folder as well.
 
-Once downloaded, I'll check that it was done correctly, and then upload them onto OWL: [https://owl.fish.washington.edu/nightingales/P_helianthoides/](https://owl.fish.washington.edu/nightingales/P_helianthoides/), where they'll sit with the other _P. helianthoides_ RNAseq datasets, waiting to be analyzed! 
+Once downloaded, I'll check that it was done correctly, and then upload them onto OWL: [https://owl.fish.washington.edu/nightingales/P_helianthoides/](https://owl.fish.washington.edu/nightingales/P_helianthoides/), where they'll sit with the other _P. helianthoides_ RNAseq datasets, waiting to be analyzed!
+
+## Important Note:  
+From the sequencing facility:
+"Sample PSC-0559 did not have a enough reads to meet your project specifications and so we proactively conducted additional sequencing. The additional data should be available for downloading soon, once the transfer is completed."
+
+PSC-0559 is a _Dermasterias imbricata_.
+
+Project GitHub repository: [here](https://github.com/grace-ac/project-pycno-multispecies-2023/tree/main)
