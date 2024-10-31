@@ -48,3 +48,10 @@ do
   echo ""
 done
 ```
+
+when complete, run:
+```
+cat checksum.md5
+```
+
+and the new libraries for multispecies are in the file! all good!
