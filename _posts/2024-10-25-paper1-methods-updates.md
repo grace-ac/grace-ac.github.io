@@ -9,8 +9,18 @@ Updates on paper methods and results. Updates on goals.
 # notes:
 Met with Steven to go through paper methods --> streamlining, simplifying, and organizing.
 
+Still more to do --> will go through and make sure things are accurate first, then will simplify.
+
 Things to add to paper:
-- alignment rates for libraries I'm talking about
+- Results: alignment rates for libraries I'm talking about
+
+
+Met with Drew to give an update about what I've been up to, and what my goals are.
+
+Some important things she wants to see in the paper:
+- clearer results --> decoding the genes and what they mean (will get at this next week with results finalizations, and the following week with discussion)
+- Clear hypotheses
+- Clear statements about how juveniles and adults show no difference - that was really new information for the sea star group
 
 
 # Annotating DEG Lists with GO BP terms:
@@ -40,6 +50,9 @@ https://github.com/grace-ac/paper-pycno-sswd-2021-2022/blob/main/analyses/25-com
 https://github.com/grace-ac/paper-pycno-sswd-2021-2022/blob/main/analyses/25-compare-2021-2022/DEGlist_same_2021-2022.tab
 
 # Get list of genes from shared DAVID output
+
+R code: https://github.com/grace-ac/paper-pycno-sswd-2021-2022/blob/main/code/25-compare-2021-2022.Rmd
+
 
 shared DEG list DAVID enrichment output: https://github.com/grace-ac/paper-pycno-sswd-2021-2022/blob/main/analyses/24-2021-2022-enrichment/2021-2022-same-DAVID.txt
 
