@@ -14,7 +14,7 @@ But, Steven and I meet once a week on Mondays to identify weekly goals for the p
 Last week, I focused on two discussion paragraphs and got them written down!
 
 # Paper Figures Updates:
-R code: [](paper-pycno-sswd-2021-2022/code/26-visualizations.Rmd)
+R code: [26-visualizations.Rmd](paper-pycno-sswd-2021-2022/code/26-visualizations.Rmd)
 
 ## Top 9 Enriched Biological GO Terms Figure
 These terms are enriched from the shared list of DEGs (4,114 DEGs) between the two years (exp A (2021) and exp B (2022)).   
@@ -27,7 +27,7 @@ X-axis is fold enrichment for the term, and color is the counts.
 ## Disease Progression Timeline
 For Experiment A (Experiment B will be next - focusing on this one first to get formatting and labeling all good).
 
-Used [this example](https://github.com/wlhamilton/Patient-ward-movement-timelines/blob/main/R%20script%20to%20generate%20example%20ward%20movement%20plot.R) to create my own timeline. 
+Used [this example](https://github.com/wlhamilton/Patient-ward-movement-timelines/blob/main/R%20script%20to%20generate%20example%20ward%20movement%20plot.R) to create my own timeline.
 
 ![img](../notebook-images/2024-12-09/expA-disease-progression-timeline.png)
 
