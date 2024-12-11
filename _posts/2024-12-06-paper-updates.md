@@ -14,7 +14,7 @@ But, Steven and I meet once a week on Mondays to identify weekly goals for the p
 Last week, I focused on two discussion paragraphs and got them written down!
 
 # Paper Figures Updates:
-R code: [26-visualizations.Rmd](paper-pycno-sswd-2021-2022/code/26-visualizations.Rmd)
+R code: [26-visualizations.Rmd](https://github.com/grace-ac/paper-pycno-sswd-2021-2022/blob/main/code/26-visualizations.Rmd)
 
 ## Top 9 Enriched Biological GO Terms Figure
 These terms are enriched from the shared list of DEGs (4,114 DEGs) between the two years (exp A (2021) and exp B (2022)).   
