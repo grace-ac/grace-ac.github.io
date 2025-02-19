@@ -24,8 +24,6 @@ Then, I'll do two levels of things to start:
 ## General:
 Create a budget request for funding for sequencing controls from Day 12 of the multi-species project.
 
-Klone guidebook: [klone_quick-start](https://robertslab.github.io/resources/klone_quick-start/)
-
 ## Multi-species Data Analyses:
 1. ![status](https://img.shields.io/badge/status-in%20progress-orange.svg) --> Create a "Key Files" wikipage in my GitHub repository for this multispecies work (note: this repository will be kept private, as it will contain data files that belong to collaborators that are currently unpublished)       
 2. ![status](https://img.shields.io/badge/status-completed-green.svg) 2/12/2025 --> Run FASTQC and get a MultiQC report for the untrimmed RNAseq data     
