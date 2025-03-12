@@ -23,7 +23,7 @@ navbar-links:
   Lab Notebook: "notebook"
   Products: "publications"
   Outreach: "outreach"
-  CV: "cv/"
+  CV: "<iframe src="https://docs.google.com/document/d/e/2PACX-1vTx75l04xMwIdpxtZDqnQcPp-e1pYuSceRTJau4Ns5OxjP809Y-v7GG9VmZUfBqwxtoyJ9OHuOH7iit/pub?embedded=true"></iframe>"
   Home: "index"
 
 # --- Logo --- #
