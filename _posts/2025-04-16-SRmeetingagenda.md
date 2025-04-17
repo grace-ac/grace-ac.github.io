@@ -34,3 +34,7 @@ Here's what I'm thinking for my timeline on this:
 5. Fall quarter - submit more fleshed out proposal after getting feedback from spring and summer and quals
 
 From what I have learned, it seems that the proposal outline is meant to be sent earlier to get feedback from committee members. Then the reading lists and questions for quals are meant to get me the knowledge needed to improve my proposal and degree goals, then I can finish the proposal and have it be more fleshed out after all the knowledge and guidance gained from the process of studying for and doing the qualifying exams.
+
+# Upcoming
+1. Need to find grants to apply to for travel to conferences!
+2. Have some funding for more RNAseq for the multi-species project. Need to find time to extract RNA after Friday Harbor experiment (Mid- late May). 
