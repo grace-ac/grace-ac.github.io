@@ -9,6 +9,9 @@ Discussion topics and updates that I'll go over with Steven tomorrow in our week
 
 April Goals - see [this post](https://grace-ac.github.io/april_goals/).
 
+# What I'd like to focus on in the meeting:
+Paper revision comments and a plan on addressing them. 
+
 # Current Work
 ## Sea Star
 ### Multi-species
@@ -37,4 +40,4 @@ From what I have learned, it seems that the proposal outline is meant to be sent
 
 # Upcoming
 1. Need to find grants to apply to for travel to conferences!
-2. Have some funding for more RNAseq for the multi-species project. Need to find time to extract RNA after Friday Harbor experiment (Mid- late May). 
+2. Have some funding for more RNAseq for the multi-species project. Need to find time to extract RNA after Friday Harbor experiment (Mid- late May).
