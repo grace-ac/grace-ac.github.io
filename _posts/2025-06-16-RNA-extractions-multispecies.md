@@ -39,7 +39,7 @@ Here's the protocol we used to sample and preserve the coelomocytes at Marrowsto
 Store in -80C box for PSC samples
 
 # RNA Extraction
-Kit: Zymo Research, Quick DNA/RNA Microprep Plus Kit ((Cat D7005)[https://www.zymoresearch.com/products/quick-dna-rna-microprep-plus-kit?srsltid=AfmBOoqbz4OOia6Gt3N81ntbBEpzRDfNY9JF21Ez587mK4QaWbmDZBTT])   
+Kit: Zymo Research, Quick DNA/RNA Microprep Plus Kit ([Cat D7005](https://www.zymoresearch.com/products/quick-dna-rna-microprep-plus-kit?srsltid=AfmBOoqbz4OOia6Gt3N81ntbBEpzRDfNY9JF21Ez587mK4QaWbmDZBTT))   
 
 ## Extraction Preparations - labeling, etc
 Let thaw:
@@ -165,4 +165,4 @@ NOTE: Randomize the 54 samples across the three days so I'm not extracting RNA f
 Monday, June 30th:
 - Prepare samples for shipping
 
-If I can't finish the extractions in time for June 30th, I can shift a little and do extraction of 18 samples on Monday June 30th and/or Tuesday July 1st. With shipping Tuesday July 1 or Wednesday July 2. 
+If I can't finish the extractions in time for June 30th, I can shift a little and do extraction of 18 samples on Monday June 30th and/or Tuesday July 1st. With shipping Tuesday July 1 or Wednesday July 2.
