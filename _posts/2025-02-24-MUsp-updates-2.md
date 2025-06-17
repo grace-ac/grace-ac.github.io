@@ -15,7 +15,8 @@ Doing this work on RAVEN.
 
 [12-hisat2_pycno.Rmd](https://github.com/grace-ac/project-pycno-multispecies-2023/blob/main/code/12-hisat2_pycno.Rmd)
 
-The library IDs that are from _P. helianthoides_ for this time point are:    
+The library IDs that are from _P. helianthoides_ for this time point are:      
+
 | Library_ID | Bin_Number |
 |------------|------------|
 | 519        | 1          |
@@ -38,6 +39,7 @@ Doing this work on RAVEN.
 [13-hisat2_pisaster.Rmd](https://github.com/grace-ac/project-pycno-multispecies-2023/blob/main/code/13-hisat2_pisaster.Rmd)
 
 The library IDs that are from _P. ochraceus_ for this time point are:     
+
 | Library_ID | Bin_Number |
 |------------|------------|
 | 518        | 1          |
@@ -60,6 +62,7 @@ Doing this work on RAVEN.
 
 
 The library IDs that are from _D. imbracata_ for this time point are:    
+
 | Library_ID | Bin_Number |
 |------------|------------|
 | 517        | 1          |
