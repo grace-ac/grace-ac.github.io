@@ -2,7 +2,7 @@
 layout: post
 title: RNA Extraction Protocol for Multi-Species Samples
 date: '2025-06-16'
-categories: [Multispecies]
+categories: [MultiSpecies]
 ---
 Post detailing the protocol for RNA extraction of the multispecies coelomocyte samples.
 
