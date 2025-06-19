@@ -13,9 +13,9 @@ There's a bit more that I did since then... namely I attempted to align the _D. 
 
 Current status:
 
-- [x] _P. helianthoides_ RNAseq libraries aligned to genome with count matrices     
-- [ ] _P. ochraceus_ RNAseq libraries aligned to genome with count matrices*     
-- [ ] _D. imbricata_ RNAseq libraries aligned to genome with count matrices*     
+ [x] _P. helianthoides_ RNAseq libraries aligned to genome with count matrices     
+ [ ] _P. ochraceus_ RNAseq libraries aligned to genome with count matrices*     
+ [ ] _D. imbricata_ RNAseq libraries aligned to genome with count matrices*     
 
 * For both _P. ochraceus_ and _D. imbricata_, the final matrices are empty, all 0s... but the previous steps show that there are gene counts, and the alignment rates are good for both species (83.7% - 86.5% for _P. ochraceus_; 83.6% - 88.1% for _D. imbricata_)
 
