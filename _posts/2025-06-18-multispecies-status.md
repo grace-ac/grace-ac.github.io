@@ -6,7 +6,7 @@ categories: [MultiSpecies]
 ---
 See post for details on where the multi-species work lies, and what my goals are for this work for the summer.
 
-# Current Analysis Status as of end-of-day June 17
+# Current Analysis Status as of end-of-day June 18
 Last thing I did related to this project was aligning the Day 12 exposed RNAseq data for the _P. helianthoides_ and _P. ochraceus_ (see post: [here](https://grace-ac.github.io/MUsp-updates-2/))
 
 There's a bit more that I did since then... namely I attempted to align the _D. imbricata_ RNAseq to the _D. imbricata_ genome. This I cannot share publicly as our collaborators who are letting us have access to their _D. imbricata_ genome have not published the genome yet. It's currently still in a status of being an issue because the matrix is empty (all 0s), but the steps previously show that there are gene and transcript counts. Working to figure this out.
