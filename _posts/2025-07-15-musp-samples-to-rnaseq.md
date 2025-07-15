@@ -73,8 +73,7 @@ Note: Image only shows exposed stars disease signs. All controls had no disease 
 ![img](../notebook-images/2025-07-15/MUSP-rnaseq.jpg)  
 
 # Tracking Update
-I just checked and it says that they'll be delivered today by end of day... not sure why they weren't delivered this morning, which is normally what happens when I select the priority overnight (which I did this time and previous times)... but luckily because of the hot weather, I put in a LOT of dry ice in a slightly bigger-than-necessary styrofoam cooler, so fingers crossed they arrive still frozen.
 
 ## UPDATE - They received the samples!
 
-I checked the tracking again, and they signed for and received the samples :) 
+I checked the tracking, and they signed for and received the samples :) 
