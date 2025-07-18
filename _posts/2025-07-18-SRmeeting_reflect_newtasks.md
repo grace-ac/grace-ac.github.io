@@ -21,5 +21,46 @@ Aaaaand... yes I did do what I intended to do! See today's earlier post where I 
 # Meeting Notes:
 _Will be placed here after the meeting occurs at 12-12:30pm today_
 
-## What I'll do this next week:
-_Will be placed here after the meeting occurs at 12-12:30pm today_
+Question: Why does each count matrix have some instances where the gene counts are "0"s across all 6 libraries? Need to figure that out.
+
+- Look at just BPs
+- Or go to GO Slim and pick categories to compare
+- Pull out every row that has immune in it “grep”      
+Create smaller tables of just “immune” processes
+
+Next step:
+- Just pull out rows that have “immune” in them       
+Calculation on counts         
+Give sum of all 6 columns (stars)        
+Another column that does mean       
+Another column that does std error       
+Could pick 4 genes (house-keeping - or one gene)        
+What people use (NADPH or ribosomal gene)      
+Could normalize based on that           
+- Following step:           
+Find common genes      
+Find them based on shared names       
+Swissprot IDs         
+- Could in a separate effort:       
+Do a join on that for all three species        
+Join based on swissprot ID        
+How many are shared        
+
+
+## To Do:
+### Multispecies
+1. For each count matrix of each species:      
+- pull out all genes that are annotated with "immune"     
+- get sum of counts across all 6 libraries
+- get mean of counts    
+- get std error
+
+2. Compare across all three species:    
+- `join` each annotated count matrix by the uniprot accession ID column and see what is shared
+- can also see what is unique to each species
+- can then filter down smaller to just "immune" processes
+
+3. Get GO Slim terms for each species annotated count matrix.
+
+### Crab Paper:
+Find some journal options to think about.
