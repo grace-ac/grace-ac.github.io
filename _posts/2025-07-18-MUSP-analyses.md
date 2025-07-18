@@ -59,9 +59,7 @@ Exposed, Day 12
 | PSC-0548  | 86.61%          | _P. ochraceus_ |
 | PSC-0560  | 83.84%          | _P. ochraceus_ |
 
-**32370** genes; 35696 transcripts.
-
-**Note: This number is not accurate, because the count matrix for some reason is including a lot of genes that have counts of "0"s accross all 6 libraries... so I need to go back and figure out what's going on here.
+32370 genes; 35696 transcripts.
 
 ## _D. imbricata_
 
