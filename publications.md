@@ -4,8 +4,7 @@ title: Products
 ---
 
 
-<img src="/assets/img/publication_wordcloud.png" alt="Juvenile Pycnopodia helianthoides, Cheesy Bob, Jr" width="300"
-     height="375" />
+![img](../assets/img/wordcloud.png)
 
 Make a wordcloud of your publications: [https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/](https://shiny.rcg.sfu.ca/u/rdmorin/scholar_googler2/)
 
@@ -18,7 +17,7 @@ Make a wordcloud of your publications: [https://shiny.rcg.sfu.ca/u/rdmorin/schol
 
 _Peer-reviewed_ 
 #### 2025   
-Melanie B. Prentice, **Grace A. Crandall**, Amy M. Chan, Katherine M. Davis, Paul K. Hershberger, Jan F. Finke, Jason Hodin, Andrew McCracken, Colleen T. E. Kellogg, Rute B. G. Clemente-Carvalho, Carolyn Prentice, Kevin X. Zhong, C. Drew Harvell, Curtis A. Suttle & Alyssa-Lois M. Gehman.[Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease](https://www.nature.com/articles/s41559-025-02797-2). Nature Ecology and Evolution. 2025. DOI: https://www.nature.com/articles/s41559-025-02797-2 
+Melanie B. Prentice, **Grace A. Crandall**, Amy M. Chan, Katherine M. Davis, Paul K. Hershberger, Jan F. Finke, Jason Hodin, Andrew McCracken, Colleen T. E. Kellogg, Rute B. G. Clemente-Carvalho, Carolyn Prentice, Kevin X. Zhong, C. Drew Harvell, Curtis A. Suttle & Alyssa-Lois M. Gehman.[Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease](https://www.nature.com/articles/s41559-025-02797-2). Nature Ecology and Evolution. 2025. DOI: https://www.nature.com/articles/s41559-025-02797-2. Altmetrics: https://nature.altmetric.com/details/179977185
 
 #### 2023
 
