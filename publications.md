@@ -16,6 +16,10 @@ Make a wordcloud of your publications: [https://shiny.rcg.sfu.ca/u/rdmorin/schol
 
 ### Publications
 
+_Peer-reviewed_ 
+#### 2025   
+Melanie B. Prentice, **Grace A. Crandall**, Amy M. Chan, Katherine M. Davis, Paul K. Hershberger, Jan F. Finke, Jason Hodin, Andrew McCracken, Colleen T. E. Kellogg, Rute B. G. Clemente-Carvalho, Carolyn Prentice, Kevin X. Zhong, C. Drew Harvell, Curtis A. Suttle & Alyssa-Lois M. Gehman.[Vibrio pectenicida strain FHCF-3 is a causative agent of sea star wasting disease](https://www.nature.com/articles/s41559-025-02797-2). Nature Ecology and Evolution. 2025. DOI: https://www.nature.com/articles/s41559-025-02797-2 
+
 #### 2023
 
 Yaamini R Venkataraman, Amanda Shore, Sukanya Dayal, James Sanghyun Lee, Mahsa Alidoost Salimi, **Grace Crandall**, Malina M Loeher, Mark Stoops, Megan Swanger, Morgan E Eisenlord, Kathryn L Van Alstyne, Mark D Fast, Colleen A Burge, Maya L Groner. [Characterizing host-pathogen interactions between _Zostera marina_ and _Labyrinthula zosterae_](https://cdr.lib.unc.edu/concern/articles/m039kg19q). Frontiers Media SA 2023. DOI: https://doi.org/10.17615/ge2d-fg45
@@ -42,8 +46,14 @@ DOI: 10.1021/acs.jproteome.7b00288
 Emma B. Timmins-Schiffman, **Grace A. Crandall**, Brent Vadopalas, Michael E. Riffle, Brook L. Nunn, and Steven B. Roberts. doi: https://doi.org/10.1101/094615
 [Integrating protoemics and selected reaction monitoring to develop a non-invasive assay for geoduck reproductive maturation](https://www.biorxiv.org/content/10.1101/094615v1.full). BioRxiv. December 15, 2016.
 
+_Pre-prints_      
+#### 2025     
+Aspen E Coyle, Samuel J White, **Grace Crandall**, Pam Jensen, Steven Roberts. [Uncovering Host-Parasite Dynamics: Gene Expression Shifts in Hematodinium-infected Chionoecetes bairdi in Response to Temperature Change](https://www.biorxiv.org/content/10.1101/2025.06.05.658092v2.abstract). bioRxiv. 2025. DOI: https://doi.org/10.1101/2025.06.05.658092. 
+
 ### Presentations
 #### Talks
+
+"COMPARATIVE GENE EXPRESSION OF THREE SEA STAR SPECIES WITH VARYING SUSCEPTIBILITY TO SEA STAR WASTING DISEASE". [Slides available on GitHub](https://github.com/grace-ac/presentations/blob/main/2025/WDA_2025.pdf). Wildlife Disease Association, Victoria, BC, Canada. July 2025. 
 
 "_Pycnopodia helianthoides_ immune response to Sea Star Wasting Disease". [Slides available on GitHub](https://github.com/grace-ac/presentations/blob/main/2024/Crandall_SICB_2024.pdf). Society for Integrative and Comparative Biology, Seattle, WA. January 2024.
 
