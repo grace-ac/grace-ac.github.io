@@ -11,6 +11,8 @@ New RNAseq data has been downloaded and transferred to OWL! See posts for detail
 The new data lives on OWL, here: [owl.fish.washington.edu/nightingales/P_helianthoides/](https://owl.fish.washington.edu/nightingales/P_helianthoides/)
 
 The libraries are:          
+
+
 | Sample_ID | species                  | treatment | experiment_day | bin_number | qubit_result_ng.uL | final_sample_vol | total_RNA_in_remaining_sample |
 |-----------|--------------------------|-----------|----------------|------------|--------------------|------------------|-------------------------------|
 | PSC-421   | dermasterias_imbricata   |   exposed |              6 |          1 |               62.4 |               14 |                         873.6 |
