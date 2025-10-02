@@ -81,3 +81,5 @@ MultiQC Report Pre-Trim: [OWL: gcrandall/multispeciesSSWD/QCreports/multiqc_repo
 Code: [project-pycno-multispecies-2023/code/25-multispecies-RNAseq_trimming-d6-d12.Rmd](https://github.com/grace-ac/project-pycno-multispecies-2023/blob/main/code/25-multispecies-RNAseq_trimming-d6-d12.Rmd)   
 
 MultiQC Report Post-Trim: [OWL: gcrandall/multispeciesSSWD/QCreports/multiqc_report_trimmed_RNASeq_MUSP_d6_d12.html ](https://owl.fish.washington.edu/gcrandall/multispeciesSSWD/QCreports/multiqc_report_trimmed_RNASeq_MUSP_d6_d12.html)
+
+Trimmed data is on Raven at: `/home/shared/8TB_HDD_02/graceac9/GitHub/project-pycno-multispecies-2023/output/25-multi-fastp-allMUSP/phel`
