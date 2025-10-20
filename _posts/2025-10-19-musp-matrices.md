@@ -1,6 +1,6 @@
 ---
 layout: post
-title: MultiSpecies - Matrices for each species 
+title: Multi-Species - Matrices for each species 
 date: '2025-10-19'
 categories: [MultiSpecies]
 ---
