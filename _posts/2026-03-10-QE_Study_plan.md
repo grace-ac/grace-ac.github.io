@@ -43,6 +43,6 @@ Then, after I've read and highlighted the paper, typed up the key points into a 
 After I do steps 1-3 for each paper the reading set, I do the further literature review by going back into my notes to the citations I highlighted in blue, concepts I wanted to learn more about, etc., and compile papers and take quick notes on them to synthesize the concepts, and add them to my google doc and any new insights into patterns into the notebook notes.
 
 ## What I'm **NOT** Doing
-I am not using chatgpt or any AI for this. As a general rule, I avoid using chatgpt except for very occasional times when doing research when I want to see if it can help me troubleshoot a coding issue or understand a code chunk. I personally am avoiding using chatgpt and AI for environmental, humanitarian, and academic reasons. 
+I am not using chatgpt or any AI for this. As a general rule, I avoid using chatgpt and all AI except for a very rare few times when doing research when I want to see if it can help me troubleshoot a coding issue or understand a code chunk, though I always prefer to read into the manuals and online forums for help. I personally am avoiding using chatgpt and AI for environmental, humanitarian, and academic reasons. 
 
 I  want my brain to be what synthesizes information, reads the papers, and makes connections. Studying for this exam (and doing my own research) is important to me. So it may take a little longer each day than if I were to use some form of AI to study, but this is how I want to do it, so that's what I'm doing. 
