@@ -38,7 +38,8 @@ Submitted 23:47.
 ## NCBI Info 
 Will post once official: 
 
-SRA: Study: BioProject: BioSample: 
+Project: [PRJNA1440140](https://www.ncbi.nlm.nih.gov/sra/PRJNA1440140)    
+Officially published 2026-03-20. 
 
   
 
