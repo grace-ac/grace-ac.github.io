@@ -21,13 +21,13 @@ The treatment groups were:
 | Eelgrass + Filtered seawater | EFSW           | 8                           | Yes                           |
 
 ### samples
-(0.45um filters)[https://www.thermofisher.com/order/catalog/product/130-4020PK?SID=srch-hj-130-4020] that I filtered the water from each individual replicate (n=40) through.       
+[0.45um filters](https://www.thermofisher.com/order/catalog/product/130-4020PK?SID=srch-hj-130-4020) that I filtered the water from each individual replicate (n=40) through.       
 The filters were stored in -80C originally at FHL, but then brought down to UW last month, and have been in the FTR -80C since then.
 
 ### DNA Extraction 
 Following similar protocols from when I worked on the Eelgrass and Eelgrass wasting disease project, I processed half of the 0.45um filter from each sample.       
 
-I followed the protocol from (ZymoBIOMICS DNA MiniPrep Kit (D4300))[https://www.zymoresearch.com/products/zymobiomics-dna-miniprep-kit], and used the (Roberts Lab Bullet Blender 5E Gold + with the 2.0mL adapters)[https://robertslab.github.io/resources/protocols/protocol-bullet_blender/] (1min at speed 12, 5 min rest, 5 times). 
+I followed the protocol from [ZymoBIOMICS DNA MiniPrep Kit (D4300)](https://www.zymoresearch.com/products/zymobiomics-dna-miniprep-kit), and used the [Roberts Lab Bullet Blender 5E Gold + with the 2.0mL adapters](https://robertslab.github.io/resources/protocols/protocol-bullet_blender/) (1min at speed 12, 5 min rest, 5 times). 
 
 The DNA is eluted in 50ul of water and stored in the middle -80C in FTR.     
 The remaining 1/2 filters of each sample is also in the middle -80C in FTR. 
