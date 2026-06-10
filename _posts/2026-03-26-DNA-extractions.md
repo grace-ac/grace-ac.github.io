@@ -2,7 +2,7 @@
 layout: post
 title: DNA Extractions for FHL May 2025 Experiment 
 date: '2026-03-26'
-categories: [FHL, DNA, VpecProject]
+categories: [FHL2025, DNA, VpecProject]
 ---
 See post for details on extracting DNA from May 2025 FHL eelgrass + Vpec experiment. 
 
