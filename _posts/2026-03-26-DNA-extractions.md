@@ -10,7 +10,8 @@ Last spring I ran an experiment where the study question was:
 
 ### Can the presence of eelgrass decrease the bacterial counts of _V. pectenicida_ in seawater? 
 
-The treatment groups were:     
+The treatment groups were:        
+
 | Treatment                    | Treatment Code | Number of bags (replicates) | Eelgrass in treatment? Yes/No |
 |------------------------------|----------------|-----------------------------|-------------------------------|
 | Low Dose Vibrio + Eelgrass   | LDVE           | 8                           | Yes                           |
@@ -18,6 +19,7 @@ The treatment groups were:
 | Low Dose Vibrio              | LDV            | 8                           | No                            |
 | High Dose Vibrio             | HDV            | 8                           | No                            |
 | Eelgrass + Filtered seawater | EFSW           | 8                           | Yes                           |
+
 
 ### samples
 (0.45um filters)[https://www.thermofisher.com/order/catalog/product/130-4020PK?SID=srch-hj-130-4020] that I filtered the water from each individual replicate (n=40) through.       
