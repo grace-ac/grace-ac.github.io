@@ -20,7 +20,6 @@ The treatment groups were:
 | High Dose Vibrio             | HDV            | 8                           | No                            |
 | Eelgrass + Filtered seawater | EFSW           | 8                           | Yes                           |
 
-
 ### samples
 (0.45um filters)[https://www.thermofisher.com/order/catalog/product/130-4020PK?SID=srch-hj-130-4020] that I filtered the water from each individual replicate (n=40) through.       
 The filters were stored in -80C originally at FHL, but then brought down to UW last month, and have been in the FTR -80C since then.
