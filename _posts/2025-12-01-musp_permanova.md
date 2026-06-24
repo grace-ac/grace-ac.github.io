@@ -2,7 +2,7 @@
 layout: post
 title: Permanova Analysis for Multi-species RNAseq
 date: '2025-12-01'
-categories: [Multispecies]
+categories: [MultiSpecies]
 ---
 Permanova results and thoughts on the RNAseq data for the multi-species project. See post for details. 
 
