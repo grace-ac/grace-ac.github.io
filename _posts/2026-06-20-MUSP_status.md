@@ -2,7 +2,7 @@
 layout: post
 title: Mutispecies `DESeq2` Results - Links to DEG and Annotated DEG Lists
 date: '2026-06-20'
-categories: [MutiSpecies]
+categories: [MultiSpecies]
 ---
 Post detailing the Multi-Species results from `DESeq2` --> DEG lists and annotations.    
 
