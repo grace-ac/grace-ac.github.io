@@ -16,7 +16,7 @@ I read through the code and clicked through it and recreated everything, but I d
 
 So, I did a combination of reading the `topGO` manual, using chatGPT to help me understand the different code chunks, and created a new version of code that utilizes `topGO` to get enrichment. See details below. 
 
-# Enrichment Files: 
+# Enrichment Files - Biological Process Only: 
 R Code: [project-pycno-multispecies-2023/code/39-topGO-enrichment.Rmd](https://github.com/grace-ac/project-pycno-multispecies-2023/blob/main/code/39-topGO-enrichment.Rmd)     
 
 Output Directory: [project-pycno-multispecies-2023/output/39-topGO-enrichment](https://github.com/grace-ac/project-pycno-multispecies-2023/tree/main/output/39-topGO-enrichment)
