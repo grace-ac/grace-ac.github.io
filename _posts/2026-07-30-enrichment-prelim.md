@@ -66,7 +66,7 @@ From chatGPT:
 - Expected: The number of DEGs that would be exptected to have the GO term if differential expression were completely random. 
 - Fisher: the p-value for the Fisher's Exact test. If p-value is small it means that observed is very different from expected, and if p-value is closer to one, it means that observed is roughly similar to what was expected (not significantly enriched).    
 
-# Enrichment Summary Figure for Day 12: 
+# Enrichment Summary Figure for Day 12 - Biological Process Only: 
 R code: [project-pycno-multispecies-2023/code/40-enrichment-figs.Rmd](https://github.com/grace-ac/project-pycno-multispecies-2023/blob/main/code/40-enrichment-figs.Rmd)       
 Output directory: [project-pycno-multispecies-2023/output/40-enrichment-figs](https://github.com/grace-ac/project-pycno-multispecies-2023/tree/main/output/40-enrichment-figs) 
 
