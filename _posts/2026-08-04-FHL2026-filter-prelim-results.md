@@ -58,7 +58,7 @@ Seawter --> no _V. pec_ - as expected.
 
 Time 0 Vpec and Seawater --> VERY high levels of _V. pec_ - as expected. 
 
-Vpec and seawater --> high levels of _V. pec_, but less than the Time 0 treatment... which is interesting. I would have expected the Vpec to increase over time, but maybe the fact that the experiment took place in a room set to 16C (ideal for eelgrass) that it was too cold for the Vpec to replicate?
+Vpec and seawater --> high levels of _V. pec_, but less than the Time 0 treatment... which is interesting. I would have expected the Vpec to increase over time, but maybe the fact that the experiment took place in a room set to 16C (ideal for eelgrass) that it was too cold for the Vpec to replicate? **Note: From Alyssa G: 16C is warm enough for _V. pec_ growth, so maybe it's actually that plain 0.22um-filtered seawater doesn't have what is needed to support _V. pec_ growth?**
 
 # Next Steps
 
