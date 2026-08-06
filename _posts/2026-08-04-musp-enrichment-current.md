@@ -70,17 +70,17 @@ All are of the top 10 enriched biological processes per species. No orthogroups 
 ### Day 6 Enrichment Per Species
 Top 10 Biological Processes 
 
-![img](../notebook-images/2026-08-04/allspecies_top10_GO_dotplot_day6.pdf)
+![img](../notebook-images/2026-08-04/allspecies-top10-enrich-day6.png)
 
 ### Day 12 Enrichment Per Species
 Top 10 Biological Processes 
 
-![img](../notebook-images/2026-08-04/allspecies_top10_GO_dotplot-2.pdf)    
+![img](../notebook-images/2026-08-04/allspecies-topGO-enrich-day12.png)    
 
 ### Interaction of Day and Treatment Enrichment Per Species
 Top 10 Biological Processes 
 
-![img](../notebook-images/2026-08-04/allspecies_top10_GO_dotplot_INTERACTION.pdf)
+![img](../notebook-images/2026-08-04/allspecies-topGO-INTERACTION-enrich.png)
 
 ### Interpretations
 Basically... I haven't looked into the processes yet. But my next steps are to confirm that these are true... double check my code and see what Steven thinks... then go into the literature. 
