@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 2026 Mussel Tissue DNA Extractions - 15mg weighed out ready for extraction
+title: 2026 Mussel Tissue DNA Extractions - 150mg weighed out ready for extraction Part I
 date: '2026-09-01'
 categories: [FHL2026]
 ---
