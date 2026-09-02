@@ -44,3 +44,6 @@ What I did this afternoon:
 Proteinase K from Qiagen Blood and Tissue Kit cat 19131: [link](https://www.qiagen.com/us/products/discovery-and-translational-research/enzymes-for-molecular-biology/proteinase-k?catno=19131)        
 Proteinase K from Zymo Research that I have extra of from old kits: [link](https://www.zymoresearch.com/products/proteinase-k-w-storage-buffer-set)
 
+
+# 2026-09-02 Edit
+Wow... so 0.15 g is not 15mg... it's 150mg. So... in the trial run I did with 4 mussels from 2025 ([post](https://grace-ac.github.io/mussel2025-dna/))... the weights were actually 100mg, 150mg, 200mg, and 250mg. They all had detectable DNA... so I guess I'll still pick one of them. I'll go with ~150mg because that's what I weighed out already for half the samples and so I'll do that today with the remaining mussels. I'll post a post about it for today. 
