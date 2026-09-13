@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Oyster Mortality Tracking and Rack Set Up
-date: '2026-09-12'
+title: Oyster Family Mortality Tracking and Rack Set Up
+date: '2026-09-13'
 categories: [OysterMortRack]
 ---
 Will continually update this log and adjust date to most recent date for tracking oyster morts and steps being taken to improve the oyster tank rack in FTR. 
@@ -17,15 +17,15 @@ Goals:
 
 # Up-To-Date Mort check
 
-Family mortalities to date (2026-09-12):    
+Family mortalities to date (2026-09-13):    
 
 | family | start_number | morts | percent_mort |
 |--------|--------------|-------|--------------|
 |      2 |           60 |     8 |  13.33333333 |
 |      5 |           60 |     7 |  11.66666667 |
-|      6 |           60 |     3 |            5 |
+|      6 |           60 |     4 |  6.666666667 |
 |      7 |           60 |     2 |  3.333333333 |
-|      9 |           60 |     6 |           10 |
+|      9 |           60 |     7 |  11.66666667 |
 |     10 |           60 |    14 |  23.33333333 |
 
 Spreadsheet link: [here](https://docs.google.com/spreadsheets/d/1t-kk9bqcTaQnzZ45wAmJMQ0EBh7wmi6O0cTCFS4XFDw/edit?usp=sharing)
@@ -34,34 +34,49 @@ Copied spreadsheet below:
 
 | initials | date       | row | tank | number_mortalities |
 |----------|------------|-----|------|--------------------|
-| GAC      | 2926-09-12 |   4 |   10 |                  5 |
-| GAC      | 2926-09-12 |   4 |    7 |                  1 |
 | GAC      | 2926-09-12 |   4 |    2 |                  1 |
+| GAC      | 2926-09-12 |   4 |    7 |                  1 |
 | GAC      | 2926-09-12 |   3 |    9 |                  1 |
+| GAC      | 2926-09-12 |   4 |   10 |                  5 |
 | GAC      | 2926-09-12 |   3 |   10 |                  1 |
 | GAC      | 2926-09-12 |   2 |   10 |                  1 |
 | GAC      | 2926-09-12 |   1 |   10 |                  1 |
-| GAC      | 2026-09-11 |   1 |    7 |                  1 |
-| GAC      | 2026-09-11 |   1 |   10 |                  1 |
-| GAC      | 2026-09-11 |   1 |    9 |                  2 |
-| GAC      | 2026-09-11 |   1 |    5 |                  2 |
+| GAC      | 2026-09-13 |   4 |    6 |                  1 |
+| GAC      | 2026-09-13 |   2 |    9 |                  1 |
 | GAC      | 2026-09-11 |   2 |    2 |                  1 |
-| GAC      | 2026-09-11 |   2 |    6 |                  1 |
-| GAC      | 2026-09-11 |   2 |    5 |                  3 |
-| GAC      | 2026-09-11 |   2 |   10 |                  2 |
-| GAC      | 2026-09-11 |   3 |    5 |                  2 |
-| GAC      | 2026-09-11 |   4 |    9 |                  1 |
-| GAC      | 2026-09-11 |   4 |    5 |                  1 |
 | GAC      | 2026-09-11 |   4 |    2 |                  2 |
+| GAC      | 2026-09-11 |   1 |    5 |                  2 |
+| GAC      | 2026-09-11 |   2 |    5 |                  3 |
+| GAC      | 2026-09-11 |   3 |    5 |                  2 |
+| GAC      | 2026-09-11 |   4 |    5 |                  1 |
+| GAC      | 2026-09-11 |   2 |    6 |                  1 |
+| GAC      | 2026-09-11 |   1 |    7 |                  1 |
+| GAC      | 2026-09-11 |   1 |    9 |                  2 |
+| GAC      | 2026-09-11 |   4 |    9 |                  1 |
+| GAC      | 2026-09-11 |   1 |   10 |                  1 |
+| GAC      | 2026-09-11 |   2 |   10 |                  2 |
 | GAC      | 2026-09-10 |   1 |    2 |                  2 |
-| GAC      | 2026-09-10 |   1 |    9 |                  1 |
-| GAC      | 2026-09-10 |   2 |   10 |                  1 |
 | GAC      | 2026-09-10 |   2 |    2 |                  1 |
 | GAC      | 2026-09-10 |   3 |    2 |                  1 |
 | GAC      | 2026-09-10 |   3 |    6 |                  1 |
-| GAC      | 2026-09-10 |   4 |   10 |                  2 |
-| GAC      | 2026-09-10 |   4 |    9 |                  1 |
 | GAC      | 2026-09-10 |   4 |    6 |                  1 |
+| GAC      | 2026-09-10 |   1 |    9 |                  1 |
+| GAC      | 2026-09-10 |   4 |    9 |                  1 |
+| GAC      | 2026-09-10 |   2 |   10 |                  1 |
+| GAC      | 2026-09-10 |   4 |   10 |                  2 |
+
+# 2026-09-13
+Arrived to the lab around 12pm and saw that the pump was just pumping air. 
+
+There was a tube that had popped out of the holding tank and that is likely how the system drained. There was NO wet puddles on the floor, so it's likely that this happened shortly after I left lab yesterday (~1500). 
+
+So, I took of the t-splitter of the draining tube and put the whole tube into the holding tank to prevent this from happeneing again. 
+
+I had a garbage can full of 30ppt water in the tank room, but it was too heavy to move to the rack room. So, I did water chemistry for the Left and Right blue tanks and Left and Right yellow tanks a day early. The Right tank had high nitrate levels and was supposed to be switched out tomorrow no matter what anyway, so I drained and refilled that to empty the can.
+
+I then brought the can over and filled it with water and made 20ppt water to refill the system.
+
+The tanks had water again as of 1405. 
 
 # 2026-09-09
 
