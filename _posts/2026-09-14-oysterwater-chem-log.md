@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tank Room Water Chemistry Log
-date: '2026-09-13'
+date: '2026-09-14'
 categories: [OysterWaterChem]
 ---
 I'm doing some water chemistry for oyster stuff while Jesse is out of town! 
@@ -40,6 +40,22 @@ If nitrite is above or  = 3 replace it as soon as possible if you have water ava
 
 - If all other tanks are in good shape, drain and refill left blue tank with 30 ppt seatwater     
 - Replace filter bag on left blue tank
+
+# 2026-09-14
+
+The yellow Left tank (Chris's tank) has too high of nitrite so I refilled. Chris said the water needs to be 26-28ppt (30 ppt will kill them). I used the aquarium pump to drain the tank and then refilled. 
+
+All other tanks are good I think. 
+
+**NOTE**: The API test strips are all used up, but I found another brand water test strips that also test for pH, nitrite, nitrate and alk, so I used those. 
+
+| Test    | Blue Tank Left | Blue Tank Right | Yellow Tank Left                                | Yellow Tank Right |
+|---------|----------------|-----------------|-------------------------------------------------|-------------------|
+|      pH |            7.4 |             7.8 |                                             7.8 | 7.8               |
+| nitrite |              3 |             1.0 |                                         **5.0** | 0.5               |
+| nitrate |             40 |              20 |                                              40 | 80                |
+| ammonia |         0.5ppm |          0.5ppm | 8.0++ ppm (way darker blue than the guide goes) | 0.25ppm           |
+| alk     | 0              | 80              | 300                                             | 0                 |
 
 # 2026-09-13 
 The tank rack room needed more water, so I check the water chem in the tanks a day early to see if I could refill one tank with the already-made 30ppt seawater in the garbage can in there. 
