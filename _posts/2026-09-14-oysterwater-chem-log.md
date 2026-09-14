@@ -47,7 +47,7 @@ The yellow Left tank (Chris's tank) has too high of nitrite so I refilled. Chris
 
 All other tanks are good I think. 
 
-**NOTE**: The API test strips are all used up, but I found another brand water test strips that also test for pH, nitrite, nitrate and alk, so I used those. 
+**NOTE**: The API test strips are all used up, but I found another brand water test strips that also test for pH, nitrite, nitrate and alk, so I used those. Tetra Brand EasyStrips. 
 
 | Test    | Blue Tank Left | Blue Tank Right | Yellow Tank Left                                | Yellow Tank Right |
 |---------|----------------|-----------------|-------------------------------------------------|-------------------|
