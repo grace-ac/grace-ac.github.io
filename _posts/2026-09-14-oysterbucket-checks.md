@@ -1,11 +1,25 @@
 ---
 layout: post
 title: Oyster El Nino Bucket Temp, Sal Checks and Feeding Log
-date: '2026-09-13'
+date: '2026-09-14'
 categories: [OysterBucket]
 ---
 Will continually update this log and adjust date to most recent date for tracking oyster bucket temp and salinity checks and feeding log. 
 
+
+#2026-09-14
+Tempa and Salinity log update: 
+
+| Date | Initials | Tank    | Temp           | Salinity PSU | Feeding     |
+|------|----------|---------|----------------|--------------|-------------|
+| 9/11 |       AH | Control |           19.4 | 20           | Control 2mL |
+| 9/11 |       AH | El Nino |           25.9 | 31           | -           |
+| 9/12 |      GAC | Control | 17.9 C (64.2F) | 19           | -           |
+| 9/12 |      GAC | El Nino | 25.9 C (78.6F) | 31           | -           |
+| 9/13 | GAC      | Control | 17.3 C (63.2F) | 20           | -           |
+| 9/13 | GAC      | El Nino | 21.9 C (71.4F) | 34           | -           |
+| 9/14 | GAC      | Control | 13.9 C (57.1F) | 20           | Control 2mL |
+| 9/14 | GAC      | El Nino | 21.3 C (70.3F) | 34           | El Nino 2mL |
 
 # 2026-09-13
 
