@@ -49,6 +49,8 @@ All other tanks are good I think.
 
 **NOTE**: The API test strips are all used up, but I found another brand water test strips that also test for pH, nitrite, nitrate and alk, so I used those. Tetra Brand EasyStrips. 
 
+The yellow left tank was refilled with ~27ppt water today. 
+
 | Test    | Blue Tank Left | Blue Tank Right | Yellow Tank Left                                | Yellow Tank Right |
 |---------|----------------|-----------------|-------------------------------------------------|-------------------|
 |      pH |            7.4 |             7.8 |                                             7.8 | 7.8               |
@@ -71,7 +73,7 @@ I also switched out the filter bag for the right blue tank.
 | Nitrate  | 20             | 80              | 20                | 80                |
 | Ammonnia | 40             | 80              | 120               | 40                |
 
-**Note** I'll change out the left yellow tank tomorrow I think. It also has high nitrite levels. 
+**Note** I'll change out the left yellow tank tomorrow I think. It also has high nitrite levels.
 
 # 2026-09-11
 API Strip testing for pH, nitrite, nitrates in the 4 tanks + ammonia testing:  
