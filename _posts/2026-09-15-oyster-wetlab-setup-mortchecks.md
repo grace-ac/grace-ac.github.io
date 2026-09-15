@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oyster Family Mortality Tracking and Rack Set Up
-date: '2026-09-14'
+date: '2026-09-15'
 categories: [OysterMortRack]
 ---
 Will continually update this log and adjust date to most recent date for tracking oyster morts and steps being taken to improve the oyster tank rack in FTR. 
@@ -17,11 +17,11 @@ Goals:
 
 # Up-To-Date Mort check
 
-Family mortalities to date (2026-09-14):    
+Family mortalities to date (2026-09-15):    
 
 | family | start_number | morts | percent_mort |
 |--------|--------------|-------|--------------|
-|      2 |           60 |     9 |           15 |
+|      2 |           60 |    10 |  16.66666667 |
 |      5 |           60 |     8 |  13.33333333 |
 |      6 |           60 |     5 |  8.333333333 |
 |      7 |           60 |     2 |  3.333333333 |
@@ -34,20 +34,15 @@ Copied spreadsheet below:
 
 | initials | date       | row | tank | number_mortalities |
 |----------|------------|-----|------|--------------------|
-| GAC      | 2926-09-12 |   4 |    2 |                  1 |
-| GAC      | 2926-09-12 |   4 |    7 |                  1 |
-| GAC      | 2926-09-12 |   3 |    9 |                  1 |
-| GAC      | 2926-09-12 |   4 |   10 |                  5 |
-| GAC      | 2926-09-12 |   3 |   10 |                  1 |
-| GAC      | 2926-09-12 |   2 |   10 |                  1 |
-| GAC      | 2926-09-12 |   1 |   10 |                  1 |
-| GAC      | 2026-09-14 |   4 |    9 |                  1 |
-| GAC      | 2026-09-14 |   4 |    2 |                  1 |
-| GAC      | 2026-09-14 |   3 |    9 |                  1 |
-| GAC      | 2026-09-14 |   3 |    6 |                  1 |
-| GAC      | 2026-09-14 |   2 |    5 |                  1 |
-| GAC      | 2026-09-13 |   4 |    6 |                  1 |
-| GAC      | 2026-09-13 |   2 |    9 |                  1 |
+| GAC      | 2026-09-10 |   1 |    2 |                  2 |
+| GAC      | 2026-09-10 |   2 |    2 |                  1 |
+| GAC      | 2026-09-10 |   3 |    2 |                  1 |
+| GAC      | 2026-09-10 |   3 |    6 |                  1 |
+| GAC      | 2026-09-10 |   4 |    6 |                  1 |
+| GAC      | 2026-09-10 |   1 |    9 |                  1 |
+| GAC      | 2026-09-10 |   4 |    9 |                  1 |
+| GAC      | 2026-09-10 |   2 |   10 |                  1 |
+| GAC      | 2026-09-10 |   4 |   10 |                  2 |
 | GAC      | 2026-09-11 |   2 |    2 |                  1 |
 | GAC      | 2026-09-11 |   4 |    2 |                  2 |
 | GAC      | 2026-09-11 |   1 |    5 |                  2 |
@@ -60,15 +55,21 @@ Copied spreadsheet below:
 | GAC      | 2026-09-11 |   4 |    9 |                  1 |
 | GAC      | 2026-09-11 |   1 |   10 |                  1 |
 | GAC      | 2026-09-11 |   2 |   10 |                  2 |
-| GAC      | 2026-09-10 |   1 |    2 |                  2 |
-| GAC      | 2026-09-10 |   2 |    2 |                  1 |
-| GAC      | 2026-09-10 |   3 |    2 |                  1 |
-| GAC      | 2026-09-10 |   3 |    6 |                  1 |
-| GAC      | 2026-09-10 |   4 |    6 |                  1 |
-| GAC      | 2026-09-10 |   1 |    9 |                  1 |
-| GAC      | 2026-09-10 |   4 |    9 |                  1 |
-| GAC      | 2026-09-10 |   2 |   10 |                  1 |
-| GAC      | 2026-09-10 |   4 |   10 |                  2 |
+| GAC      | 2026-09-13 |   4 |    6 |                  1 |
+| GAC      | 2026-09-13 |   2 |    9 |                  1 |
+| GAC      | 2026-09-14 |   4 |    9 |                  1 |
+| GAC      | 2026-09-14 |   4 |    2 |                  1 |
+| GAC      | 2026-09-14 |   3 |    9 |                  1 |
+| GAC      | 2026-09-14 |   3 |    6 |                  1 |
+| GAC      | 2026-09-14 |   2 |    5 |                  1 |
+| GAC      | 2026-09-15 |   3 |    2 |                  1 |
+| GAC      | 2926-09-12 |   4 |    2 |                  1 |
+| GAC      | 2926-09-12 |   4 |    7 |                  1 |
+| GAC      | 2926-09-12 |   3 |    9 |                  1 |
+| GAC      | 2926-09-12 |   4 |   10 |                  5 |
+| GAC      | 2926-09-12 |   3 |   10 |                  1 |
+| GAC      | 2926-09-12 |   2 |   10 |                  1 |
+| GAC      | 2926-09-12 |   1 |   10 |                  1 |
 
 # 2026-09-14
 While I was in a meeting from 11am-12pm, the tank rack system emptied again because the recirculating tube that goes into the holding tank popped out AGAIN!
