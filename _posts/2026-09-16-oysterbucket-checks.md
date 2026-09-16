@@ -24,6 +24,28 @@ Will continually update this log and adjust date to most recent date for trackin
 | 9/16 | GAC      | Control | 13.5 C (56.3F) | 19           | Control 2mL |
 | 9/16 | GAC      | El Nino | 21.5 C (70.7F) | 36           | -           |
 
+Checked in with Ariana about the temps and she requested some adjustments be made. I had meant to send her a message eaerlier, but I kept forgetting :(. 
+
+For the El Nino bucket:     
+- add freshwater to adjust the salinity (NOTE: when adding freshwater, it smelled really bad... so then I did the next step)      
+- check for mortality       
+
+There are some mortalities, so here's what I did:   
+
+- Pulled out the bags and counted morts and kept a tally for each bag
+- did a water change with 30ppt salinity water 
+
+Mortality counts:   
+
+| Bag Tag Number | Number of Morts |
+|----------------|-----------------|
+|             10 |              16 |
+|              6 |              12 |
+|              7 |              19 |
+|              9 |              20 |
+|              8 |              28 |
+
+
 # 2026-09-15
 
 | Date | Initials | Tank    | Temp           | Salinity PSU | Feeding     |
