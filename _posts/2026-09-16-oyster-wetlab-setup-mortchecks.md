@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oyster Family Mortality Tracking and Rack Set Up
-date: '2026-09-15'
+date: '2026-09-16'
 categories: [OysterMortRack]
 ---
 Will continually update this log and adjust date to most recent date for tracking oyster morts and steps being taken to improve the oyster tank rack in FTR. 
@@ -17,16 +17,16 @@ Goals:
 
 # Up-To-Date Mort check
 
-Family mortalities to date (2026-09-15):    
+Family mortalities to date (2026-09-16):    
 
 | family | start_number | morts | percent_mort |
 |--------|--------------|-------|--------------|
 |      2 |           60 |    10 |  16.66666667 |
 |      5 |           60 |     8 |  13.33333333 |
-|      6 |           60 |     5 |  8.333333333 |
-|      7 |           60 |     2 |  3.333333333 |
+|      6 |           60 |     6 |           10 |
+|      7 |           60 |     3 |            5 |
 |      9 |           60 |     9 |           15 |
-|     10 |           60 |    14 |  23.33333333 |
+|     10 |           60 |    15 |           25 |
 
 Spreadsheet link: [here](https://docs.google.com/spreadsheets/d/1t-kk9bqcTaQnzZ45wAmJMQ0EBh7wmi6O0cTCFS4XFDw/edit?usp=sharing)
 
@@ -70,6 +70,9 @@ Copied spreadsheet below:
 | GAC      | 2926-09-12 |   3 |   10 |                  1 |
 | GAC      | 2926-09-12 |   2 |   10 |                  1 |
 | GAC      | 2926-09-12 |   1 |   10 |                  1 |
+| GAC      | 2026-09-16 |   3 |    6 |                  1 |
+| GAC      | 2026-09-16 |   2 |    7 |                  1 |
+| GAC      | 2026-09-16 |   1 |   10 |                  1 |
 
 # 2026-09-14
 While I was in a meeting from 11am-12pm, the tank rack system emptied again because the recirculating tube that goes into the holding tank popped out AGAIN!
