@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oyster OA Mortality Log
-date: '2026-09-15'
+date: '2026-09-16'
 categories: [OysterOA]
 ---
 See post for details
@@ -13,8 +13,8 @@ In the rack room, I'm checking daily for morts in two tanks: one is a control an
 
 | Data As of Date | Tank      | Total Moratities |
 |-----------------|-----------|------------------|
-| 9/15            | Control   | 9                |
-| 9/15            | Treatment | 1                |
+| 9/16            | Control   | 9                |
+| 9/16            | Treatment | 1                |
 
 # Up-to-date log: 
 
@@ -28,6 +28,8 @@ In the rack room, I'm checking daily for morts in two tanks: one is a control an
 | 9/14 |      GAC |      OA |            0 |
 | 9/15 |      GAC | Control |            3 |
 | 9/15 |      GAC |      OA |            0 |
+| 9/16 |      GAC | Control |            0 |
+| 9/16 |      GAC |      OA |            0 |
 
 # 2026-09-14
 During a meeting from 11am-12pm today the system lost water again because the recirculation tube popped out of the holding tank again. I re-secured with a big metal clip and zip ties. The water was running again with new 20ppt water within an hour! 
