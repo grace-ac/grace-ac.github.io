@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oyster Family Mortality Tracking and Rack Set Up
-date: '2026-09-16'
+date: '2026-09-18'
 categories: [OysterMortRack]
 ---
 Will continually update this log and adjust date to most recent date for tracking oyster morts and steps being taken to improve the oyster tank rack in FTR. 
@@ -17,16 +17,16 @@ Goals:
 
 # Up-To-Date Mort check
 
-Family mortalities to date (2026-09-16):    
+Family mortalities to date (2026-09-18):    
 
 | family | start_number | morts | percent_mort |
 |--------|--------------|-------|--------------|
-|      2 |           60 |    10 |  16.66666667 |
-|      5 |           60 |     8 |  13.33333333 |
-|      6 |           60 |     6 |           10 |
+|      2 |           60 |    12 |           20 |
+|      5 |           60 |     9 |           15 |
+|      6 |           60 |     9 |           15 |
 |      7 |           60 |     3 |            5 |
-|      9 |           60 |     9 |           15 |
-|     10 |           60 |    15 |           25 |
+|      9 |           60 |    10 |  16.66666667 |
+|     10 |           60 |    16 |  26.66666667 |
 
 Spreadsheet link: [here](https://docs.google.com/spreadsheets/d/1t-kk9bqcTaQnzZ45wAmJMQ0EBh7wmi6O0cTCFS4XFDw/edit?usp=sharing)
 
@@ -73,6 +73,14 @@ Copied spreadsheet below:
 | GAC      | 2026-09-16 |   3 |    6 |                  1 |
 | GAC      | 2026-09-16 |   2 |    7 |                  1 |
 | GAC      | 2026-09-16 |   1 |   10 |                  1 |
+| CM       | 2026-09-17 |   1 |    2 |                  1 |
+| CM       | 2026-09-17 |   2 |    5 |                  1 |
+| CM       | 2026-09-17 |   3 |    6 |                  1 |
+| CM       | 2026-09-17 |   4 |   10 |                  1 |
+| GAC      | 2026-09-18 |   4 |    2 |                  1 |
+| GAC      | 2026-09-18 |   3 |    6 |                  1 |
+| GAC      | 2026-09-18 |   2 |    9 |                  1 |
+| GAC      | 2026-09-18 |   1 |    6 |                  1 |
 
 # 2026-09-14
 While I was in a meeting from 11am-12pm, the tank rack system emptied again because the recirculating tube that goes into the holding tank popped out AGAIN!
