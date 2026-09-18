@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tank Room Water Chemistry Log
-date: '2026-09-16'
+date: '2026-09-18'
 categories: [OysterWaterChem]
 ---
 I'm doing some water chemistry for oyster stuff while Jesse is out of town! 
@@ -40,6 +40,20 @@ If nitrite is above or  = 3 replace it as soon as possible if you have water ava
 
 - If all other tanks are in good shape, drain and refill left blue tank with 30 ppt seatwater     
 - Replace filter bag on left blue tank
+
+# 2026-09-18
+
+| Test       | Blue Left | Blue Right      | Yellow Left | Yellow Right |
+|------------|-----------|-----------------|-------------|--------------|
+|         pH |       7.0 | 7.4             | 7.8         | 7.4          |
+|    Nitrite |       3.0 | between 1 and 3 | 0.5         | 0.5          |
+|    Nitrate |        80 | 40              | 0           | 40           |
+|    Ammonia |         0 | 0               | 0.5         | 0            |
+| Alkalinity |         0 | 0               | 300         | 0            |
+
+# 2026-09-17
+
+I was out, so Chris M did the check for me. 
 
 # 2026-09-16
 
