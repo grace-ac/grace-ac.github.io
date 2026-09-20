@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Tank Room Water Chemistry Log
-date: '2026-09-18'
+date: '2026-09-20'
 categories: [OysterWaterChem]
 ---
 I'm doing some water chemistry for oyster stuff while Jesse is out of town! 
@@ -40,6 +40,24 @@ If nitrite is above or  = 3 replace it as soon as possible if you have water ava
 
 - If all other tanks are in good shape, drain and refill left blue tank with 30 ppt seatwater     
 - Replace filter bag on left blue tank
+
+# 2026-09-20
+
+| Test       | Blue Left       | Blue Right | Yellow Left | Yellow Right |
+|------------|-----------------|------------|-------------|--------------|
+| pH         |             7.0 |        7.4 |         8.4 |          7.4 |
+| Nitrite    | Between 1 and 3 |          3 |           3 |          0.5 |
+| Nitrate    |              80 |         80 |          20 |           40 |
+| Ammonia    |               0 |       0.25 |         4.0 |            - |
+| Alkalinity | 0               | 40         | 300         | 0            |
+
+Megan's tank is Yellow Right and she was in there today with the plan to switch out her water, so I didn't check for ammonia and she's switching the water out herself.
+
+I switched out the water in the Blue Right with new 30ppt seawater, and asked Chris if she'd like me to switch out hers or if she has plans to do things this coming week. 
+
+She got back to me and asked that I just take a peak at her mussel bags to get an idea of how many are still alive (closed) and she'll do the rest. 
+
+I also made a garbage can of 30ppt seawater that's in the cold room and labeled it in case folks need to switch out water for other tanks this week. 
 
 # 2026-09-18
 
