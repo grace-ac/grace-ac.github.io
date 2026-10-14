@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Mussel Tissue DNA Extractions - Test with 2025 Samples TEST 2
-date: '2026-10-13'
+date: '2026-10-14'
 categories: [FHL2025]
 ---
 Notes on protocol and process in post. Testing again with correct mussel tissue weights. 
@@ -14,6 +14,8 @@ GitHub Issue with response from SR: [#2507](https://github.com/RobertsLab/resour
 
 
 # Kit and Protocol Notes:
+Extraction performed 2026-10-13
+
 Protocol notes: [here](https://docs.google.com/document/d/1juGroa-ubpDF-hYmn4hHuXhtTBuUJqUBvFeKoWbqe7U/edit?tab=t.wiwke8hrs35u)
 
 The kit reagents that I got from Olivia Graham is missing extra Proteinase K, so a previous [notebook post](https://grace-ac.github.io/proteinaseKnotes/) explains that I can use the proteinase K from old Zymo kits, so long as it's in the correct concentration (20mg/mL). 
