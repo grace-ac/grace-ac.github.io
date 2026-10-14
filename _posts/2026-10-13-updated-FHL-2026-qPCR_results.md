@@ -27,7 +27,7 @@ For all plots, the error bars are the coefficent of variance. For the sample, it
 
 ## By treatment 
 
-![img](../notebook-images/2026-10-13/2026-SQmean-filter_eswab_stderror-by-treatment-CV-bars-alltreatments.png)
+![img](../notebook-images/2026-10-13/2026-SQmean-filter_eswab_stderror-by-sample_y-axis-break_2-CV_bars_real.png)
 
 
 ![img](../notebook-images/2026-10-13/2026-SQmean-filter_eswab_stderror-by-treatment-CV-bars.png)
