@@ -46,7 +46,7 @@ Differential gene expression analysis was run using the [_P. helianthoides_ gene
 
 The analysis is run using `design = ~ condition` where condition is whether the sea star was SSWD-exposed or control. 
 
-This resulted in a list of [5,686 DEGs](https://github.com/grace-ac/project-pycno-multispecies-2023/blob/main/output/43-pycno-D12-DESeq2-topGO/DEGlist_pycno_controlVexposed_DAY12.tab), [4,057 of which have gene ontology annotations](https://github.com/grace-ac/project-pycno-multispecies-2023/blob/main/output/43-pycno-D12-DESeq2-topGO/DEGlist_pycno_controlVexposed_D12_annot.tab). 
+This resulted in a list of [5,686 DEGs](https://github.com/grace-ac/project-pycno-multispecies-2023/blob/main/output/43-pycno-D12-DESeq2-topGO/DEGlist_pycno_controlVexposed_DAY12.tab) with an adjusted p-value <0.05, [4,057 of which have gene ontology annotations](https://github.com/grace-ac/project-pycno-multispecies-2023/blob/main/output/43-pycno-D12-DESeq2-topGO/DEGlist_pycno_controlVexposed_D12_annot.tab). 
 
 ![img](../notebook-images/2026-11-02/pyno-PCA.png)     
 _Figure 1_. PCA plot of the variance transformed data 
