@@ -152,3 +152,20 @@ Enriched terms with BH-correct pvalue (n=3 terms have BH <0.05):
 
 - I'm thinking that I should move forward with these newer results: i.e., the DEG lists from each species that removed low-count genes and the downstream enrichment from there --> the new results presented in this post
 
+# Afternoon Update
+
+I had code already to plot all the terms, not just the parent terms! But I didn't save the plots for some reason. So I re-ran and saved the plots, and here they are below:    
+
+
+![img](../notebook-images/2026-11-03/pycD12_enrichment_terms-BH.png)       
+**Figure 4**. All enriched terms with BH-corrected p-values <0.05 for _P. helianthoides_. Color is based on the Benjamini-hochberg corrected p-value, with lighter blue being smaller value than the darker blue. All terms are <0.05 BH-corrected p-value, and thus are all significantly enriched processes. The x-axis is the gene ratio: the number of DEGs associated with that term divided by the total number of genes in the count matrix associated with that term. The larger the gene ratio, the more DEGs are associated with that term. 
+
+
+![img](../notebook-images/2026-11-03/pisaD12_enrichment_terms-BH.png)         
+**Figure 5.** All enriched terms with BH-corrected p-values <0.05 for _P. ochraceus_. Color is based on the Benjamini-hochberg corrected p-value, with lighter blue being smaller value than the darker blue. All terms are <0.05 BH-corrected p-value, and thus are all significantly enriched processes. The x-axis is the gene ratio: the number of DEGs associated with that term divided by the total number of genes in the count matrix associated with that term. The larger the gene ratio, the more DEGs are associated with that term.
+
+
+![img](../notebook-images/2026-11-03/derD12_enrichment_terms-BH.png)     
+**Figure 6.** All enriched terms with BH-corrected p-values <0.05 for _D. imrbicata_. Color is based on the Benjamini-hochberg corrected p-value, with lighter blue being smaller value than the darker blue. All terms are <0.05 BH-corrected p-value, and thus are all significantly enriched processes. The x-axis is the gene ratio: the number of DEGs associated with that term divided by the total number of genes in the count matrix associated with that term. The larger the gene ratio, the more DEGs are associated with that term.
+
+
