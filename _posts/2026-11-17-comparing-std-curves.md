@@ -31,7 +31,7 @@ I had bad replication for two of my dilutions, the initial results are the first
 **Figure 1.** Standard curve results on qPCR. Ran standards 3.00+06 down to 3.00+00. Set the threshold to 100. 
 
 
-![img](../)      
+![img](../notebook-images/2026-11-17/plate10-cleaned-setthreshold100.PNG)      
 **Figure 2.**  Standard curve results on qPCR. Ran standards 3.00+06 down to 3.00+00. Set the threshold to 100. I removed the replicates that were way off, and the curves and run stats look great. But, moving forward, I need to make sure all triplicates look good. 
 
 
