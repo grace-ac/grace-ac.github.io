@@ -38,7 +38,7 @@ The tubes are in FTR 209 fridge.
 Need to do two batches of DNA extractions of mussel DNA (each batch --> n=16 samples + n=2 DNA extraction blanks). 
 
 The total number of plates needed to be run is:       
-All sample total (including DNA extraction blnaks) = 86        
+All sample total (including DNA extraction blanks) = 86        
 Number of samples run per plate = 16         
 **Total number of plates to run = 5-6 plates**      
 
